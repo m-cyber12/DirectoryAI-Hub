@@ -1,0 +1,80 @@
+name: Auto-Translate Content
+
+# i18n (2026-08-07) — the reliable "new content gets translated" pipeline.
+#
+# Vercel Hobby does not run scheduled crons, so this GitHub Action is the
+# dependable scheduler: it runs the same incremental sync as
+# /api/cron/translate, and additionally COMMITS the snapshot JSON
+# (src/i18n-content/{locale}.json) so every locale renders translated
+# content even with no database configured.
+#
+# Required repo secrets:
+#   OPENAI_API_KEY                 — the professional translation engine
+#   SUPABASE_URL                   — optional, for DB-backed storage
+#   SUPABASE_SERVICE_ROLE_KEY      — optional, for DB-backed storage
+#
+# Runs daily at 03:17 UTC plus on manual dispatch. New content committed by
+# the blog generator (or any other workflow) is picked up on the next run.
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Entities per locale per run'
+        required: false
+        default: '80'
+      locales:
+        description: 'Comma-separated locales (empty = all)'
+        required: false
+        default: ''
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run incremental translation sync
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          LOCALES_FLAG=""
+          if [ -n "${{ github.event.inputs.locales }}" ]; then
+            LOCALES_FLAG="--locales ${{ github.event.inputs.locales }}"
+          fi
+          node --import tsx scripts/translate.mts --content \
+            --limit ${{ github.event.inputs.limit || '80' }} \
+            --snapshot $LOCALES_FLAG
+
+      - name: Commit translation snapshots
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto-translations
+          commit-message: '🌐 auto: refresh content translations'
+          title: '🌐 Auto-translated content update'
+          body: |
+            Automated translation sync by the professional LLM translation
+            engine. Updated `src/i18n-content/*.json` snapshots (and any
+            `messages/*.json` changes) so the site's 7 non-English locales
+            stay current as new tools, news and blog posts are added.
+
+            Review quickly and merge — translations are additive and fall
+            back to English when missing.
+          delete-branch: true
+          token: ${{ secrets.GITHUB_TOKEN }}

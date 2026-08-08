@@ -1,0 +1,207 @@
+tool_slug,official_pricing_source,http_status,source_response,prices_found_count,prices_found,page_title,manual_plan_validation
+opusclip,https://www.opus.pro/pricing,200,yes,10,"$2,70 | $ 15 | $15 | $ 29 | $ 14.5 | $ 174 | $0 | $ 8.4 | $15/mo | $29/mo",Pricing - OpusClip,required
+munch,https://go.getmunch.com/solutions/social-media-managers,,no,0,,,required
+vidyo-ai,https://quso.ai/pricing,200,yes,7,$0 /mo | $29 /mo | $19/mo | $39 /mo | $26/mo | $49 /mo | $33/mo,Pricing — quso.ai,required
+klap,https://klap.app/pricing,200,yes,3,$14 /mo | $39 /mo | $94 /mo,"Klap Pricing | Plans for Creators, Teams & API Users",required
+submagic,https://www.submagic.co/pricing,200,yes,44,$19 | $38 | $39 | $58 | $40 /month | $120 /month | $69 | $88 | $75/mo | $0.15 / min | $150/mo | $300/mo | $500/mo | $0.10 / min | $1000/mo | $12 | $24 | $84 | $23 | $35 | $192 | $41 | $53 | $336 | € 38 | € 58 | € 88 | € 24 | € 35 | € 53 | $ 79 | $ 158 | $ 159 | $ 238 | $ 279 | $0 /month | $ 39 | $ 78 | $ 480 | $ 118 | $ 960 | $ 139 | $ 178 | $ 1680,Pricing for Submagic,required
+autoshorts,https://autoshorts.ai/pricing,404,no,0,,AutoShorts.ai | #1 Faceless Video Generator for TikTok & YouTube,required
+pictory,https://pictory.ai/pricing,200,yes,25,$25 per Month | $210 | $ 25 | $29 per month | $ 35 | $59 per month | $ 119 | $199 per month | $ 29 per month | $ 59 per month | $ 199 per month | $ 25 /month | $ 35 /month | $ 11 | $4614 | $35 | $150 | $3600 | $300 | $84 | $480 | $35 per month | $4374 | $59 | $35/month,Pictory Pricing | From $25 per Month,required
+invideo,https://invideo.io/pricing/,200,yes,0,,Pricing | invideo AI,required
+clipchamp,https://clipchamp.com/en/pricing/,200,yes,0,,Compare free editing tools and premium access with Microsoft 365,required
+capcut,https://www.capcut.com/pricing,404,no,0,,404 Not Found,required
+runway,https://runway.com/pricing,200,yes,11,$12/month | $0 /month | $36/year | $15 | $12 /month | $84/year | $35 | $28 /month | $228/year | $95 | $76 /month,AI Image and Video Pricing from $12/month | Runway AI,required
+descript,https://www.descript.com/pricing,200,yes,6,$16 | $24 | $35 | $50 | $65 | $0,"Descript Pricing | Plans for Every Creator, Free to Start",required
+filmora,https://filmora.wondershare.com/shop/buy/buy-video-editor.html,200,yes,4,US$ 49.99 /yr | US$ 59.99 /yr | US$ 69.99 | US$ 79.99,Buy Wondershare Filmora Official Online Shop,required
+veed,https://www.veed.io/pricing,200,yes,0,,Pricing - VEED.IO,required
+adobe-premiere-pro,https://www.adobe.com/products/premiere.html,,no,0,,,required
+davinci-resolve,https://www.blackmagicdesign.com/products/davinciresolve,200,yes,34,"$295 | $435 | $559 | $669 | $2,31 | $34,66 | $3,52 | $5,16 | $24,74 | $33,74 | $44,99 | $55,12 | $475 | $445 | $4,69 | $2,87 | $5,22 | $1,52 | $9,67 | $10,79 | $13,98 | $14,62 | $315 | $425 | $705 | $819 | $939 | $275 | $289 | $225 | $479 | $235 | $1,29 | $2,79",DaVinci Resolve | Blackmagic Design,required
+final-cut-pro,https://www.apple.com/final-cut-pro/,200,yes,7,$12.99 per month | $129 per year | $2.99 per month | $29.99 per year | $299.99 | $12.99/month | $129/year,Final Cut Pro - Apple,required
+synthesia,https://www.synthesia.io/pricing,200,yes,14,"$ 18 /month | $ 29 /mo | $ 89 /mo | $ 0 /mo | $1000/year | $1,00 | $ 29 /month | $ 18 /mo | $ 89 /month | $ 64 /mo | $29 per month | $264 | $89/month | $804/year",Synthesia Pricing - Compare Free and Paid Plans,required
+heygen,https://www.heygen.com/pricing,200,yes,11,"$0/mo | $29 / mo | $49 / mo | $149 / mo | $20 | $29/month | $24/month | $49/month | $149/month | $49 | $4,30",Pricing Plans for Creators and Marketers | HeyGen,required
+d-id,https://www.d-id.com/pricing/studio/,200,yes,0,,D-ID Pricing Plans | Generative AI Video Platform,required
+elevenlabs,https://elevenlabs.io/pricing,200,yes,22,$0 per month | $6 per month | $22 | $11 per month | $99 per month | $299 per month | $990 per month | $0.36 | $0.20 | $0.18 | $0.17 | $0 | $6 | $11 | $99 | $299 | $990 | $5 | $18.33 | $82.50 | $249.17 | $825,ElevenLabs Pricing for Creators & Businesses of All Sizes,required
+murf-ai,https://murf.ai/pricing,200,yes,0,,Murf,required
+descript-overdub,https://www.descript.com/pricing,200,yes,6,$16 | $24 | $35 | $50 | $65 | $0,"Descript Pricing | Plans for Every Creator, Free to Start",required
+resemble-ai,https://www.resemble.ai/pricing,200,yes,15,"$0 /mo | $350 /mo | $280 /mo | $840/yr | $1,00 | $800 /mo | $2,40 | $350/mo | $280/mo | $800/mo | $0.03 | $0.01 | $0.07 | $0.02 | $0.00",Deepfake Detection & AI Security Pricing | Resemble AI,required
+lovo-ai,https://lovo.ai/pricing,402,no,0,,,required
+adobe-podcast,https://podcast.adobe.com/enhance/pricing,200,yes,0,,"Adobe Podcast | AI audio recording and editing, all on the web",required
+auphonic,https://auphonic.com/pricing,200,yes,0,,Pricing | Auphonic,required
+krisp,https://krisp.ai/pricing/,200,yes,6,$0 | $16 /mo | $8 /mo | $30 /mo | $15 /mo | $10,Krisp Pricing Plans,required
+cleanvoice,https://cleanvoice.ai/pricing/,200,yes,12,€10/month | $ 11 | $ 2.20 /hour | $ 20 | $ 2.00 /hour | $ 45 | $ 1.50 /hour | $ 1.10 /hour | $ 30 | $ 1.00 /hour | $ 90 | $ 0.90 /hour,"Pricing — Start Free, Plans from €10/month | Cleanvoice AI",required
+colossyan,https://www.colossyan.com/pricing/,200,yes,7,"$27/mo | $59 /mo | $ 30 /mo | $27/month | $59/month | $1000 per year | $1,50",Pricing — Colossyan,required
+elai-io,https://elai.io/pricing,200,yes,15,$ 0 | $ 29 /Month | $ 23 /Month | $ 276 | $1.93/minute | $1.53/minute | $ 125 /Month | $ 100 /Month | $ 1200 | $2.50/minute | $2.00/minute | $500 | $199 | $200 | $2,Our Pricing - Elai.io,required
+canva,https://www.canva.com/pricing/,403,no,0,,Canva,required
+adobe-express,https://www.adobe.com/express/pricing,,no,0,,,required
+thumbly-ai,https://thumbly.ai/pricing,200,yes,6,$3.99 | $0.40 per image | $8.99 | $0.36 per image | $14.99 | $0.30 per image,Thumbly Pricing - AI Thumbnail & Logo Credits,required
+snappa,https://snappa.com/pricing,200,yes,4,$15 /mo | $10 /mo | $30 /mo | $20 /mo,Pricing - Snappa,required
+jasper,https://www.jasper.ai/pricing,200,yes,4,$ 69 | $ 59 | $59/month | $69/month,Plans & Pricing | Jasper,required
+copy-ai,https://www.copy.ai/prices,200,yes,12,"$29/mo | $24/mo | $288/yr | $1,00 | $12,00 | $2,00 | $24,00 | $3,00 | $36,00 | $650 | $ 2.6 | $ 650",Plans & Pricing | Copy.ai,required
+chatgpt,https://chatgpt.com/pricing,403,no,0,,,required
+claude,https://claude.com/pricing,200,yes,34,$0 | $17 Per month | $200 | $20 | $100 Per month | $25 | $100 | $125 | $ 10 | $ 50 | $ 12.50 | $ 1 | $ 5 | $ 25 | $ 6.25 | $ 0.50 | $ 2 | $ 2.50 | $ 0.20 | $2 | $10 | $3 | $15 | $ 1.25 | $ 0.10 | $0.08 | $0.05 per hour | $ 3 | $ 15 | $ 3.75 | $ 0.30 | $ 75 | $ 18.75 | $ 1.50,Plans & Pricing | Claude by Anthropic,required
+writesonic,https://writesonic.com/pricing,200,yes,12,$ 79 | $240/year | $ 199 | $600/year | $ 399 | $1200/year | $350 | $ 79 /mo | $ 199 /mo | $ 399 /mo | $100/mo | $50,Pricing | Writesonic AI Search Visibility Platform,required
+zapier,https://zapier.com/pricing,200,yes,9,$0 /month | $19.99 /month | $69 /month | $400 | $33.33 /month | $160 | $13.33 /month | $800 | $66.67 /month,Plans & Pricing | Zapier,required
+make,https://www.make.com/en/pricing,403,no,0,,Just a moment...,required
+n8n,https://n8n.io/pricing/,200,yes,0,,n8n Plans and Pricing - n8n.io,required
+repurpose-io,https://repurpose.io/pricing/,200,yes,12,$1.17 | $35 | $2.63 | $79 | $5.97 | $179 | $ 0.97 | $349 | $2.19 | $790 | $4.97 | $1790,Pricing » Repurpose.io,required
+tubebuddy,https://www.tubebuddy.com/pricing,200,yes,0,,Pricing - TubeBuddy - The Premier YouTube Channel Management Toolkit,required
+sora,https://openai.com/chatgpt/pricing/,403,no,0,,,required
+google-veo,https://one.google.com/about/google-ai-plans/,200,yes,6,$10 | $10/mo | $40 | $20/mo | $8/mo | $100,Google AI plans with Cloud Storage - Google One,required
+pika,https://pika.art/pricing,200,yes,4,$0 | $8 / month | $28 / month | $76 / month,Pika,required
+luma-dream-machine,https://lumalabs.ai/pricing,200,yes,6,"$30 /month | $300 | $90 /month | $900 | $300 /month | $3,00",Plans & Pricing | Luma,required
+kling-ai,https://www.klingai.com/pricing,200,yes,0,,Kling AI,required
+hailuo-ai,https://hailuoai.video/pricing,200,yes,0,,Hailuo AI Video & Image Generator for Creators Online,required
+haiper,https://haiper.ai/pricing,404,no,0,,Page not found · GitHub Pages,required
+vidu,https://www.vidu.com/pricing,200,yes,0,,Vidu Pricing Plans for AI Video Generation | Vidu AI,required
+pixverse,https://pixverse.ai/en/pricing,404,no,0,,PixVerse | Create Amazing AI Videos from Text & Photos with AI Video Generator,required
+ltx-studio,https://ltx.io/studio/pricing,200,yes,16,"$0 | $15 | $12 /month | $144 | $35 | $28 /month | $336 | $125 | $100 /month | $1,20 | $15 /month | $15 / month | $35 /month | $35 / month | $125 /month | $125 / month",LTX Studio | Pricing,required
+kaiber,https://kaiber.ai/pricing,200,yes,0,,Kaiber,required
+krea-ai,https://www.krea.ai/pricing,200,yes,8,$5.25/mo | $21/mo | $63/mo | $0/month | $5.25/month | $21/month | $63/month | $160/month,Krea,required
+genmo,https://www.genmo.ai/pricing,200,yes,1,$0 /month,Pricing | Genmo,required
+higgsfield,https://higgsfield.ai/pricing,200,yes,0,,Pricing plans — Higgsfield AI Video & Image Generator,required
+moonvalley,https://www.moonvalley.com/pricing,404,no,0,,moonvalley - the imagination research company,required
+neural-frames,https://www.neuralframes.com/pricing,200,yes,9,$39 | $26 /mo | $312 | $99 | $66 /mo | $792 | $299 | $199 /mo | $2388,neural frames | Pricing options,required
+fliki,https://fliki.ai/pricing,200,yes,0,,Pricing - Fliki,required
+lumen5,https://lumen5.com/pricing/,200,yes,0,,Lumen5 - AI Video Maker | Generate Videos from Text Online,required
+steveai,https://app.steve.ai/pricing,200,yes,22,$19 | $60 / mo | $45 / mo | $540 | $ 15 / mo | $ 45 / mo | $5 | $ 19 / mo | $ 60 / mo | $ 20 / mo | $ 10 / mo | $ 39 / mo | $60 | $150 | $ 10 /Mo | $ 30 /Mo | $ 40 /Mo | $120 | $360 | $480 | $20 | $80,"Steve AI Pricing: Free, $19 Plans and more for AI Video Creation",required
+viggle,https://viggle.ai/pricing,200,yes,10,$ 0.00 /mo | $ 7.99 | $ 9.99 /mo | $ 15.99 | $ 19.99 /mo | $ 63.99 | $ 79.99 /mo | $ 9.99 /month | $ 19.99 /month | $ 79.99 /month,Pricing | Viggle AI,required
+domo-ai,https://www.domoai.app/pricing,200,yes,4,$ 6.99 / month | $0.01 | $ 19.59 / month | $ 48.99 / month,Pricing | DomoAI,required
+pollo-ai,https://pollo.ai/pricing,200,yes,0,,Plans & Pricing | Pollo AI,required
+goenhance,https://www.goenhance.ai/pricing,404,no,0,,,required
+stable-video-diffusion,https://stability.ai/brand-studio-plans,200,yes,2,$50 /month | $50 per month,Brand Studio Plans — Stability AI,required
+hunyuan-video,https://github.com/Tencent-Hunyuan/HunyuanVideo,200,yes,0,,GitHub - Tencent-Hunyuan/HunyuanVideo: HunyuanVideo: A Systematic Framework For Large Video Generation Model · GitHub,required
+wan,https://github.com/Wan-Video/Wan2.1,200,yes,0,,GitHub - Wan-Video/Wan2.1: Wan: Open and Advanced Large-Scale Video Generative Models · GitHub,required
+seedance,https://seed.bytedance.com/en/,200,yes,0,,ByteDance Seed,required
+hedra,https://www.hedra.com/pricing,200,yes,3,$ 15 / month | $ 30 / month | $ 75 / month,"Hedra Pricing | Free Plan, No Credit Card",required
+immersity-ai,https://immersity.ai/pricing,200,yes,6,$ 0 | $ 4.99 per month | $ 14.99 per month | $ 24.99 per month | $ 49.99 per month | $ 99.99 per month,Immersity for Web Pricing,required
+topaz-video-ai,https://www.topazlabs.com/pricing,200,yes,57,$19 | $12/mo | $1 | $39 | $19/mo | $0.10 | $34/mo | $399 | $69/mo | $39/mo | $29/mo | $59/mo | $59 | $35/mo | $17 | $9/mo | $199 | $109 | $50 | $27/mo | $599 | $329 | $99/mo | $0.07 | $299/mo | $0.06 | $28/mo | $328 | $70/mo | $832 | $210/mo | $2512 | $75/mo | $200/mo | $206/mo | $206 | $69 /mo | $79 /mo | $45/mo | $399/yr | $79/mo | $799/yr | $74/mo | $25/mo | $299 | $58/mo | $699 | $63/mo | $17/mo | $50/mo | $54/mo | $149 | $42/mo | $499 | $229 | $41/mo | $490,Product Pricing,required
+captions,https://captions.ai/pricing,200,yes,4,$24.99/mo | $69.99/mo | $139.99/mo | $279.99/mo,Captions AI Pricing and Subscription Plans | Captions,required
+kapwing,https://www.kapwing.com/pricing,200,yes,9,$ 0 | $ 16 | $24 | $ 50 | $64 | $16/month | $192/year | $50/month | $600/year,Pricing â Kapwing,required
+flexclip,https://www.flexclip.com/pricing,200,yes,0,,Pricing - FlexClip,required
+gling,https://www.gling.ai/pricing,200,yes,6,$ 0 | $ 20 /mo | $ 40 /mo | $ 100 /mo | $ 10 /mo | $ 50 /mo,Pricing,required
+timebolt,https://www.timebolt.io/pricing,200,yes,6,$17 /mo | $0 | $97 /year | $347 | $97 | $0.03/min,TimeBolt Pricing,required
+autopod,https://www.autopod.fm/pricing,200,yes,1,$29 /mo,AutoPod | Pricing,required
+wisecut,https://wisecut.ai/pricing,200,yes,11,US$ 23.25 /mo | US$ 279 | US$ 60/year | US$ 83.25 /mo | US$ 999 | US$ 420/year | US$ 0.00 /mo | US$ 25 | US$ 69 | US$ 189 | US$ 429,Wisecut Pricing — Create with AI. Automate with Plus.,required
+powerdirector,https://www.cyberlink.com/products/powerdirector-video-editing-software/pricing_en_US.html,200,yes,10,$139.99 | $79.99 | $59.99 | $5.00 /month | $2.92 /month | $34.99/yr | $4.17 /month | $49.99/yr | $99.99 | $8.33 /month,PowerDirector - Plans & Pricing,required
+unscreen,https://www.canva.com/features/video-background-remover/,403,no,0,,Canva,required
+cutoutpro,https://www.cutout.pro/pricing,404,no,0,,This page could not be found,required
+vizard,https://vizard.ai/pricing,200,yes,2,$0 | $0/mo,Pricing - Choose the perfect plan for you,required
+2shortai,https://www.2short.ai/pricing,200,yes,3,$9.90 /mo | $19.90 /mo | $49.90 /mo,2short.ai - AI YouTube Shorts generator,required
+spikes-studio,https://www.spikes.studio/pricing,200,yes,11,"$2,70 | $0.00 /month | $14.09 /month | $0,01 | $56.34 /month | $0,00 | $32.99 /month | $0.1 per min | $115.99 /month | $0.09 per min | $12.99 /month",Pricing,required
+chopcast,https://www.chopcast.io/pricing,200,yes,5,$12 | $19 | $29 | $31 | $49,chopcast pricing page,required
+eklipse,https://eklipse.gg,200,yes,0,,AI Clip Maker for Gamers & Streamers - Eklipse,required
+powder,https://docs.google.com/document/d/1p8TjN7bCRdOnhrD5DjG02pmoGi4ylsGKmdCS-YV4jrg/edit?tab=t.0,200,yes,0,,To the Powder community - Google Docs,required
+revidai,https://www.revid.ai/pricing,200,yes,3,$ 39 /month | $ 99 | $ 199 /month,"Revid AI Pricing: Plans, Credits & Features",required
+crayo,https://crayo.ai/pricing,200,yes,6,$ 13 /month | $160 | $ 27 /month | $327 | $ 55 /month | $664,Crayo Pricing | Plans for every creator,required
+zebracat,https://www.zebracat.ai/pricing,200,yes,16,$39 /mo | $99 /mo | $199 /mo | $599 | $39/mo | $99/mo | $199/mo | $39 | $19 /mo | $99 | $49 /mo | $199 | $19/mo | $49/mo | $29/month | $79/month,Pricing | Zebracat,required
+syllaby,https://syllaby.io/pricing/,200,yes,20,$ 29 /Month | $ 53 /Month | $ 78 /Month | $ 102 /Month | $ 153 /Month | $ 24 | $29 | $296 | $ 45 | $53 | $541 | $ 66 | $78 | $796 | $ 86 | $102 | $1040 | $130 | $153 | $1561,Pricing – Syllaby.io,required
+headliner,https://www.headliner.app/pricing,202,yes,0,,,required
+recast-studio,https://www.recast.studio/pricing,,no,0,,,required
+rask-ai,https://www.rask.ai/pricing,200,yes,40,$ 0 | $ 60 /mo | $ 150 /mo | $ 750 /mo | $324/year | $ 60 | $ 33 /mo | $396 | $864/year | $ 150 | $ 78 /mo | $936 | $3.00 | $ 750 | $ 500 /mo | $6.00 | $ 0 /mo | $ 33 | $ 78 | $ 500 | $3 | $60/month | $50/month | $100/month | $80/month | $150/month | $120/month | $300/month | $240/month | $450/month | $360/month | $750/month | $600/month | $1125/month | $900/month | $1500/month | $1200/month | $3000/month | $2400/month | $3 per minute,AI video and audio localization platform. Made for global businesses.,required
+papercup,https://www.papercup.com/contact,403,no,0,,403 Forbidden,required
+dubverse,https://dubverse.ai/pricing/,200,yes,6,$18 | $30 | $9 | $108 | $15 | $180,Pricing for AI dubbing services - Dubverse.ai,required
+speechify,https://speechify.com/pricing/,200,yes,1,$29 /Month,Speechify Pricing for the Free & Premium TTS Plans | Speechify,required
+wellsaid-labs,https://www.wellsaid.io/ai-voice-pricing,200,yes,12,"$10 /mo | $108/yr | $120/year | $33 /mo | $192/yr | $396/year | $19 /mo | $49 /mo | $160 /mo | $1,92 | $200 | $296,00",Pricing | WellSaid AI Voice Studio,required
+podcastle,https://async.com/pricing,200,yes,1,$0,Pricing | Async,required
+riverside,https://riverside.com/pricing,200,yes,16,$0 /month | $288 | $408 | $0 | $29 | $24 /mo | $39 | $34 /mo | $99 | $79 /mo | $288 per year | $24/month | $34 | $79 | $20 | $300,Plans & Pricing - Riverside,required
+lalalai,https://www.lalal.ai/pricing/,200,yes,7,$7.5 /mo | $90 | $15 /mo | $180 | $50 | $190 | $300,Pricing | LALAL.AI,required
+voicemod,https://www.voicemod.net/,200,yes,0,,Free Real Time Voice Changer for PC & Mac | Voicemod,required
+fish-audio,https://fish.audio/pricing/,404,no,0,,Best AI Text To Speech & Free Voice Cloning | Fish Audio,required
+cartesia,https://www.cartesia.ai/pricing,200,yes,10,$0 /mo | $1 | $5 /mo | $5 | $49 /mo | $49 | $299 /mo | $299 | $0.06 per minute | $0.01,Cartesia | Pricing,required
+kits-ai,https://www.kits.ai/pricing,200,yes,8,$0 per month | $10 per month | $30 per month | $60 per month | $0 | $10/mo | $30/mo | $60/mo,Pricing - Kits.AI,required
+moises,https://moises.ai/,200,yes,0,,Moises App: The Musician's App | Vocal Remover & much more,required
+cambai,https://www.camb.ai/pricing,200,yes,17,"$0 / month | $5 / month | $20 / month | $75 / month | $250 / month | $900/ month | $0 / year | $60 | $55 / year | $240 | $220 / year | $900 | $750/ year | $3.00 | $2,50 | $10.00 | $9,00","CAMB.AI Pricing | AI Text to Speech, Dubbing & Streaming",required
+deepdub,https://deepdub.ai/contact,404,no,0,,Not Found,required
+vozo-ai,https://www.vozo.ai/pricing,200,yes,6,"$ 0 | $ 29 | $ 99 | $200 | $600 / video | $12,00",Plans & Pricing | Vozo,required
+suno,https://suno.com/pricing,200,yes,5,$0 /month | $8 /month | $24 | $24 /month | $72,Suno | Pricing,required
+udio,https://www.udio.com/pricing,200,yes,0,,Udio Pricing - Flexible Plans for AI Music Creation,required
+soundraw,https://soundraw.io/pricing,404,no,0,,The page you were looking for doesn't exist (404),required
+aiva,https://www.aiva.ai/pricing,200,yes,3,€0 | €11 / month | €33 / month,"AIVA, the AI Music Generation Assistant",required
+mubert,https://mubert.com/render/pricing,200,yes,0,,Mubert Subscription - Buy Royalty-Free Music | Mubert Render,required
+beatovenai,https://www.beatoven.ai/pricing,404,no,0,,Not Found,required
+soundful,https://soundful.com/pricing/,200,yes,1,$1,Pricing - Soundful,required
+loudly,https://www.loudly.com/pricing,404,no,0,,Page not found - Loudly,required
+stable-audio,https://stableaudio.com/pricing,200,yes,0,,Stable Audio - Pricing,required
+elevenlabs-sfx,https://elevenlabs.io/pricing,200,yes,22,$0 per month | $6 per month | $22 | $11 per month | $99 per month | $299 per month | $990 per month | $0.36 | $0.20 | $0.18 | $0.17 | $0 | $6 | $11 | $99 | $299 | $990 | $5 | $18.33 | $82.50 | $249.17 | $825,ElevenLabs Pricing for Creators & Businesses of All Sizes,required
+deepbrain-ai,https://www.aistudios.com/pricing,200,yes,6,$0 /mo | $24 /mo | $55 | $99 /mo | $24 /month | $55 /month,AI Video Generator Pricing · Plans & Free Trial | AI Studios,required
+vidnoz,https://www.vidnoz.com/pricing.html,200,yes,9,$ 0.00 | $2 /credit | $0/mo | $0 | $299/yr | $598 | $9.99/mo | $19.99 | $60,Vidnoz AI Pricing - Choose A Plan That Perfectly Fit Your Needs,required
+yepic-ai,https://www.yepic.ai/pricing,200,yes,0,,Private AI Deployment Pricing | API & On-Premise | Yepic,required
+argil,https://www.argil.ai/pricing,200,yes,0,,Pricing | Argil,required
+tavus,https://www.tavus.io/pricing,200,yes,19,$0/mo | $20/mo | $50/mo | $59/mo | $397/mo | $65 | $40 | $0.37/min | $0.32/min | $0.03/min | $1 per minute | $0.90/min | $22/mo | $975/mo | $0.35 per minute | $0.31 per minute | $0.26 per minute | $0.90 per minute | $0.80 per minute,Plans and Pricing - Tavus,required
+bhuman,https://www.bhuman.ai/pricing,200,yes,6,$9/mo | $6.00/min | $25/mo | $5.00/min | $99/mo | $3.30/min,Pricing | BHuman,required
+akool,https://www.akool.com/pricing,200,yes,4,$ 0 | $0 | $30 | $30/month,"Akool Pricing | Plans for Creators, Teams, and Enterprises",required
+midjourney,https://www.midjourney.com/pricing,200,yes,0,,,required
+ideogram,https://ideogram.ai/pricing/,200,yes,0,,Ideogram,required
+leonardo-ai,https://leonardo.ai/pricing,403,no,0,,Just a moment...,required
+adobe-firefly,https://www.adobe.com/plans.html,,no,0,,,required
+flux,https://bfl.ai/pricing,200,yes,2,$ 0.17 | $ 0.85,Pricing | Black Forest Labs,required
+recraft,https://www.recraft.ai/pricing,200,yes,0,,Pricing and plans - Recraft,required
+photoroom,https://www.photoroom.com/pricing,200,yes,0,,"Photoroom Pricing: Plans, Prices & Free Trial | Photoroom",required
+removebg,https://www.remove.bg/pricing,200,yes,0,,Pricing – remove.bg,required
+fotor,https://www.fotor.com/pricing/,200,yes,1,US$ 0,Pricing | Fotor - Photo Editing & Collage Maker & Graphic Design,required
+pixlr,https://pixlr.com/pricing/,200,yes,11,$2.49 per month | $2.49 | $1.99 per month | $9.99 per month | $9.99 | $7.99 per month | $24.99 per month | $24.99 | $19.99 per month | $49.99 | $39.99 per month,Photo Editing Tools Pricing and Plans - Pixlr Editor,required
+thumbnailtest,https://thumbnailtest.com/pricing/,200,yes,8,$29 /month | $19/mo | $49 /month | $99 /month | $ 32 /month | $44 /month | $75 /month | $1,Pricing - Thumbnail Test,required
+magnific,https://magnific.ai/pricing,404,no,0,,Magnific AI — The magic image Upscaler & Enhancer,required
+upscayl,https://upscayl.org/,200,yes,2,$40/month | $100/yr,Upscayl - AI Image Upscaler,required
+gemini,https://one.google.com/about/google-ai-plans/,200,yes,6,$10 | $10/mo | $40 | $20/mo | $8/mo | $100,Google AI plans with Cloud Storage - Google One,required
+perplexity,https://www.perplexity.ai/pro,403,no,0,,Just a moment...,required
+notion-ai,https://www.notion.com/pricing,200,yes,5,$0 | $10 | $20 | $8/month | $10/month,"Notion Pricing Plans: Free, Plus, Business, & Enterprise.",required
+grammarly,https://www.grammarly.com/plans,200,yes,2,$0 | $12,Grammarly Prices and Plans | Grammarly,required
+quillbot,https://quillbot.com/premium,200,yes,2,$0 | $8.33,Quillbot Premium: Write Without Limits,required
+rytr,https://rytr.me/pricing,200,yes,3,$0 | $7.50 | $24.16,Pricing - Rytr,required
+sudowrite,https://sudowrite.com/pricing,200,yes,3,$ 10 per month | $ 22 per month | $ 44 per month,Sudowrite - Plans and Pricing for the best AI writing partner for authors,required
+subscribr,https://subscribr.ai/plans,200,yes,12,$299/year | $149 | $99 | $37 | $49 | $249 | $299 /year | $24.92/month | $697 | $747 /year | $62.25/month | $1.25 per credit,Subscribr Pricing Plans - AI YouTube Script Writer from $299/year,required
+wordtune,https://www.wordtune.com/plans,200,yes,7,$0.00 | $6.99 | $4.89 per month | $9.99 | $6.99 per month | $4.89 / month | $6.99 / month,Wordtune Pricing and Plans | Choose Your Plan,required
+hypotenuse-ai,https://www.hypotenuse.ai/pricing,200,yes,0,,Pricing - Hypotenuse AI,required
+grok,https://x.ai/pricing,200,yes,2,$0 /month | $30 /month,Pricing: Compare Grok Plans | SpaceXAI,required
+deepseek,https://www.deepseek.com/,200,yes,0,,DeepSeek | æ·±åº¦æ±ç´¢,required
+surfer,https://surferseo.com/pricing/,200,yes,6,$240 | $444 | $720 | $324 | $158/mo | $120,Positive Surfer - Pricing,required
+frase,https://www.frase.io/pricing,200,yes,20,$39 /mo | $49/mo | $103 /mo | $129/mo | $29/mo | $239 /mo | $299/mo | $0 | $19 /mo | $99 /mo | $19/mo | $39/mo | $99/mo | $5 | $0.50 | $0.25 | $4 | $0.40 | $0.20 | $1.00,Frase Pricing | SEO & GEO Content Platform Plans,required
+promptbase,https://promptbase.com/,200,yes,8,$4.99 | $3.99 | $8.99 | $2.99 | $6.99 | $24.99 | $5.99 | $19/mo,AI Prompts | PromptBase: The #1 Marketplace for AI Prompts,required
+prompthero,https://prompthero.com/,200,yes,0,,Search Prompts for AI Image & Video Generation | PromptHero,required
+aiprm,https://www.aiprm.com/pricing/,200,yes,2,$33 | $10,Pricing of AIPRM Premium Plans · AIPRM,required
+whisper,https://github.com/openai/whisper,200,yes,0,,GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision · GitHub,required
+otterai,https://otter.ai/pricing,200,yes,11,$16 | $8 | $30 | $24 | $4 | $19 | $8.33 | $19.99 | $6.67 | $79.99 | $13.59,Pricing | Otter.ai,required
+rev,https://www.rev.com/pricing,200,yes,8,$25.49 | $29.99 | $359.88 | $305.90 | $47.99 | $59.99 | $719.88 | $575.88,Subscription Plans + Per-Minute Pricing | Rev,required
+trint,https://trint.com/pricing,404,no,0,,Not Found,required
+sonix,https://sonix.ai/pricing,200,yes,10,$10/hr | $25/mo | $275/yr | $25 | $50/mo | $550/yr | $50 | $80/mo | $880/yr | $80,Pricing: The most affordable speech-to-text platform | Sonix,required
+deepgram,https://deepgram.com/pricing,200,yes,14,$200 | $4 | $0.00 | $0.03 | $0.02 | $0.01 | $0.07 | $0.06 | $0.05 | $0.04 | $0.16 | $0.14 | $0.12 | $0.11,"Deepgram Pricing | Scalable Speech-to-Text, Text-to-Speech & Voice Agent APIs",required
+assemblyai,https://www.assemblyai.com/pricing,200,yes,38,$0.21 /hr | $0.15 /hr | $0.05 /hr | $0.02 /hr | $0.45 /hr | $0.04 /hr | $0.12 /hr | $0.10 /hr | $4.50/hr | $0.07 | $0.06 /hr | $0.03 /hr | $0.08 /hr | $0.01 /hr | $5.00 | $30.00 | $1.75 | $14.00 | $1.25 | $10.00 | $25.00 | $3.00 | $15.00 | $0.25 | $2.00 | $0.05 | $0.40 | $8.00 | $0.30 | $0.15 | $0.60 | $1.00 | $1.50 | $9.00 | $0.50 | $2.50 | $0.10 | $1.20,AssemblyAI | Pricing | Production-ready AI Models,required
+happy-scribe,https://www.happyscribe.com/pricing,200,yes,19,$2.00/min | $17 / month | $8.50 / month | $0.20/min | $29 / month | $19 / month | $29/month | $19/month | $89 / month | $59 / month | $1.90/min | $17 | $8.50 /mo | $29 | $19 /mo | $89 | $59 /mo | $29/mo | $19/mo,Pricing and Rates | HappyScribe,required
+macwhisper,https://goodsnooze.gumroad.com/l/macwhisper,200,yes,0,,🎙️ MacWhisper,required
+zeemo,https://zeemo.ai/pricing,200,yes,7,US$0 /mo | US$9.99/mo | US$8 /mo | US$19.99/mo | US$13.39 /mo | US$23.99/mo | US$16.07 /mo,Pricing - Affordable Plan for Video Subtitling | Zeemo AI,required
+zubtitle,https://zubtitle.com/pricing,200,yes,16,$0 /mo | $19 /mo | $190 | $49 /mo | $490 | $0 /yr | $190 /yr | $38 | $490 /yr | $98 | $0 per mo | $19 per mo | $90/yr | $18 | $49 per mo | $490/yr,Pricing - Zubtitle,required
+checksub,https://www.checksub.com/pricing,200,yes,9,$18 /month | $59 /month | $299/month | $12 /month | $144/year | $48 /month | $576/year | $144 /year | $576 /year,Checksub Pricing - Get More From Your Videos,required
+amberscript,https://www.amberscript.com/en/pricing/,200,yes,16,€19 / month | €3.8 / hour | €29 / month | €2.9 / hour | €49 / month | €1.96 / hour | €190 / year | €3.16 / hour | €290 / year | €2.41 / hour | €490 / year | €1.63 / hour | €10 | €10 / hour | €1.85/min | €4.40/min,Pricing — Transcription & Subtitling | Amberscript,required
+vidiq,https://vidiq.com/plans/,200,yes,4,$0 | $0 /month | $39 /month | $120,"Pricing & Plans Boost, 1-on-1 Coaching & Enterprise | vidIQ",required
+1of10,https://1of10.com:443/pricing,200,yes,7,$ 0 per month | $ 29 per month | $ 349 /year | $ 239 | $ 69 per month | $ 828 /year | $ 240,Pricing â Simple & Transparent Plans | 1of10,required
+spotter-studio,https://www.spotterstudio.com/pricing,401,no,0,,Protected page,required
+taja-ai,https://www.taja.ai/pricing,200,yes,9,$ 19.99 /MONTH | $ 49.99 /Month | $ 99.99 /Month | $ 15.99 /month | $ 39.99 /month | $ 79.99 /month | $19 /month | $49 /month | $99 /month,Taja AI Pricing,required
+viewstats,https://www.viewstats.com/pricing,200,yes,1,$249 / mo,YouTube Channel Statistics - Viewstats,required
+tuberanker,https://www.tuberanker.com/pricing,403,no,0,,Just a moment...,required
+nexlev,https://www.nexlev.io/pricing,200,yes,0,,NexLev Pricing - Powerful Niche Finder for YouTube,required
+metricool,https://metricool.com/pricing/,200,yes,24,€0/month | €16/month | €29/month | €43/month | €69/month | €130 | $0/month | $20/month | $36/month | $53/month | $85/month | $159/month | €20/month | €37/month | €54/month | €87/month | €172/month | $25/month | $45/month | $67/month | $107/month | $210/month | $10/month | $25,Metricool Pricing ▷ Find The Best Plan,required
+ocoya,https://www.ocoya.com/pricing,200,yes,4,$15 /month | $39 /month | $79 /month | $159 /month,Pricing | Ocoya,required
+publer,https://publer.com/plans,200,yes,0,,Social Media Management Plans for All Needs | Publer Pricing,required
+buffer,https://buffer.com/pricing,502,no,0,,502 Bad Gateway,required
+socialbee,https://socialbee.com/pricing/,200,yes,42,$14.50/month | $29 | $594 per year | $ 24 | $ 40 | $ 82 | $ 29 per month | $ 49 per month | $ 99 per month | $0 | $89.50/month | $179 | $2694 per year | $ 149 | $ 274 | $ 374 | $ 179 per month | $ 329 per month | $ 449 per month | $29/ month | $49/ month | $99/ month | $14.50 / month | $24.50 / month | $49.50/ month | $290/ year | $490/ year | $990/ year | $174 | $294 | $594 | $10 / mo | $100 / yr | $15 / mo | $150 / yr | $290/year | $490/year | $990/year | $10/mo | $100/yr | $15/mo | $150/yr,SocialBee Pricing & Plans | Social Media Management Package,required
+blotato,https://www.blotato.com/pricing,200,yes,6,$500 | $29 /mo | $97 /mo | $499 /mo | $30 | $29/MONTH,"Blotato Pricing: Plans, Credits & Free Trial",required
+gumloop,https://www.gumloop.com/pricing,200,yes,3,$50 | $ 37 / month | $37 / month,Pricing | Gumloop,required
+lindy,https://www.lindy.ai/pricing,200,yes,4,"$8,00 | $49 | $99 | $199",Pricing - Lindy,required
+simplified,https://simplified.com/pricing,200,yes,11,"$5,00 | $3,00 | $8,00 | $50 | $150 per hour | $79 | $79/mo | $59/mo | $20/mo | $800/mo | $10",Simplified Pricing: Plans for Your AI Agent Team | Simplified,required
+predisai,https://predis.ai/pricing/,200,yes,16,"$ 212 /month | $249 | $2,54 | $99/month | $29/month | $ 40 /month | $79 | $474 | $5/month | $25/month | $ 19 /month | $32 | $230 | $19/ month | $40/ month | $212/ month",Predis Pricing | How much does Predis cost?,required
+notebooklm,https://one.google.com/about/google-ai-plans/,200,yes,6,$10 | $10/mo | $40 | $20/mo | $8/mo | $100,Google AI plans with Cloud Storage - Google One,required
+streamyard,https://streamyard.com/pricing,200,yes,5,$44 | $35 | $88 | $68 | $0/month,StreamYard - Plans & Pricing,required
+restream,https://restream.io/pricing,200,yes,16,"$ 0 | $ 19 /mo | $ 16 /mo | $190 per year | $ 49 /mo | $ 39 /mo | $470 per year | $ 29 /mo | $ 239 /mo | $ 199 /mo | $2,39 | $ 59 /mo | $ 0 / mo | $25 | $49 | $239",Pricing Plans | Restream,required
+streamlabs,https://streamlabs.com/pricing,200,yes,0,,,required
+ecamm-live,https://appg2.ecamm.com/users/pricingplans,200,yes,4,$16/mo | $192 | $32/mo | $384,Ecamm Pricing - Ecamm Network,required
+streamelements,https://streamelements.com/pricing,200,yes,0,,StreamElements,required
+wonder-studio,https://www.autodesk.com/products/flow-studio,403,no,0,,Access Denied,required
+move-ai,https://move.ai/pricing,404,no,0,,404 - Page not found,required
+cascadeur,https://cascadeur.com/plans,200,yes,14,"$ 0 | $ 19 per month | $ 8 per month | $100 | $ 49 per month | $ 33 per month | $ 49 | $ 33 | $0 | $96 | $19 | $396 | $49 | $100,00",Cascadeur Pricing Plans,required
+plask,https://plask.ai/en-US/pricing,200,yes,2,$18/month | $50/month,Pricing | Plask Motion,required
+rokoko-video,https://www.rokoko.com/pricing,200,yes,11,$ 0 | $ 10 | $ 20 | $ 50 | $ 100 | $ 12 | $ 28 | $ 70 | $ 150 | $20 | $50,Rokoko Software Ecosystem Plans & Prices,required
+spline-ai,https://spline.design/pricing,200,yes,8,$ 12 | $ 20 | $ 5 | $0 / month | $ 12 / mo | $ 15 | $ 20 / mo | $ 25,Spline Pricing - Interactive 3D experiences in real-time in the browser,required
+meshy,https://www.meshy.ai/pricing,200,yes,5,$0 | $20/mo | $240 | $60/mo | $576,"Meshy Official Pricing: Free, Pro, Studio & Enterprise Plans",required
+deepmotion,https://www.deepmotion.com/pricing,200,yes,0,,Pricing | DeepMotion AI Motion Capture | Animate 3D,required
+kaedim,https://www.kaedim3d.com/plans,200,yes,4,"$50 | $100 | $400 /month | $1,20",Kaedim | AI-Powered 3D Asset Production For Studios & Brands,required
+tripo-ai,https://www.tripo3d.ai/pricing,200,yes,10,$ 0 | $ 13 | $ 19 | $167.16/year | $ 53 | $ 89 | $647.28/year | $ 54 | $ 109 | $1978.2/year,Tripo Studio Pricing | Generate High-Quality 3D Models with AI,required

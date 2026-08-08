@@ -1,0 +1,62 @@
+name: CI
+
+# Audit fix 6.4 — the project had no CI at all: no type checking, no linting,
+# and no build verification before deploy. A type error or a broken import
+# would only be discovered in production.
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Type check
+        run: npm run typecheck
+
+      - name: Lint
+        run: npm run lint
+
+      # Critique §6 fix — unit tests for the pure logic layers (filtering,
+      # search, FAQ honesty, news relevance gate).
+      - name: Unit tests
+        run: npm run test
+
+      - name: Build
+        run: npm run build
+        env:
+          # The build must succeed without secrets — the site falls back to
+          # static data when Supabase is absent. This guards that property.
+          NEXT_TELEMETRY_DISABLED: '1'
+
+  data-integrity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: npm
+      - run: npm ci
+
+      # Catches the class of bug that caused the original 12 broken links:
+      # duplicate slugs, malformed URLs, and evidence claims without evidence.
+      - name: Validate catalog
+        run: npm run validate:data

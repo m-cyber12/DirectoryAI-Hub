@@ -1,0 +1,1688 @@
+{
+ "1080p": {
+  "label": "1080p"
+ },
+ "120+ Languages": {
+  "label": "Über 120 Sprachen"
+ },
+ "120+ Voices": {
+  "label": "Über 120 Stimmen"
+ },
+ "130+ Languages": {
+  "label": "Über 130 Sprachen"
+ },
+ "13B Params": {
+  "label": "13B Params"
+ },
+ "140+ Languages": {
+  "label": "Über 140 Sprachen"
+ },
+ "200+ Languages": {
+  "label": "Über 200 Sprachen"
+ },
+ "250+ Styles": {
+  "label": "Über 250 Stile"
+ },
+ "2500+ Voices": {
+  "label": "Über 2500 Stimmen"
+ },
+ "26 Languages": {
+  "label": "26 Sprachen"
+ },
+ "28 Languages": {
+  "label": "28 Sprachen"
+ },
+ "2D to 3D": {
+  "label": "2D zu 3D"
+ },
+ "3-Min Tracks": {
+  "label": "3-Minuten-Tracks"
+ },
+ "30+ Languages": {
+  "label": "Über 30 Sprachen"
+ },
+ "30+ Platforms": {
+  "label": "Über 30 Plattformen"
+ },
+ "3D Animation": {
+  "label": "3D-Animation"
+ },
+ "3D Design": {
+  "label": "3D-Design"
+ },
+ "3D Export": {
+  "label": "3D-Export"
+ },
+ "40+ Languages": {
+  "label": "Über 40 Sprachen"
+ },
+ "40+ Templates": {
+  "label": "Über 40 Vorlagen"
+ },
+ "400+ Integrations": {
+  "label": "Über 400 Integrationen"
+ },
+ "4K": {
+  "label": "4K"
+ },
+ "50+ Languages": {
+  "label": "Über 50 Sprachen"
+ },
+ "500+ Voices": {
+  "label": "Über 500 Stimmen"
+ },
+ "5000+ Apps": {
+  "label": "Über 5000 Apps"
+ },
+ "60+ Languages": {
+  "label": "Über 60 Sprachen"
+ },
+ "70+ Languages": {
+  "label": "Über 70 Sprachen"
+ },
+ "80+ Languages": {
+  "label": "Über 80 Sprachen"
+ },
+ "8K": {
+  "label": "8K"
+ },
+ "90+ Languages": {
+  "label": "Über 90 Sprachen"
+ },
+ "95+ Languages": {
+  "label": "Über 95 Sprachen"
+ },
+ "99% Accuracy": {
+  "label": "99 % Genauigkeit"
+ },
+ "A/B Testing": {
+  "label": "A/B-Tests"
+ },
+ "AI Agents": {
+  "label": "KI-Agenten"
+ },
+ "AI Assist": {
+  "label": "KI-Assistenz"
+ },
+ "AI Assistant": {
+  "label": "KI-Assistent"
+ },
+ "AI Avatars": {
+  "label": "KI-Avatare"
+ },
+ "AI Captions": {
+  "label": "KI-Untertitel"
+ },
+ "AI Clipping": {
+  "label": "KI-Clipping"
+ },
+ "AI Clone": {
+  "label": "KI-Klon"
+ },
+ "AI Copilot": {
+  "label": "KI-Copilot"
+ },
+ "AI Generated": {
+  "label": "KI-generiert"
+ },
+ "AI Highlights": {
+  "label": "KI-Highlights"
+ },
+ "AI Posts": {
+  "label": "KI-Posts"
+ },
+ "AI Scenes": {
+  "label": "KI-Szenen"
+ },
+ "AI Scripting": {
+  "label": "KI-Skripting"
+ },
+ "AI Voice": {
+  "label": "KI-Stimme"
+ },
+ "AI Voiceover": {
+  "label": "KI-Voiceover"
+ },
+ "AI Write": {
+  "label": "KI-Schreiben"
+ },
+ "API": {
+  "label": "API"
+ },
+ "ASR": {
+  "label": "ASR"
+ },
+ "Accessibility": {
+  "label": "Barrierefreiheit"
+ },
+ "Ad Scripts": {
+  "label": "Anzeigenskripte"
+ },
+ "Adobe": {
+  "label": "Adobe"
+ },
+ "Ads": {
+  "label": "Anzeigen"
+ },
+ "After Effects": {
+  "label": "After Effects"
+ },
+ "Agents": {
+  "label": "Agenten"
+ },
+ "Aggregator": {
+  "label": "Aggregator"
+ },
+ "Alerts": {
+  "label": "Alerts"
+ },
+ "Alibaba": {
+  "label": "Alibaba"
+ },
+ "All Platforms": {
+  "label": "Alle Plattformen"
+ },
+ "All-in-One": {
+  "label": "All-in-One"
+ },
+ "Ambience": {
+  "label": "Ambiente"
+ },
+ "Analysis": {
+  "label": "Analyse"
+ },
+ "Analytics": {
+  "label": "Analytics"
+ },
+ "Animated Captions": {
+  "label": "Animierte Untertitel"
+ },
+ "Animation": {
+  "label": "Animation"
+ },
+ "Anime": {
+  "label": "Anime"
+ },
+ "Apple": {
+  "label": "Apple"
+ },
+ "Art": {
+  "label": "Kunst"
+ },
+ "Artists": {
+  "label": "Künstler"
+ },
+ "Audio": {
+  "label": "Audio"
+ },
+ "Audio Enhancement": {
+  "label": "Audioverbesserung"
+ },
+ "Audio Overviews": {
+  "label": "Audio-Überblicke"
+ },
+ "Audio Post-Production": {
+  "label": "Audio-Postproduktion"
+ },
+ "Audio Reactive": {
+  "label": "Audio-reaktiv"
+ },
+ "Audio Sync": {
+  "label": "Audio-Sync"
+ },
+ "Audiograms": {
+  "label": "Audiogramme"
+ },
+ "Auto B-Roll": {
+  "label": "Auto-B-Roll"
+ },
+ "Auto Captions": {
+  "label": "Auto-Untertitel"
+ },
+ "Auto Compositing": {
+  "label": "Auto-Compositing"
+ },
+ "Auto Edit": {
+  "label": "Auto-Schnitt"
+ },
+ "Auto Editing": {
+  "label": "Auto-Schnitt"
+ },
+ "Auto Subtitles": {
+  "label": "Auto-Untertitel"
+ },
+ "Auto Zoom": {
+  "label": "Auto-Zoom"
+ },
+ "Auto-Captions": {
+  "label": "Auto-Untertitel"
+ },
+ "Auto-Publish": {
+  "label": "Auto-Veröffentlichung"
+ },
+ "Auto-Translate": {
+  "label": "Auto-Übersetzung"
+ },
+ "Autodesk": {
+  "label": "Autodesk"
+ },
+ "Automated Video": {
+  "label": "Automatisiertes Video"
+ },
+ "Autonomous": {
+  "label": "Autonom"
+ },
+ "Autoposing": {
+  "label": "Auto-Posen"
+ },
+ "B2B": {
+  "label": "B2B"
+ },
+ "Background Music": {
+  "label": "Hintergrundmusik"
+ },
+ "Background Removal": {
+  "label": "Hintergrundentfernung"
+ },
+ "Bad Takes": {
+  "label": "Schlechte Takes"
+ },
+ "Batch": {
+  "label": "Stapel"
+ },
+ "Beginner Friendly": {
+  "label": "Anfängerfreundlich"
+ },
+ "Benchmarks": {
+  "label": "Benchmarks"
+ },
+ "Best Time": {
+  "label": "Beste Zeit"
+ },
+ "Blender": {
+  "label": "Blender"
+ },
+ "Blog Posts": {
+  "label": "Blogbeiträge"
+ },
+ "Blog to Video": {
+  "label": "Blog zu Video"
+ },
+ "Body Language": {
+  "label": "Körpersprache"
+ },
+ "Brainstorming": {
+  "label": "Brainstorming"
+ },
+ "Brand Styles": {
+  "label": "Markenstile"
+ },
+ "Brand Templates": {
+  "label": "Markenvorlagen"
+ },
+ "Brand Voice": {
+  "label": "Markenstimme"
+ },
+ "Branded Content": {
+  "label": "Branded Content"
+ },
+ "Brands": {
+  "label": "Marken"
+ },
+ "Broadcast": {
+  "label": "Broadcast"
+ },
+ "Browser": {
+  "label": "Browser"
+ },
+ "Browser Editor": {
+  "label": "Browser-Editor"
+ },
+ "Budget": {
+  "label": "Budget"
+ },
+ "Bulk": {
+  "label": "Massen-"
+ },
+ "Bulk Processing": {
+  "label": "Stapelverarbeitung"
+ },
+ "Bulk Scheduling": {
+  "label": "Massen-Planung"
+ },
+ "Bullet Time": {
+  "label": "Bullet Time"
+ },
+ "ByteDance": {
+  "label": "ByteDance"
+ },
+ "CG Characters": {
+  "label": "CG-Charaktere"
+ },
+ "CTR": {
+  "label": "CTR"
+ },
+ "Calls": {
+  "label": "Anrufe"
+ },
+ "Camera Control": {
+  "label": "Kamerasteuerung"
+ },
+ "Camera Direction": {
+  "label": "Kamerarichtung"
+ },
+ "Camera Moves": {
+  "label": "Kamerabewegungen"
+ },
+ "Canvas": {
+  "label": "Canvas"
+ },
+ "Captions": {
+  "label": "Untertitel"
+ },
+ "Carousels": {
+  "label": "Karussells"
+ },
+ "Categories": {
+  "label": "Kategorien"
+ },
+ "Celebrity Voices": {
+  "label": "Promi-Stimmen"
+ },
+ "Chapters": {
+  "label": "Kapitel"
+ },
+ "Character Animation": {
+  "label": "Charakteranimation"
+ },
+ "Character Consistency": {
+  "label": "Charakterkonsistenz"
+ },
+ "Character Motion": {
+  "label": "Charakterbewegung"
+ },
+ "Characters": {
+  "label": "Charaktere"
+ },
+ "ChatGPT": {
+  "label": "ChatGPT"
+ },
+ "ChatGPT Extension": {
+  "label": "ChatGPT Extension"
+ },
+ "Chatbot": {
+  "label": "Chatbot"
+ },
+ "Chord Detection": {
+  "label": "Akkorderkennung"
+ },
+ "Cinematic": {
+  "label": "Cineastisch"
+ },
+ "Citations": {
+  "label": "Zitate"
+ },
+ "Clarity": {
+  "label": "Klarheit"
+ },
+ "Clip Farming": {
+  "label": "Clip-Farming"
+ },
+ "Clips": {
+  "label": "Clips"
+ },
+ "Code": {
+  "label": "Code"
+ },
+ "Collaboration": {
+  "label": "Zusammenarbeit"
+ },
+ "Color Grading": {
+  "label": "Farbkorrektur"
+ },
+ "Colorize": {
+  "label": "Kolorieren"
+ },
+ "Commercial License": {
+  "label": "Kommerzielle Lizenz"
+ },
+ "Commercially Safe": {
+  "label": "Kommerziell sicher"
+ },
+ "Community": {
+  "label": "Community"
+ },
+ "Competitor Intel": {
+  "label": "Wettbewerbsanalyse"
+ },
+ "Competitors": {
+  "label": "Wettbewerber"
+ },
+ "Complex Logic": {
+  "label": "Komplexe Logik"
+ },
+ "Compliance": {
+  "label": "Compliance"
+ },
+ "Consistent Characters": {
+  "label": "Konsistente Charaktere"
+ },
+ "Consumer GPU": {
+  "label": "Consumer-GPU"
+ },
+ "Content Calendar": {
+  "label": "Content-Kalender"
+ },
+ "Content Repurposing": {
+  "label": "Content-Repurposing"
+ },
+ "Content Score": {
+  "label": "Content-Score"
+ },
+ "Content Strategy": {
+  "label": "Content-Strategie"
+ },
+ "Conversational AI": {
+  "label": "Konversations-KI"
+ },
+ "Copywriting": {
+  "label": "Copywriting"
+ },
+ "Corporate": {
+  "label": "Corporate"
+ },
+ "Courses": {
+  "label": "Kurse"
+ },
+ "Creative Cloud": {
+  "label": "Creative Cloud"
+ },
+ "Creative Writing": {
+  "label": "Kreatives Schreiben"
+ },
+ "Cross-Platform": {
+  "label": "Plattformübergreifend"
+ },
+ "Custom Clone": {
+  "label": "Individueller Klon"
+ },
+ "Customizable": {
+  "label": "Anpassbar"
+ },
+ "Customization": {
+  "label": "Anpassung"
+ },
+ "DJs": {
+  "label": "DJs"
+ },
+ "Daily Ideas": {
+  "label": "Tägliche Ideen"
+ },
+ "Dead Air": {
+  "label": "Tote Stille"
+ },
+ "Deep Research": {
+  "label": "Deep Research"
+ },
+ "Denoise": {
+  "label": "Entrauschen"
+ },
+ "Depth Maps": {
+  "label": "Tiefenkarten"
+ },
+ "Design": {
+  "label": "Design"
+ },
+ "Desktop & Mobile": {
+  "label": "Desktop & Mobile"
+ },
+ "Desktop Editor": {
+  "label": "Desktop-Editor"
+ },
+ "Detail Enhancement": {
+  "label": "Detailverbesserung"
+ },
+ "Developers": {
+  "label": "Entwickler"
+ },
+ "Dialog Editor": {
+  "label": "Dialog-Editor"
+ },
+ "Digital Presenter": {
+  "label": "Digitaler Moderator"
+ },
+ "Discord": {
+  "label": "Discord"
+ },
+ "Distribution": {
+  "label": "Distribution"
+ },
+ "Drag & Drop": {
+  "label": "Drag & Drop"
+ },
+ "Dubbing": {
+  "label": "Synchronisation"
+ },
+ "E-commerce": {
+  "label": "E-Commerce"
+ },
+ "Effects": {
+  "label": "Effekte"
+ },
+ "Email": {
+  "label": "E-Mail"
+ },
+ "Emojis": {
+  "label": "Emojis"
+ },
+ "Emotion": {
+  "label": "Emotion"
+ },
+ "Emotion Control": {
+  "label": "Emotionskontrolle"
+ },
+ "Emotional Voices": {
+  "label": "Emotionale Stimmen"
+ },
+ "Enhancement": {
+  "label": "Verbesserung"
+ },
+ "Enterprise": {
+  "label": "Enterprise"
+ },
+ "European Languages": {
+  "label": "Europäische Sprachen"
+ },
+ "Evergreen": {
+  "label": "Evergreen"
+ },
+ "Everywhere": {
+  "label": "Überall"
+ },
+ "Examples": {
+  "label": "Beispiele"
+ },
+ "Explainer Videos": {
+  "label": "Erklärvideos"
+ },
+ "Explainers": {
+  "label": "Erklärer"
+ },
+ "Export XML": {
+  "label": "Export XML"
+ },
+ "Expressive": {
+  "label": "Ausdrucksstark"
+ },
+ "Extension": {
+  "label": "Erweiterung"
+ },
+ "Eye Contact": {
+  "label": "Blickkontakt"
+ },
+ "Face Clone": {
+  "label": "Gesichtsklon"
+ },
+ "Face Swap": {
+  "label": "Face Swap"
+ },
+ "Facecam": {
+  "label": "Facecam"
+ },
+ "Faceless": {
+  "label": "Gesichtslos"
+ },
+ "Faceless Shorts": {
+  "label": "Gesichtslose Shorts"
+ },
+ "Faceless Video": {
+  "label": "Faceless-Video"
+ },
+ "Fact-Check": {
+  "label": "Faktencheck"
+ },
+ "Fast": {
+  "label": "Schnell"
+ },
+ "Fiction": {
+  "label": "Fiktion"
+ },
+ "Filler Removal": {
+  "label": "Füllwort-Entfernung"
+ },
+ "Filmmakers": {
+  "label": "Filmemacher"
+ },
+ "Filmmaking": {
+  "label": "Filmemachen"
+ },
+ "Fine-Tuned Models": {
+  "label": "Feinabgestimmte Modelle"
+ },
+ "Foley": {
+  "label": "Foley"
+ },
+ "Frame Interpolation": {
+  "label": "Frame-Interpolation"
+ },
+ "Free": {
+  "label": "Kostenlos"
+ },
+ "Free Editor": {
+  "label": "Kostenloser Editor"
+ },
+ "Free Tier": {
+  "label": "Kostenlos-Tarif"
+ },
+ "Free Tool": {
+  "label": "Kostenloses Tool"
+ },
+ "GDPR": {
+  "label": "GDPR"
+ },
+ "GIFs": {
+  "label": "GIFs"
+ },
+ "GPT": {
+  "label": "GPT"
+ },
+ "Game Art": {
+  "label": "Game-Art"
+ },
+ "Game Assets": {
+  "label": "Game-Assets"
+ },
+ "Gameplay BG": {
+  "label": "Gameplay-Hintergrund"
+ },
+ "Gaming": {
+  "label": "Gaming"
+ },
+ "Gen-3 Alpha": {
+  "label": "Gen-3 Alpha"
+ },
+ "Generative": {
+  "label": "Generativ"
+ },
+ "Generative Fill": {
+  "label": "Generative Füllung"
+ },
+ "Google": {
+  "label": "Google"
+ },
+ "Grammar": {
+  "label": "Grammatik"
+ },
+ "Grounded": {
+  "label": "Quellenbasiert"
+ },
+ "Guests": {
+  "label": "Gäste"
+ },
+ "HD": {
+  "label": "HD"
+ },
+ "HDR": {
+  "label": "HDR"
+ },
+ "Headlines": {
+  "label": "Schlagzeilen"
+ },
+ "Headshots": {
+  "label": "Porträts"
+ },
+ "Hi-Fi": {
+  "label": "Hi-Fi"
+ },
+ "Highlights": {
+  "label": "Highlights"
+ },
+ "Hollywood": {
+  "label": "Hollywood"
+ },
+ "Hooks": {
+  "label": "Hooks"
+ },
+ "Human Option": {
+  "label": "Menschliche Option"
+ },
+ "Human QA": {
+  "label": "Menschliche Prüfung"
+ },
+ "Humanize": {
+  "label": "Humanisieren"
+ },
+ "Ideation": {
+  "label": "Ideation"
+ },
+ "Image + Audio": {
+  "label": "Bild + Audio"
+ },
+ "Image Gen": {
+  "label": "Bildgenerierung"
+ },
+ "Image Generation": {
+  "label": "Bildgenerierung"
+ },
+ "Image to 3D": {
+  "label": "Bild zu 3D"
+ },
+ "Image to Video": {
+  "label": "Bild zu Video"
+ },
+ "Immersive": {
+  "label": "Immersion"
+ },
+ "Industry Standard": {
+  "label": "Industriestandard"
+ },
+ "Inpainting": {
+  "label": "Inpainting"
+ },
+ "Instrumental": {
+  "label": "Instrumental"
+ },
+ "Integrations": {
+  "label": "Integrationen"
+ },
+ "Interactive": {
+  "label": "Interaktiv"
+ },
+ "Interviews": {
+  "label": "Interviews"
+ },
+ "Jump Cuts": {
+  "label": "Jump Cuts"
+ },
+ "Keyframes": {
+  "label": "Keyframes"
+ },
+ "Keywords": {
+  "label": "Keywords"
+ },
+ "Kick": {
+  "label": "Kick"
+ },
+ "Legal": {
+  "label": "Rechtlich"
+ },
+ "Leveler": {
+  "label": "Leveler"
+ },
+ "Licensed Data": {
+  "label": "Lizenzierte Daten"
+ },
+ "LinkedIn": {
+  "label": "LinkedIn"
+ },
+ "Lip Sync": {
+  "label": "Lippensynchronisation"
+ },
+ "Live Avatars": {
+  "label": "Live-Avatare"
+ },
+ "Live Camera": {
+  "label": "Live-Kamera"
+ },
+ "Live Sports": {
+  "label": "Live-Sport"
+ },
+ "Live Web": {
+  "label": "Live-Web"
+ },
+ "Local": {
+  "label": "Lokal"
+ },
+ "Local AI": {
+  "label": "Lokale KI"
+ },
+ "Localization": {
+  "label": "Lokalisierung"
+ },
+ "Logos": {
+  "label": "Logos"
+ },
+ "Long Clips": {
+  "label": "Lange Clips"
+ },
+ "Long Context": {
+  "label": "Langer Kontext"
+ },
+ "Loudness": {
+  "label": "Lautheit"
+ },
+ "Low Latency": {
+  "label": "Niedrige Latenz"
+ },
+ "Lyrics": {
+  "label": "Songtexte"
+ },
+ "MIDI Export": {
+  "label": "MIDI Export"
+ },
+ "Mac": {
+  "label": "Mac"
+ },
+ "Magic Clips": {
+  "label": "Magic Clips"
+ },
+ "Magnetic Timeline": {
+  "label": "Magnetische Timeline"
+ },
+ "Markerless": {
+  "label": "Markerless"
+ },
+ "Marketing": {
+  "label": "Marketing"
+ },
+ "Meetings": {
+  "label": "Meetings"
+ },
+ "Memes": {
+  "label": "Memes"
+ },
+ "Mesh Generation": {
+  "label": "Mesh-Generierung"
+ },
+ "Metadata": {
+  "label": "Metadaten"
+ },
+ "Micro Video": {
+  "label": "Mikro-Video"
+ },
+ "Microsoft": {
+  "label": "Microsoft"
+ },
+ "Midjourney": {
+  "label": "Midjourney"
+ },
+ "MiniMax": {
+  "label": "MiniMax"
+ },
+ "Mobile": {
+  "label": "Mobile"
+ },
+ "Mocap Suits": {
+  "label": "Mocap-Anzüge"
+ },
+ "Mochi": {
+  "label": "Mochi"
+ },
+ "Mockups": {
+  "label": "Mockups"
+ },
+ "Montages": {
+  "label": "Montagen"
+ },
+ "Mood Arc": {
+  "label": "Stimmungsbogen"
+ },
+ "Mood Based": {
+  "label": "Stimmungsbasiert"
+ },
+ "Motion Capture": {
+  "label": "Motion Capture"
+ },
+ "Motion Mix": {
+  "label": "Bewegungsmix"
+ },
+ "Motion Quality": {
+  "label": "Bewegungsqualität"
+ },
+ "Motion Tracking": {
+  "label": "Motion Tracking"
+ },
+ "Mouth Sounds": {
+  "label": "Mundgeräusche"
+ },
+ "MrBeast": {
+  "label": "MrBeast"
+ },
+ "Multi-Cam": {
+  "label": "Multi-Cam"
+ },
+ "Multi-Model": {
+  "label": "Multi-Modell"
+ },
+ "Multi-Shot": {
+  "label": "Multi-Shot"
+ },
+ "Multi-Speaker": {
+  "label": "Multi-Sprecher"
+ },
+ "Multilingual": {
+  "label": "Mehrsprachig"
+ },
+ "Multimodal": {
+  "label": "Multimodal"
+ },
+ "Multistream": {
+  "label": "Multistream"
+ },
+ "Music Ducking": {
+  "label": "Musik-Ducking"
+ },
+ "Music Generation": {
+  "label": "Musikgenerierung"
+ },
+ "Music Videos": {
+  "label": "Musikvideos"
+ },
+ "Music Vocals": {
+  "label": "Gesang"
+ },
+ "Narrative": {
+  "label": "Narrativ"
+ },
+ "Native Audio": {
+  "label": "Nativer Sound"
+ },
+ "Newsrooms": {
+  "label": "Redaktionen"
+ },
+ "Niche Research": {
+  "label": "Nischenrecherche"
+ },
+ "No Green Screen": {
+  "label": "Ohne Greenscreen"
+ },
+ "No Suit": {
+  "label": "Ohne Anzug"
+ },
+ "No-Code": {
+  "label": "No-Code"
+ },
+ "Noise Cancellation": {
+  "label": "Rauschunterdrückung"
+ },
+ "Noise Removal": {
+  "label": "Entrauschen"
+ },
+ "Non-Designer": {
+  "label": "Nicht-Designer"
+ },
+ "Nova-3": {
+  "label": "Nova-3"
+ },
+ "OBS": {
+  "label": "OBS"
+ },
+ "Object Detection": {
+  "label": "Objekterkennung"
+ },
+ "Offline": {
+  "label": "Offline"
+ },
+ "One Click": {
+  "label": "Ein Klick"
+ },
+ "One-Time": {
+  "label": "Einmalig"
+ },
+ "Online Editor": {
+  "label": "Online-Editor"
+ },
+ "Open Model": {
+  "label": "Offenes Modell"
+ },
+ "Open Source": {
+  "label": "Open Source"
+ },
+ "OpenAI": {
+  "label": "OpenAI"
+ },
+ "Optimization": {
+  "label": "Optimierung"
+ },
+ "Orchestral": {
+  "label": "Orchestral"
+ },
+ "Organize": {
+  "label": "Organisieren"
+ },
+ "Outliers": {
+  "label": "Outliers"
+ },
+ "Outlines": {
+  "label": "Gliederungen"
+ },
+ "Outreach": {
+  "label": "Reichweite"
+ },
+ "Overdub": {
+  "label": "Overdub"
+ },
+ "Overlays": {
+  "label": "Overlays"
+ },
+ "PPT to Video": {
+  "label": "PPT to Video"
+ },
+ "Packaging": {
+  "label": "Verpackung"
+ },
+ "Parallax": {
+  "label": "Parallax"
+ },
+ "Paraphrasing": {
+  "label": "Paraphrasieren"
+ },
+ "Personalization": {
+  "label": "Personalisierung"
+ },
+ "Personas": {
+  "label": "Personas"
+ },
+ "Phone Video": {
+  "label": "Phone Video"
+ },
+ "Photo Editing": {
+  "label": "Photo Editing"
+ },
+ "Photorealism": {
+  "label": "Photorealism"
+ },
+ "Photoshop": {
+  "label": "Photoshop"
+ },
+ "Physics": {
+  "label": "Physics"
+ },
+ "Pipelines": {
+  "label": "Pipelines"
+ },
+ "Pitch Control": {
+  "label": "Pitch Control"
+ },
+ "Pitch Decks": {
+  "label": "Pitch Decks"
+ },
+ "Pitch Shift": {
+  "label": "Pitch Shift"
+ },
+ "Plot": {
+  "label": "Plot"
+ },
+ "Podcast": {
+  "label": "Podcast"
+ },
+ "Podcast Clipping": {
+  "label": "Podcast-Clipping"
+ },
+ "Podcast Editing": {
+  "label": "Podcast-Bearbeitung"
+ },
+ "Podcasting": {
+  "label": "Podcasting"
+ },
+ "Podcasts": {
+  "label": "Podcasts"
+ },
+ "Posters": {
+  "label": "Posters"
+ },
+ "Practice": {
+  "label": "Practice"
+ },
+ "Premiere Pro": {
+  "label": "Premiere Pro"
+ },
+ "Presets": {
+  "label": "Presets"
+ },
+ "Privacy": {
+  "label": "Datenschutz"
+ },
+ "Pro": {
+  "label": "Pro"
+ },
+ "Pro Camera": {
+  "label": "Pro Camera"
+ },
+ "ProRes": {
+  "label": "ProRes"
+ },
+ "Product Photos": {
+  "label": "Product Photos"
+ },
+ "Professional": {
+  "label": "Professional"
+ },
+ "Prompt Adherence": {
+  "label": "Prompt Adherence"
+ },
+ "Prompt Library": {
+  "label": "Prompt-Bibliothek"
+ },
+ "Prompt Marketplace": {
+  "label": "Prompt Marketplace"
+ },
+ "Prompts": {
+  "label": "Prompts"
+ },
+ "Pronunciation": {
+  "label": "Aussprache"
+ },
+ "Public Stats": {
+  "label": "Öffentliche Statistiken"
+ },
+ "Publishing": {
+  "label": "Publishing"
+ },
+ "Punch-In": {
+  "label": "Punch-In"
+ },
+ "QA": {
+  "label": "QA"
+ },
+ "QA Review": {
+  "label": "Qualitätsprüfung"
+ },
+ "Questions": {
+  "label": "Fragen"
+ },
+ "Quick Design": {
+  "label": "Schnelles Design"
+ },
+ "Rank Tracker": {
+  "label": "Rank-Tracker"
+ },
+ "Real-time": {
+  "label": "Echtzeit"
+ },
+ "Real-time Trends": {
+  "label": "Echtzeit-Trends"
+ },
+ "Realism": {
+  "label": "Realismus"
+ },
+ "Realistic Avatars": {
+  "label": "Realistische Avatare"
+ },
+ "Realistic Motion": {
+  "label": "Realistische Bewegung"
+ },
+ "Reasoning": {
+  "label": "Reasoning"
+ },
+ "Recommendations": {
+  "label": "Empfehlungen"
+ },
+ "Recording": {
+  "label": "Aufnahme"
+ },
+ "Recycling": {
+  "label": "Recycling"
+ },
+ "Redub": {
+  "label": "Neu synchronisieren"
+ },
+ "Reels": {
+  "label": "Reels"
+ },
+ "Reference to Video": {
+  "label": "Referenz zu Video"
+ },
+ "Reimagine": {
+  "label": "Neu erfinden"
+ },
+ "Remixing": {
+  "label": "Remixing"
+ },
+ "Remote Recording": {
+  "label": "Fernaufnahme"
+ },
+ "Repurposing": {
+  "label": "Repurposing"
+ },
+ "Research": {
+  "label": "Recherche"
+ },
+ "Resize": {
+  "label": "Größe ändern"
+ },
+ "Retention": {
+  "label": "Retention"
+ },
+ "Rewrite": {
+  "label": "Umschreiben"
+ },
+ "Rewriting": {
+  "label": "Umschreiben"
+ },
+ "Rigging": {
+  "label": "Rigging"
+ },
+ "Rough Cut": {
+  "label": "Rough Cut"
+ },
+ "Royalty-Free": {
+  "label": "Lizenzfrei"
+ },
+ "SEO": {
+  "label": "SEO"
+ },
+ "SEO Briefs": {
+  "label": "SEO-Briefs"
+ },
+ "SEO Content": {
+  "label": "SEO-Content"
+ },
+ "SEO Research": {
+  "label": "SEO-Recherche"
+ },
+ "SERP": {
+  "label": "SERP"
+ },
+ "SRT": {
+  "label": "SRT"
+ },
+ "Sales": {
+  "label": "Vertrieb"
+ },
+ "Sales Videos": {
+  "label": "Verkaufsvideos"
+ },
+ "Scale": {
+  "label": "Skalierung"
+ },
+ "Scenarios": {
+  "label": "Szenarien"
+ },
+ "Scenes": {
+  "label": "Szenen"
+ },
+ "Scheduling": {
+  "label": "Planung"
+ },
+ "Scoring": {
+  "label": "Scoring"
+ },
+ "Scraping": {
+  "label": "Scraping"
+ },
+ "Screen Recording": {
+  "label": "Bildschirmaufnahme"
+ },
+ "Script Writing": {
+  "label": "Skript schreiben"
+ },
+ "Self-Hosted": {
+  "label": "Self-Hosted"
+ },
+ "Sentiment": {
+  "label": "Sentiment"
+ },
+ "Shorten": {
+  "label": "Kürzen"
+ },
+ "Shorts": {
+  "label": "Shorts"
+ },
+ "Show Notes": {
+  "label": "Shownotes"
+ },
+ "Silence Removal": {
+  "label": "Stille entfernen"
+ },
+ "Simple": {
+  "label": "Einfach"
+ },
+ "Singing": {
+  "label": "Singen"
+ },
+ "Sky Replacement": {
+  "label": "Himmelsersatz"
+ },
+ "Smart Cut": {
+  "label": "Smart Cut"
+ },
+ "Social": {
+  "label": "Social"
+ },
+ "Social Content": {
+  "label": "Social Content"
+ },
+ "Social Copy": {
+  "label": "Social-Text"
+ },
+ "Social Posts": {
+  "label": "Social-Posts"
+ },
+ "Song Generation": {
+  "label": "Songgenerierung"
+ },
+ "Sound Effects": {
+  "label": "Soundeffekte"
+ },
+ "Soundboard": {
+  "label": "Soundboard"
+ },
+ "Soundtracks": {
+  "label": "Soundtracks"
+ },
+ "Sources": {
+  "label": "Quellen"
+ },
+ "Speaker ID": {
+  "label": "Sprechererkennung"
+ },
+ "Speed": {
+  "label": "Geschwindigkeit"
+ },
+ "Stable Diffusion": {
+  "label": "Stable Diffusion"
+ },
+ "Stem Splitting": {
+  "label": "Stem-Trennung"
+ },
+ "Stems": {
+  "label": "Stems"
+ },
+ "Stock Avatars": {
+  "label": "Stock-Avatare"
+ },
+ "Stock Library": {
+  "label": "Stock-Bibliothek"
+ },
+ "Stock Photos": {
+  "label": "Stock-Fotos"
+ },
+ "Story": {
+  "label": "Story"
+ },
+ "Story Shorts": {
+  "label": "Story-Shorts"
+ },
+ "Storyboard": {
+  "label": "Storyboard"
+ },
+ "Storytelling": {
+  "label": "Storytelling"
+ },
+ "Strategy": {
+  "label": "Strategie"
+ },
+ "Stream Clips": {
+  "label": "Stream-Clips"
+ },
+ "Streaming": {
+  "label": "Streaming"
+ },
+ "Streams": {
+  "label": "Streams"
+ },
+ "Studio": {
+  "label": "Studio"
+ },
+ "Studio Sound": {
+  "label": "Studio-Sound"
+ },
+ "Studio Speech": {
+  "label": "Studio-Sprache"
+ },
+ "Style Consistency": {
+  "label": "Stilkonsistenz"
+ },
+ "Style Transfer": {
+  "label": "Stilübertragung"
+ },
+ "Styles": {
+  "label": "Stile"
+ },
+ "Stylized Video": {
+  "label": "Stilisiertes Video"
+ },
+ "Subtitle Editor": {
+  "label": "Untertitel-Editor"
+ },
+ "Subtitles": {
+  "label": "Untertitel"
+ },
+ "Summaries": {
+  "label": "Zusammenfassungen"
+ },
+ "Summarize": {
+  "label": "Zusammenfassen"
+ },
+ "Summarizer": {
+  "label": "Zusammenfasser"
+ },
+ "Support": {
+  "label": "Support"
+ },
+ "Sync": {
+  "label": "Synchronisation"
+ },
+ "TTS Arena": {
+  "label": "TTS Arena"
+ },
+ "Tags": {
+  "label": "Tags"
+ },
+ "Talking Avatar": {
+  "label": "Sprechender Avatar"
+ },
+ "Talking Characters": {
+  "label": "Sprechende Charaktere"
+ },
+ "Talking Photos": {
+  "label": "Sprechende Fotos"
+ },
+ "Teams": {
+  "label": "Teams"
+ },
+ "Templates": {
+  "label": "Vorlagen"
+ },
+ "Text Editing": {
+  "label": "Textbearbeitung"
+ },
+ "Text Rendering": {
+  "label": "Text-Rendering"
+ },
+ "Text to 3D": {
+  "label": "Text zu 3D"
+ },
+ "Text to Audio": {
+  "label": "Text zu Audio"
+ },
+ "Text to Music": {
+  "label": "Text zu Musik"
+ },
+ "Text to SFX": {
+  "label": "Text zu SFX"
+ },
+ "Text to Speech": {
+  "label": "Text zu Sprache"
+ },
+ "Text to Video": {
+  "label": "Text zu Video"
+ },
+ "Text-Based Editing": {
+  "label": "Textbasierte Bearbeitung"
+ },
+ "Textures": {
+  "label": "Texturen"
+ },
+ "Thumbnail Search": {
+  "label": "Thumbnail-Suche"
+ },
+ "Thumbnails": {
+  "label": "Thumbnails"
+ },
+ "TikTok": {
+  "label": "TikTok"
+ },
+ "TikTok Editor": {
+  "label": "TikTok-Editor"
+ },
+ "TikTok Effects": {
+  "label": "TikTok-Effekte"
+ },
+ "Timeline": {
+  "label": "Timeline"
+ },
+ "Tips": {
+  "label": "Tipps"
+ },
+ "Titles": {
+  "label": "Titel"
+ },
+ "Tone": {
+  "label": "Ton"
+ },
+ "Tone Control": {
+  "label": "Tonkontrolle"
+ },
+ "Topic Research": {
+  "label": "Themenrecherche"
+ },
+ "Training": {
+  "label": "Training"
+ },
+ "Training Videos": {
+  "label": "Trainingsvideos"
+ },
+ "Transcription": {
+  "label": "Transkription"
+ },
+ "Translation": {
+  "label": "Übersetzung"
+ },
+ "Trend Analysis": {
+  "label": "Trendanalyse"
+ },
+ "Trend Discovery": {
+  "label": "Trend-Entdeckung"
+ },
+ "Twitch": {
+  "label": "Twitch"
+ },
+ "Universal-2": {
+  "label": "Universal-2"
+ },
+ "Upscale": {
+  "label": "Upscalen"
+ },
+ "Upscaling": {
+  "label": "Upscaling"
+ },
+ "V7": {
+  "label": "V7"
+ },
+ "VFX": {
+  "label": "VFX"
+ },
+ "Vector Art": {
+  "label": "Vektor-Art"
+ },
+ "Vectors": {
+  "label": "Vektoren"
+ },
+ "Verified": {
+  "label": "Verifiziert"
+ },
+ "Vertical Crop": {
+  "label": "Vertikaler Schnitt"
+ },
+ "Video Dubbing": {
+  "label": "Video-Dubbing"
+ },
+ "Video Hooks": {
+  "label": "Video-Hooks"
+ },
+ "Video Match": {
+  "label": "Video-Match"
+ },
+ "Video Scripts": {
+  "label": "Video-Skripte"
+ },
+ "Video to 3D": {
+  "label": "Video zu 3D"
+ },
+ "Video to Animation": {
+  "label": "Video zu Animation"
+ },
+ "Video to Anime": {
+  "label": "Video zu Anime"
+ },
+ "Video to Video": {
+  "label": "Video zu Video"
+ },
+ "Viral Data": {
+  "label": "Virale Daten"
+ },
+ "Viral Shorts": {
+  "label": "Virale Shorts"
+ },
+ "Virality Score": {
+  "label": "Virality-Score"
+ },
+ "Visual Builder": {
+  "label": "Visueller Builder"
+ },
+ "Vocal Removal": {
+  "label": "Vokalentfernung"
+ },
+ "Vocals": {
+  "label": "Vocals"
+ },
+ "Voice Changer": {
+  "label": "Stimmwechsler"
+ },
+ "Voice Clone": {
+  "label": "Stimmklon"
+ },
+ "Voice Cloning": {
+  "label": "Stimmklonen"
+ },
+ "Voice Models": {
+  "label": "Stimmmodelle"
+ },
+ "Waveforms": {
+  "label": "Wellenformen"
+ },
+ "Web Embed": {
+  "label": "Web-Einbettung"
+ },
+ "Web-based": {
+  "label": "Webbasiert"
+ },
+ "Webinar Clipper": {
+  "label": "Webinar-Clipper"
+ },
+ "Webinars": {
+  "label": "Webinare"
+ },
+ "Workflows": {
+  "label": "Workflows"
+ },
+ "Workspace": {
+  "label": "Workspace"
+ },
+ "X Data": {
+  "label": "X-Daten"
+ },
+ "YouTube": {
+  "label": "YouTube"
+ },
+ "YouTube Art": {
+  "label": "YouTube-Art"
+ },
+ "YouTube Automation": {
+  "label": "YouTube-Automation"
+ },
+ "YouTube SEO": {
+  "label": "YouTube-SEO"
+ },
+ "YouTube Scripts": {
+  "label": "YouTube-Skripte"
+ },
+ "YouTube Thumbnails": {
+  "label": "YouTube-Thumbnails"
+ },
+ "YouTube to TikTok": {
+  "label": "YouTube zu TikTok"
+ }
+}

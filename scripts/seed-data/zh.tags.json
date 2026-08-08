@@ -1,0 +1,1688 @@
+{
+ "1080p": {
+  "label": "1080p"
+ },
+ "120+ Languages": {
+  "label": "超过 120 种语言"
+ },
+ "120+ Voices": {
+  "label": "超过 120 个声音"
+ },
+ "130+ Languages": {
+  "label": "超过 130 种语言"
+ },
+ "13B Params": {
+  "label": "13B Params"
+ },
+ "140+ Languages": {
+  "label": "超过 140 种语言"
+ },
+ "200+ Languages": {
+  "label": "超过 200 种语言"
+ },
+ "250+ Styles": {
+  "label": "超过 250 种风格"
+ },
+ "2500+ Voices": {
+  "label": "超过 2500 个声音"
+ },
+ "26 Languages": {
+  "label": "26 种语言"
+ },
+ "28 Languages": {
+  "label": "28 种语言"
+ },
+ "2D to 3D": {
+  "label": "2D 转 3D"
+ },
+ "3-Min Tracks": {
+  "label": "3 分钟曲目"
+ },
+ "30+ Languages": {
+  "label": "超过 30 种语言"
+ },
+ "30+ Platforms": {
+  "label": "超过 30 个平台"
+ },
+ "3D Animation": {
+  "label": "3D 动画"
+ },
+ "3D Design": {
+  "label": "3D 设计"
+ },
+ "3D Export": {
+  "label": "3D 导出"
+ },
+ "40+ Languages": {
+  "label": "超过 40 种语言"
+ },
+ "40+ Templates": {
+  "label": "超过 40 个模板"
+ },
+ "400+ Integrations": {
+  "label": "超过 400 个集成"
+ },
+ "4K": {
+  "label": "4K"
+ },
+ "50+ Languages": {
+  "label": "超过 50 种语言"
+ },
+ "500+ Voices": {
+  "label": "超过 500 个声音"
+ },
+ "5000+ Apps": {
+  "label": "超过 5000 个应用"
+ },
+ "60+ Languages": {
+  "label": "超过 60 种语言"
+ },
+ "70+ Languages": {
+  "label": "超过 70 种语言"
+ },
+ "80+ Languages": {
+  "label": "超过 80 种语言"
+ },
+ "8K": {
+  "label": "8K"
+ },
+ "90+ Languages": {
+  "label": "超过 90 种语言"
+ },
+ "95+ Languages": {
+  "label": "超过 95 种语言"
+ },
+ "99% Accuracy": {
+  "label": "99% 准确率"
+ },
+ "A/B Testing": {
+  "label": "A/B 测试"
+ },
+ "AI Agents": {
+  "label": "AI 智能体"
+ },
+ "AI Assist": {
+  "label": "AI 辅助"
+ },
+ "AI Assistant": {
+  "label": "AI 助手"
+ },
+ "AI Avatars": {
+  "label": "AI 数字人"
+ },
+ "AI Captions": {
+  "label": "AI 字幕"
+ },
+ "AI Clipping": {
+  "label": "AI 剪辑"
+ },
+ "AI Clone": {
+  "label": "AI 克隆"
+ },
+ "AI Copilot": {
+  "label": "AI 副驾驶"
+ },
+ "AI Generated": {
+  "label": "AI 生成"
+ },
+ "AI Highlights": {
+  "label": "AI 精彩集锦"
+ },
+ "AI Posts": {
+  "label": "AI 帖子"
+ },
+ "AI Scenes": {
+  "label": "AI 场景"
+ },
+ "AI Scripting": {
+  "label": "AI 脚本"
+ },
+ "AI Voice": {
+  "label": "AI 语音"
+ },
+ "AI Voiceover": {
+  "label": "AI 配音"
+ },
+ "AI Write": {
+  "label": "AI 写作"
+ },
+ "API": {
+  "label": "API"
+ },
+ "ASR": {
+  "label": "ASR"
+ },
+ "Accessibility": {
+  "label": "无障碍"
+ },
+ "Ad Scripts": {
+  "label": "广告脚本"
+ },
+ "Adobe": {
+  "label": "Adobe"
+ },
+ "Ads": {
+  "label": "广告"
+ },
+ "After Effects": {
+  "label": "After Effects"
+ },
+ "Agents": {
+  "label": "智能体"
+ },
+ "Aggregator": {
+  "label": "聚合器"
+ },
+ "Alerts": {
+  "label": "提醒"
+ },
+ "Alibaba": {
+  "label": "Alibaba"
+ },
+ "All Platforms": {
+  "label": "所有平台"
+ },
+ "All-in-One": {
+  "label": "一体化"
+ },
+ "Ambience": {
+  "label": "氛围"
+ },
+ "Analysis": {
+  "label": "分析"
+ },
+ "Analytics": {
+  "label": "分析"
+ },
+ "Animated Captions": {
+  "label": "动画字幕"
+ },
+ "Animation": {
+  "label": "动画"
+ },
+ "Anime": {
+  "label": "Anime"
+ },
+ "Apple": {
+  "label": "Apple"
+ },
+ "Art": {
+  "label": "艺术"
+ },
+ "Artists": {
+  "label": "艺术家"
+ },
+ "Audio": {
+  "label": "音频"
+ },
+ "Audio Enhancement": {
+  "label": "音频增强"
+ },
+ "Audio Overviews": {
+  "label": "音频概览"
+ },
+ "Audio Post-Production": {
+  "label": "音频后期"
+ },
+ "Audio Reactive": {
+  "label": "音频响应"
+ },
+ "Audio Sync": {
+  "label": "音频同步"
+ },
+ "Audiograms": {
+  "label": "声波图"
+ },
+ "Auto B-Roll": {
+  "label": "自动 B-roll"
+ },
+ "Auto Captions": {
+  "label": "自动字幕"
+ },
+ "Auto Compositing": {
+  "label": "自动合成"
+ },
+ "Auto Edit": {
+  "label": "自动剪辑"
+ },
+ "Auto Editing": {
+  "label": "自动剪辑"
+ },
+ "Auto Subtitles": {
+  "label": "自动字幕"
+ },
+ "Auto Zoom": {
+  "label": "自动变焦"
+ },
+ "Auto-Captions": {
+  "label": "自动字幕"
+ },
+ "Auto-Publish": {
+  "label": "自动发布"
+ },
+ "Auto-Translate": {
+  "label": "自动翻译"
+ },
+ "Autodesk": {
+  "label": "Autodesk"
+ },
+ "Automated Video": {
+  "label": "自动化视频"
+ },
+ "Autonomous": {
+  "label": "自主"
+ },
+ "Autoposing": {
+  "label": "自动摆姿"
+ },
+ "B2B": {
+  "label": "B2B"
+ },
+ "Background Music": {
+  "label": "背景音乐"
+ },
+ "Background Removal": {
+  "label": "背景移除"
+ },
+ "Bad Takes": {
+  "label": "糟糕镜头"
+ },
+ "Batch": {
+  "label": "批量"
+ },
+ "Beginner Friendly": {
+  "label": "新手友好"
+ },
+ "Benchmarks": {
+  "label": "基准测试"
+ },
+ "Best Time": {
+  "label": "最佳时间"
+ },
+ "Blender": {
+  "label": "Blender"
+ },
+ "Blog Posts": {
+  "label": "博客文章"
+ },
+ "Blog to Video": {
+  "label": "博客转视频"
+ },
+ "Body Language": {
+  "label": "肢体语言"
+ },
+ "Brainstorming": {
+  "label": "头脑风暴"
+ },
+ "Brand Styles": {
+  "label": "品牌风格"
+ },
+ "Brand Templates": {
+  "label": "品牌模板"
+ },
+ "Brand Voice": {
+  "label": "品牌语调"
+ },
+ "Branded Content": {
+  "label": "品牌内容"
+ },
+ "Brands": {
+  "label": "品牌"
+ },
+ "Broadcast": {
+  "label": "直播"
+ },
+ "Browser": {
+  "label": "浏览器"
+ },
+ "Browser Editor": {
+  "label": "浏览器编辑器"
+ },
+ "Budget": {
+  "label": "预算"
+ },
+ "Bulk": {
+  "label": "批量"
+ },
+ "Bulk Processing": {
+  "label": "批量处理"
+ },
+ "Bulk Scheduling": {
+  "label": "批量排期"
+ },
+ "Bullet Time": {
+  "label": "子弹时间"
+ },
+ "ByteDance": {
+  "label": "ByteDance"
+ },
+ "CG Characters": {
+  "label": "CG 角色"
+ },
+ "CTR": {
+  "label": "点击率"
+ },
+ "Calls": {
+  "label": "通话"
+ },
+ "Camera Control": {
+  "label": "镜头控制"
+ },
+ "Camera Direction": {
+  "label": "镜头方向"
+ },
+ "Camera Moves": {
+  "label": "镜头运动"
+ },
+ "Canvas": {
+  "label": "画布"
+ },
+ "Captions": {
+  "label": "字幕"
+ },
+ "Carousels": {
+  "label": "轮播图"
+ },
+ "Categories": {
+  "label": "分类"
+ },
+ "Celebrity Voices": {
+  "label": "名人声音"
+ },
+ "Chapters": {
+  "label": "章节"
+ },
+ "Character Animation": {
+  "label": "角色动画"
+ },
+ "Character Consistency": {
+  "label": "角色一致性"
+ },
+ "Character Motion": {
+  "label": "角色动作"
+ },
+ "Characters": {
+  "label": "角色"
+ },
+ "ChatGPT": {
+  "label": "ChatGPT"
+ },
+ "ChatGPT Extension": {
+  "label": "ChatGPT Extension"
+ },
+ "Chatbot": {
+  "label": "聊天机器人"
+ },
+ "Chord Detection": {
+  "label": "和弦检测"
+ },
+ "Cinematic": {
+  "label": "电影感"
+ },
+ "Citations": {
+  "label": "引用"
+ },
+ "Clarity": {
+  "label": "清晰度"
+ },
+ "Clip Farming": {
+  "label": "批量产片"
+ },
+ "Clips": {
+  "label": "片段"
+ },
+ "Code": {
+  "label": "代码"
+ },
+ "Collaboration": {
+  "label": "协作"
+ },
+ "Color Grading": {
+  "label": "调色"
+ },
+ "Colorize": {
+  "label": "上色"
+ },
+ "Commercial License": {
+  "label": "商业许可"
+ },
+ "Commercially Safe": {
+  "label": "商业安全"
+ },
+ "Community": {
+  "label": "社区"
+ },
+ "Competitor Intel": {
+  "label": "竞品情报"
+ },
+ "Competitors": {
+  "label": "竞争对手"
+ },
+ "Complex Logic": {
+  "label": "复杂逻辑"
+ },
+ "Compliance": {
+  "label": "合规"
+ },
+ "Consistent Characters": {
+  "label": "一致角色"
+ },
+ "Consumer GPU": {
+  "label": "消费级 GPU"
+ },
+ "Content Calendar": {
+  "label": "内容日历"
+ },
+ "Content Repurposing": {
+  "label": "内容再利用"
+ },
+ "Content Score": {
+  "label": "内容评分"
+ },
+ "Content Strategy": {
+  "label": "内容策略"
+ },
+ "Conversational AI": {
+  "label": "对话式 AI"
+ },
+ "Copywriting": {
+  "label": "文案写作"
+ },
+ "Corporate": {
+  "label": "企业"
+ },
+ "Courses": {
+  "label": "课程"
+ },
+ "Creative Cloud": {
+  "label": "Creative Cloud"
+ },
+ "Creative Writing": {
+  "label": "创意写作"
+ },
+ "Cross-Platform": {
+  "label": "跨平台"
+ },
+ "Custom Clone": {
+  "label": "定制克隆"
+ },
+ "Customizable": {
+  "label": "可定制"
+ },
+ "Customization": {
+  "label": "定制"
+ },
+ "DJs": {
+  "label": "DJs"
+ },
+ "Daily Ideas": {
+  "label": "每日灵感"
+ },
+ "Dead Air": {
+  "label": "静默死区"
+ },
+ "Deep Research": {
+  "label": "深度研究"
+ },
+ "Denoise": {
+  "label": "降噪"
+ },
+ "Depth Maps": {
+  "label": "深度图"
+ },
+ "Design": {
+  "label": "设计"
+ },
+ "Desktop & Mobile": {
+  "label": "桌面与移动"
+ },
+ "Desktop Editor": {
+  "label": "桌面编辑器"
+ },
+ "Detail Enhancement": {
+  "label": "细节增强"
+ },
+ "Developers": {
+  "label": "开发者"
+ },
+ "Dialog Editor": {
+  "label": "对白编辑器"
+ },
+ "Digital Presenter": {
+  "label": "数字主持人"
+ },
+ "Discord": {
+  "label": "Discord"
+ },
+ "Distribution": {
+  "label": "分发"
+ },
+ "Drag & Drop": {
+  "label": "拖放"
+ },
+ "Dubbing": {
+  "label": "配音"
+ },
+ "E-commerce": {
+  "label": "电商"
+ },
+ "Effects": {
+  "label": "特效"
+ },
+ "Email": {
+  "label": "邮件"
+ },
+ "Emojis": {
+  "label": "表情"
+ },
+ "Emotion": {
+  "label": "情感"
+ },
+ "Emotion Control": {
+  "label": "情绪控制"
+ },
+ "Emotional Voices": {
+  "label": "情感语音"
+ },
+ "Enhancement": {
+  "label": "增强"
+ },
+ "Enterprise": {
+  "label": "企业级"
+ },
+ "European Languages": {
+  "label": "欧洲语言"
+ },
+ "Evergreen": {
+  "label": "常青"
+ },
+ "Everywhere": {
+  "label": "随处"
+ },
+ "Examples": {
+  "label": "示例"
+ },
+ "Explainer Videos": {
+  "label": "讲解视频"
+ },
+ "Explainers": {
+  "label": "讲解"
+ },
+ "Export XML": {
+  "label": "Export XML"
+ },
+ "Expressive": {
+  "label": "富有表现力"
+ },
+ "Extension": {
+  "label": "扩展"
+ },
+ "Eye Contact": {
+  "label": "眼神交流"
+ },
+ "Face Clone": {
+  "label": "面部克隆"
+ },
+ "Face Swap": {
+  "label": "换脸"
+ },
+ "Facecam": {
+  "label": "摄像头"
+ },
+ "Faceless": {
+  "label": "无脸"
+ },
+ "Faceless Shorts": {
+  "label": "无脸短视频"
+ },
+ "Faceless Video": {
+  "label": "无脸视频"
+ },
+ "Fact-Check": {
+  "label": "事实核查"
+ },
+ "Fast": {
+  "label": "快速"
+ },
+ "Fiction": {
+  "label": "虚构"
+ },
+ "Filler Removal": {
+  "label": "填充词移除"
+ },
+ "Filmmakers": {
+  "label": "电影制作人"
+ },
+ "Filmmaking": {
+  "label": "电影制作"
+ },
+ "Fine-Tuned Models": {
+  "label": "微调模型"
+ },
+ "Foley": {
+  "label": "拟音"
+ },
+ "Frame Interpolation": {
+  "label": "插帧"
+ },
+ "Free": {
+  "label": "免费"
+ },
+ "Free Editor": {
+  "label": "免费编辑器"
+ },
+ "Free Tier": {
+  "label": "免费套餐"
+ },
+ "Free Tool": {
+  "label": "免费工具"
+ },
+ "GDPR": {
+  "label": "GDPR"
+ },
+ "GIFs": {
+  "label": "GIFs"
+ },
+ "GPT": {
+  "label": "GPT"
+ },
+ "Game Art": {
+  "label": "游戏美术"
+ },
+ "Game Assets": {
+  "label": "游戏资产"
+ },
+ "Gameplay BG": {
+  "label": "游戏背景"
+ },
+ "Gaming": {
+  "label": "游戏"
+ },
+ "Gen-3 Alpha": {
+  "label": "Gen-3 Alpha"
+ },
+ "Generative": {
+  "label": "生成式"
+ },
+ "Generative Fill": {
+  "label": "生成式填充"
+ },
+ "Google": {
+  "label": "Google"
+ },
+ "Grammar": {
+  "label": "语法"
+ },
+ "Grounded": {
+  "label": "有据可依"
+ },
+ "Guests": {
+  "label": "嘉宾"
+ },
+ "HD": {
+  "label": "HD"
+ },
+ "HDR": {
+  "label": "HDR"
+ },
+ "Headlines": {
+  "label": "标题"
+ },
+ "Headshots": {
+  "label": "头像照"
+ },
+ "Hi-Fi": {
+  "label": "Hi-Fi"
+ },
+ "Highlights": {
+  "label": "精彩集锦"
+ },
+ "Hollywood": {
+  "label": "Hollywood"
+ },
+ "Hooks": {
+  "label": "钩子"
+ },
+ "Human Option": {
+  "label": "人工选项"
+ },
+ "Human QA": {
+  "label": "人工审核"
+ },
+ "Humanize": {
+  "label": "人性化"
+ },
+ "Ideation": {
+  "label": "构思"
+ },
+ "Image + Audio": {
+  "label": "图像 + 音频"
+ },
+ "Image Gen": {
+  "label": "图像生成"
+ },
+ "Image Generation": {
+  "label": "图像生成"
+ },
+ "Image to 3D": {
+  "label": "图像转 3D"
+ },
+ "Image to Video": {
+  "label": "图像转视频"
+ },
+ "Immersive": {
+  "label": "沉浸式"
+ },
+ "Industry Standard": {
+  "label": "行业标准"
+ },
+ "Inpainting": {
+  "label": "修补"
+ },
+ "Instrumental": {
+  "label": "伴奏"
+ },
+ "Integrations": {
+  "label": "集成"
+ },
+ "Interactive": {
+  "label": "交互"
+ },
+ "Interviews": {
+  "label": "访谈"
+ },
+ "Jump Cuts": {
+  "label": "跳切"
+ },
+ "Keyframes": {
+  "label": "关键帧"
+ },
+ "Keywords": {
+  "label": "关键词"
+ },
+ "Kick": {
+  "label": "Kick"
+ },
+ "Legal": {
+  "label": "法律"
+ },
+ "Leveler": {
+  "label": "电平器"
+ },
+ "Licensed Data": {
+  "label": "授权数据"
+ },
+ "LinkedIn": {
+  "label": "LinkedIn"
+ },
+ "Lip Sync": {
+  "label": "口型同步"
+ },
+ "Live Avatars": {
+  "label": "实时数字人"
+ },
+ "Live Camera": {
+  "label": "实时相机"
+ },
+ "Live Sports": {
+  "label": "体育直播"
+ },
+ "Live Web": {
+  "label": "实时网页"
+ },
+ "Local": {
+  "label": "本地"
+ },
+ "Local AI": {
+  "label": "本地 AI"
+ },
+ "Localization": {
+  "label": "本地化"
+ },
+ "Logos": {
+  "label": "标志"
+ },
+ "Long Clips": {
+  "label": "长片段"
+ },
+ "Long Context": {
+  "label": "长上下文"
+ },
+ "Loudness": {
+  "label": "响度"
+ },
+ "Low Latency": {
+  "label": "低延迟"
+ },
+ "Lyrics": {
+  "label": "歌词"
+ },
+ "MIDI Export": {
+  "label": "MIDI Export"
+ },
+ "Mac": {
+  "label": "Mac"
+ },
+ "Magic Clips": {
+  "label": "魔法片段"
+ },
+ "Magnetic Timeline": {
+  "label": "磁吸时间线"
+ },
+ "Markerless": {
+  "label": "无标记"
+ },
+ "Marketing": {
+  "label": "营销"
+ },
+ "Meetings": {
+  "label": "会议"
+ },
+ "Memes": {
+  "label": "梗图"
+ },
+ "Mesh Generation": {
+  "label": "网格生成"
+ },
+ "Metadata": {
+  "label": "元数据"
+ },
+ "Micro Video": {
+  "label": "微视频"
+ },
+ "Microsoft": {
+  "label": "Microsoft"
+ },
+ "Midjourney": {
+  "label": "Midjourney"
+ },
+ "MiniMax": {
+  "label": "MiniMax"
+ },
+ "Mobile": {
+  "label": "Mobile"
+ },
+ "Mocap Suits": {
+  "label": "动捕服"
+ },
+ "Mochi": {
+  "label": "Mochi"
+ },
+ "Mockups": {
+  "label": "样机"
+ },
+ "Montages": {
+  "label": "集锦"
+ },
+ "Mood Arc": {
+  "label": "情绪弧线"
+ },
+ "Mood Based": {
+  "label": "基于情绪"
+ },
+ "Motion Capture": {
+  "label": "动作捕捉"
+ },
+ "Motion Mix": {
+  "label": "动作混合"
+ },
+ "Motion Quality": {
+  "label": "动作质量"
+ },
+ "Motion Tracking": {
+  "label": "运动跟踪"
+ },
+ "Mouth Sounds": {
+  "label": "口腔声"
+ },
+ "MrBeast": {
+  "label": "MrBeast"
+ },
+ "Multi-Cam": {
+  "label": "多机位"
+ },
+ "Multi-Model": {
+  "label": "多模型"
+ },
+ "Multi-Shot": {
+  "label": "多镜头"
+ },
+ "Multi-Speaker": {
+  "label": "多说话人"
+ },
+ "Multilingual": {
+  "label": "多语言"
+ },
+ "Multimodal": {
+  "label": "多模态"
+ },
+ "Multistream": {
+  "label": "多平台直播"
+ },
+ "Music Ducking": {
+  "label": "音乐闪避"
+ },
+ "Music Generation": {
+  "label": "音乐生成"
+ },
+ "Music Videos": {
+  "label": "音乐视频"
+ },
+ "Music Vocals": {
+  "label": "人声"
+ },
+ "Narrative": {
+  "label": "叙事"
+ },
+ "Native Audio": {
+  "label": "原生音频"
+ },
+ "Newsrooms": {
+  "label": "新闻编辑部"
+ },
+ "Niche Research": {
+  "label": "利基研究"
+ },
+ "No Green Screen": {
+  "label": "无需绿幕"
+ },
+ "No Suit": {
+  "label": "无需套装"
+ },
+ "No-Code": {
+  "label": "无代码"
+ },
+ "Noise Cancellation": {
+  "label": "降噪"
+ },
+ "Noise Removal": {
+  "label": "噪音消除"
+ },
+ "Non-Designer": {
+  "label": "非设计师"
+ },
+ "Nova-3": {
+  "label": "Nova-3"
+ },
+ "OBS": {
+  "label": "OBS"
+ },
+ "Object Detection": {
+  "label": "物体检测"
+ },
+ "Offline": {
+  "label": "离线"
+ },
+ "One Click": {
+  "label": "一键"
+ },
+ "One-Time": {
+  "label": "一次性"
+ },
+ "Online Editor": {
+  "label": "在线编辑器"
+ },
+ "Open Model": {
+  "label": "开放模型"
+ },
+ "Open Source": {
+  "label": "开源"
+ },
+ "OpenAI": {
+  "label": "OpenAI"
+ },
+ "Optimization": {
+  "label": "优化"
+ },
+ "Orchestral": {
+  "label": "管弦乐"
+ },
+ "Organize": {
+  "label": "整理"
+ },
+ "Outliers": {
+  "label": "异常值"
+ },
+ "Outlines": {
+  "label": "大纲"
+ },
+ "Outreach": {
+  "label": "触达"
+ },
+ "Overdub": {
+  "label": "覆录"
+ },
+ "Overlays": {
+  "label": "叠加层"
+ },
+ "PPT to Video": {
+  "label": "PPT to Video"
+ },
+ "Packaging": {
+  "label": "包装"
+ },
+ "Parallax": {
+  "label": "Parallax"
+ },
+ "Paraphrasing": {
+  "label": "改述"
+ },
+ "Personalization": {
+  "label": "个性化"
+ },
+ "Personas": {
+  "label": "角色设定"
+ },
+ "Phone Video": {
+  "label": "Phone Video"
+ },
+ "Photo Editing": {
+  "label": "Photo Editing"
+ },
+ "Photorealism": {
+  "label": "Photorealism"
+ },
+ "Photoshop": {
+  "label": "Photoshop"
+ },
+ "Physics": {
+  "label": "Physics"
+ },
+ "Pipelines": {
+  "label": "Pipelines"
+ },
+ "Pitch Control": {
+  "label": "Pitch Control"
+ },
+ "Pitch Decks": {
+  "label": "Pitch Decks"
+ },
+ "Pitch Shift": {
+  "label": "Pitch Shift"
+ },
+ "Plot": {
+  "label": "Plot"
+ },
+ "Podcast": {
+  "label": "Podcast"
+ },
+ "Podcast Clipping": {
+  "label": "播客剪辑"
+ },
+ "Podcast Editing": {
+  "label": "播客编辑"
+ },
+ "Podcasting": {
+  "label": "Podcasting"
+ },
+ "Podcasts": {
+  "label": "播客"
+ },
+ "Posters": {
+  "label": "Posters"
+ },
+ "Practice": {
+  "label": "Practice"
+ },
+ "Premiere Pro": {
+  "label": "Premiere Pro"
+ },
+ "Presets": {
+  "label": "Presets"
+ },
+ "Privacy": {
+  "label": "隐私"
+ },
+ "Pro": {
+  "label": "专业版"
+ },
+ "Pro Camera": {
+  "label": "Pro Camera"
+ },
+ "ProRes": {
+  "label": "ProRes"
+ },
+ "Product Photos": {
+  "label": "Product Photos"
+ },
+ "Professional": {
+  "label": "Professional"
+ },
+ "Prompt Adherence": {
+  "label": "Prompt Adherence"
+ },
+ "Prompt Library": {
+  "label": "提示词库"
+ },
+ "Prompt Marketplace": {
+  "label": "Prompt Marketplace"
+ },
+ "Prompts": {
+  "label": "提示词"
+ },
+ "Pronunciation": {
+  "label": "发音"
+ },
+ "Public Stats": {
+  "label": "公开数据"
+ },
+ "Publishing": {
+  "label": "发布"
+ },
+ "Punch-In": {
+  "label": "推近"
+ },
+ "QA": {
+  "label": "质量审核"
+ },
+ "QA Review": {
+  "label": "质量审核"
+ },
+ "Questions": {
+  "label": "问题"
+ },
+ "Quick Design": {
+  "label": "快速设计"
+ },
+ "Rank Tracker": {
+  "label": "排名跟踪"
+ },
+ "Real-time": {
+  "label": "实时"
+ },
+ "Real-time Trends": {
+  "label": "实时趋势"
+ },
+ "Realism": {
+  "label": "真实感"
+ },
+ "Realistic Avatars": {
+  "label": "逼真数字人"
+ },
+ "Realistic Motion": {
+  "label": "逼真动作"
+ },
+ "Reasoning": {
+  "label": "推理"
+ },
+ "Recommendations": {
+  "label": "推荐"
+ },
+ "Recording": {
+  "label": "录制"
+ },
+ "Recycling": {
+  "label": "回收"
+ },
+ "Redub": {
+  "label": "重新配音"
+ },
+ "Reels": {
+  "label": "Reels"
+ },
+ "Reference to Video": {
+  "label": "参考转视频"
+ },
+ "Reimagine": {
+  "label": "再想象"
+ },
+ "Remixing": {
+  "label": "混音"
+ },
+ "Remote Recording": {
+  "label": "远程录制"
+ },
+ "Repurposing": {
+  "label": "再利用"
+ },
+ "Research": {
+  "label": "研究"
+ },
+ "Resize": {
+  "label": "调整大小"
+ },
+ "Retention": {
+  "label": "留存"
+ },
+ "Rewrite": {
+  "label": "重写"
+ },
+ "Rewriting": {
+  "label": "重写"
+ },
+ "Rigging": {
+  "label": "绑定"
+ },
+ "Rough Cut": {
+  "label": "粗剪"
+ },
+ "Royalty-Free": {
+  "label": "免版税"
+ },
+ "SEO": {
+  "label": "SEO"
+ },
+ "SEO Briefs": {
+  "label": "SEO 简报"
+ },
+ "SEO Content": {
+  "label": "SEO 内容"
+ },
+ "SEO Research": {
+  "label": "SEO 研究"
+ },
+ "SERP": {
+  "label": "SERP"
+ },
+ "SRT": {
+  "label": "SRT"
+ },
+ "Sales": {
+  "label": "销售"
+ },
+ "Sales Videos": {
+  "label": "销售视频"
+ },
+ "Scale": {
+  "label": "规模"
+ },
+ "Scenarios": {
+  "label": "场景"
+ },
+ "Scenes": {
+  "label": "场景"
+ },
+ "Scheduling": {
+  "label": "排期"
+ },
+ "Scoring": {
+  "label": "评分"
+ },
+ "Scraping": {
+  "label": "抓取"
+ },
+ "Screen Recording": {
+  "label": "录屏"
+ },
+ "Script Writing": {
+  "label": "脚本写作"
+ },
+ "Self-Hosted": {
+  "label": "自托管"
+ },
+ "Sentiment": {
+  "label": "情绪分析"
+ },
+ "Shorten": {
+  "label": "缩短"
+ },
+ "Shorts": {
+  "label": "短视频"
+ },
+ "Show Notes": {
+  "label": "节目笔记"
+ },
+ "Silence Removal": {
+  "label": "静音移除"
+ },
+ "Simple": {
+  "label": "简单"
+ },
+ "Singing": {
+  "label": "演唱"
+ },
+ "Sky Replacement": {
+  "label": "换天"
+ },
+ "Smart Cut": {
+  "label": "智能剪辑"
+ },
+ "Social": {
+  "label": "社交"
+ },
+ "Social Content": {
+  "label": "社交内容"
+ },
+ "Social Copy": {
+  "label": "社交文案"
+ },
+ "Social Posts": {
+  "label": "社交帖子"
+ },
+ "Song Generation": {
+  "label": "歌曲生成"
+ },
+ "Sound Effects": {
+  "label": "音效"
+ },
+ "Soundboard": {
+  "label": "音板"
+ },
+ "Soundtracks": {
+  "label": "配乐"
+ },
+ "Sources": {
+  "label": "来源"
+ },
+ "Speaker ID": {
+  "label": "说话人识别"
+ },
+ "Speed": {
+  "label": "速度"
+ },
+ "Stable Diffusion": {
+  "label": "Stable Diffusion"
+ },
+ "Stem Splitting": {
+  "label": "分轨"
+ },
+ "Stems": {
+  "label": "音轨"
+ },
+ "Stock Avatars": {
+  "label": "素材数字人"
+ },
+ "Stock Library": {
+  "label": "素材库"
+ },
+ "Stock Photos": {
+  "label": "素材照片"
+ },
+ "Story": {
+  "label": "故事"
+ },
+ "Story Shorts": {
+  "label": "故事短视频"
+ },
+ "Storyboard": {
+  "label": "分镜"
+ },
+ "Storytelling": {
+  "label": "讲故事"
+ },
+ "Strategy": {
+  "label": "策略"
+ },
+ "Stream Clips": {
+  "label": "直播片段"
+ },
+ "Streaming": {
+  "label": "流媒体"
+ },
+ "Streams": {
+  "label": "直播"
+ },
+ "Studio": {
+  "label": "工作室"
+ },
+ "Studio Sound": {
+  "label": "录音棚音质"
+ },
+ "Studio Speech": {
+  "label": "录音棚语音"
+ },
+ "Style Consistency": {
+  "label": "风格一致"
+ },
+ "Style Transfer": {
+  "label": "风格迁移"
+ },
+ "Styles": {
+  "label": "风格"
+ },
+ "Stylized Video": {
+  "label": "风格化视频"
+ },
+ "Subtitle Editor": {
+  "label": "字幕编辑器"
+ },
+ "Subtitles": {
+  "label": "字幕"
+ },
+ "Summaries": {
+  "label": "摘要"
+ },
+ "Summarize": {
+  "label": "总结"
+ },
+ "Summarizer": {
+  "label": "总结器"
+ },
+ "Support": {
+  "label": "支持"
+ },
+ "Sync": {
+  "label": "同步"
+ },
+ "TTS Arena": {
+  "label": "TTS Arena"
+ },
+ "Tags": {
+  "label": "标签"
+ },
+ "Talking Avatar": {
+  "label": "说话数字人"
+ },
+ "Talking Characters": {
+  "label": "说话角色"
+ },
+ "Talking Photos": {
+  "label": "会说话的照片"
+ },
+ "Teams": {
+  "label": "团队"
+ },
+ "Templates": {
+  "label": "模板"
+ },
+ "Text Editing": {
+  "label": "文本编辑"
+ },
+ "Text Rendering": {
+  "label": "文字渲染"
+ },
+ "Text to 3D": {
+  "label": "文字转 3D"
+ },
+ "Text to Audio": {
+  "label": "文字转音频"
+ },
+ "Text to Music": {
+  "label": "文字转音乐"
+ },
+ "Text to SFX": {
+  "label": "文字转音效"
+ },
+ "Text to Speech": {
+  "label": "文字转语音"
+ },
+ "Text to Video": {
+  "label": "文字转视频"
+ },
+ "Text-Based Editing": {
+  "label": "文本化剪辑"
+ },
+ "Textures": {
+  "label": "纹理"
+ },
+ "Thumbnail Search": {
+  "label": "缩略图搜索"
+ },
+ "Thumbnails": {
+  "label": "缩略图"
+ },
+ "TikTok": {
+  "label": "TikTok"
+ },
+ "TikTok Editor": {
+  "label": "TikTok 编辑器"
+ },
+ "TikTok Effects": {
+  "label": "TikTok 特效"
+ },
+ "Timeline": {
+  "label": "时间线"
+ },
+ "Tips": {
+  "label": "技巧"
+ },
+ "Titles": {
+  "label": "标题"
+ },
+ "Tone": {
+  "label": "语气"
+ },
+ "Tone Control": {
+  "label": "语气控制"
+ },
+ "Topic Research": {
+  "label": "主题研究"
+ },
+ "Training": {
+  "label": "培训"
+ },
+ "Training Videos": {
+  "label": "培训视频"
+ },
+ "Transcription": {
+  "label": "转写"
+ },
+ "Translation": {
+  "label": "翻译"
+ },
+ "Trend Analysis": {
+  "label": "趋势分析"
+ },
+ "Trend Discovery": {
+  "label": "趋势发现"
+ },
+ "Twitch": {
+  "label": "Twitch"
+ },
+ "Universal-2": {
+  "label": "Universal-2"
+ },
+ "Upscale": {
+  "label": "放大"
+ },
+ "Upscaling": {
+  "label": "放大"
+ },
+ "V7": {
+  "label": "V7"
+ },
+ "VFX": {
+  "label": "VFX"
+ },
+ "Vector Art": {
+  "label": "矢量艺术"
+ },
+ "Vectors": {
+  "label": "矢量"
+ },
+ "Verified": {
+  "label": "已验证"
+ },
+ "Vertical Crop": {
+  "label": "竖屏裁剪"
+ },
+ "Video Dubbing": {
+  "label": "视频配音"
+ },
+ "Video Hooks": {
+  "label": "视频钩子"
+ },
+ "Video Match": {
+  "label": "视频匹配"
+ },
+ "Video Scripts": {
+  "label": "视频脚本"
+ },
+ "Video to 3D": {
+  "label": "视频转 3D"
+ },
+ "Video to Animation": {
+  "label": "视频转动画"
+ },
+ "Video to Anime": {
+  "label": "视频转动漫"
+ },
+ "Video to Video": {
+  "label": "视频转视频"
+ },
+ "Viral Data": {
+  "label": "病毒数据"
+ },
+ "Viral Shorts": {
+  "label": "爆款短视频"
+ },
+ "Virality Score": {
+  "label": "病毒式传播评分"
+ },
+ "Visual Builder": {
+  "label": "可视化构建器"
+ },
+ "Vocal Removal": {
+  "label": "人声移除"
+ },
+ "Vocals": {
+  "label": "人声"
+ },
+ "Voice Changer": {
+  "label": "变声器"
+ },
+ "Voice Clone": {
+  "label": "声音克隆"
+ },
+ "Voice Cloning": {
+  "label": "语音克隆"
+ },
+ "Voice Models": {
+  "label": "语音模型"
+ },
+ "Waveforms": {
+  "label": "波形"
+ },
+ "Web Embed": {
+  "label": "网页嵌入"
+ },
+ "Web-based": {
+  "label": "基于网页"
+ },
+ "Webinar Clipper": {
+  "label": "网络研讨会剪辑"
+ },
+ "Webinars": {
+  "label": "网络研讨会"
+ },
+ "Workflows": {
+  "label": "工作流"
+ },
+ "Workspace": {
+  "label": "工作区"
+ },
+ "X Data": {
+  "label": "X 数据"
+ },
+ "YouTube": {
+  "label": "YouTube"
+ },
+ "YouTube Art": {
+  "label": "YouTube 美术"
+ },
+ "YouTube Automation": {
+  "label": "YouTube 自动化"
+ },
+ "YouTube SEO": {
+  "label": "YouTube SEO"
+ },
+ "YouTube Scripts": {
+  "label": "YouTube 脚本"
+ },
+ "YouTube Thumbnails": {
+  "label": "YouTube 缩略图"
+ },
+ "YouTube to TikTok": {
+  "label": "YouTube 转 TikTok"
+ }
+}

@@ -1,0 +1,2999 @@
+{
+ "blog": {
+  "top-5-ai-tools-10x-youtube-shorts-views": {
+   "title": "2026 年让 YouTube Shorts 和 TikTok 播放量翻 10 倍的 5 款 AI 工具",
+   "excerpt": "别再花几小时手动剪辑动态字幕。我们目录中的五款剪辑工具——每款的用途以及如何选择。",
+   "categoryLabel": "YouTube 策略"
+  },
+  "elevenlabs-vs-heygen-voice-avatar-comparison": {
+   "title": "ElevenLabs 对比 HeyGen：应该选择哪个语音与数字人工作室？",
+   "excerpt": "语音与数字人两大领导者，根据记录在案的功能、定价和工作流进行比较。",
+   "categoryLabel": "工具对比"
+  },
+  "faceless-youtube-channel-ai-tool-stack": {
+   "title": "无脸 YouTube 频道背后的 4 工具 AI 工具栈（及其真实成本）",
+   "excerpt": "纪录片和财经类无脸频道常用 4 工具 AI 工具栈的完整拆解。",
+   "categoryLabel": "变现"
+  },
+  "midjourney-v7-thumbnail-ctr-secrets": {
+   "title": "如何训练 Midjourney 生成一致的 YouTube 缩略图角色",
+   "excerpt": "一个实用的提示词工作流——光照、镜头和角色参考技术——用于一致的缩略图。",
+   "categoryLabel": "缩略图与点击率"
+  },
+  "best-ai-video-generators-2026-tested": {
+   "title": "Sora 对比 Veo 对比 Kling 对比 Runway：如何在 2026 年 AI 视频生成器中做出选择",
+   "excerpt": "四款领先的 AI 视频生成器，根据记录在案的优点、定价模型和限制进行比较。",
+   "categoryLabel": "视频生成"
+  },
+  "complete-guide-ai-multilingual-video-dubbing": {
+   "title": "如何用 AI 配音让 YouTube 频道走向全球——设置指南",
+   "excerpt": "创作者如何使用 ElevenLabs 和 Rask AI 将视频翻译成西班牙语、印地语和日语。",
+   "categoryLabel": "YouTube 策略"
+  },
+  "free-ai-tool-stack-for-new-creators": {
+   "title": "0 美元 AI 创作者工具栈：2026 年起步的 12 款真正免费工具",
+   "excerpt": "无需试用，无需信用卡。这 12 款免费 AI 工具涵盖脚本、剪辑、字幕和缩略图。",
+   "categoryLabel": "入门"
+  },
+  "ai-podcast-production-workflow-2026": {
+   "title": "完整的 AI 播客工作流：3 小时内从录制到发布",
+   "excerpt": "独立播客主如何使用 Riverside、Descript 和 Headliner 制作完整剧集。",
+   "categoryLabel": "播客"
+  },
+  "ai-tools-seo-guide-video-creators": {
+   "title": "2026 年 YouTube SEO：AI 研究工具如何找到能排名的视频创意",
+   "excerpt": "vidIQ、1of10 和 Spotter Studio 对比——外加顶级频道使用的异常值研究方法。",
+   "categoryLabel": "YouTube 策略"
+  },
+  "ai-music-copyright-safe-soundtracks": {
+   "title": "版权安全的 AI 音乐：Suno、Udio 与免版税工具对比",
+   "excerpt": "你能用 AI 音乐让视频变现吗？我们拆解 Suno、Udio 等许可条款中的细枝末节。",
+   "categoryLabel": "音乐与音频"
+  }
+ },
+ "category": {
+  "Video Generation": {
+   "label": "视频生成",
+   "intro": "文字转视频和图像转视频模型能生成从未存在过的画面。2026 年它们对 B-roll、建立镜头和风格化插段确实有用，但任何需要跨镜头保持一致角色或精确口型同步的内容仍不可靠。",
+   "whatMatters": "模型失去连贯性之前的镜头长度——大多数在 8-10 秒后明显退化\n音频是原生生成还是需要单独添加\n输出的商业许可，不同厂商差异很大\n按可用秒数计费而非按生成次数——要预期大部分尝试会被丢弃",
+   "reality": "提示遵循度的进步远快于时间一致性。为每个真正发布的镜头预留多次生成的预算。"
+  },
+  "Video Editing & VFX": {
+   "label": "视频剪辑与特效",
+   "intro": "叠加在传统编辑器上的 AI 功能：物体移除、抠像、色彩匹配、放大和背景替换。这些工具在项目枯燥的中期节省的时间最多，而不是在创意开头或最终打磨阶段。",
+   "whatMatters": "是否能与你现有的剪辑软件集成，还是被迫额外往返\n你实际买得起的套餐的导出分辨率和编码器限制\nAI 失败时是否优雅——需要手工修复的坏蒙版比手工做更贵\n共享云基础设施高峰期的渲染队列时间",
+   "reality": "网页工具正在快速追赶，但任何色彩敏感或超过约 20 分钟的内容仍属于桌面编辑器。"
+  },
+  "Video Repurposing": {
+   "label": "视频再利用",
+   "intro": "剪辑工具将一段长录音——播客、访谈或直播——切成带字幕和重构图处理的竖屏短视频。这是最成熟的 AI 视频类别，投资回报也最清晰。",
+   "whatMatters": "字幕在口音和词汇上的准确性，这是大多数工具默默失败的地方\n多人录音的说话人感知重构\n片段选择是否真的出色，还是只是均匀挑选段落\n按输入分钟计费的积分系统在长素材上累积很快",
+   "reality": "这里几乎每个工具都承诺“病毒式传播评分”。把它当作粗略的排序辅助，而非预测。"
+  },
+  "Faceless Video": {
+   "label": "无脸视频",
+   "intro": "为镜头前无人出镜的频道打造的端到端流水线：利基研究、脚本、AI 语音、素材或生成画面、字幕和上传——往往全流程自动化。这是 YouTube 增长最快的子利基之一，也是低质产出最饱和的领域之一。",
+   "whatMatters": "流水线有多少是真正自动化的，而非“40 个手动步骤的自动化”\n你实际付费套餐的语音质量和商业权利\n画面是素材、AI 生成还是抓取的——最后一种会导致频道被取消变现\n月度输出限制，决定你每发布一个视频的真实成本",
+   "reality": "工具能用；策略才是难点。用这些工具获胜的频道仍需要利基、包装和坚持——自动化会成倍放大你喂给它的任何策略，无论好坏。"
+  },
+  "Voice & Audio": {
+   "label": "语音与音频",
+   "intro": "文字转语音、语音克隆、配音和音频修复。合成英语旁白如今对大多数听众几乎与专业人类朗读无法区分；其他语言和情感范围仍明显落后。",
+   "whatMatters": "免费套餐的商业权利——常常缺失，使其对变现频道无用\n克隆语音的同意和验证要求\n对名字、行话和缩略词的发音控制\n输出采样率，如果音频要混音而非原样使用就很重要",
+   "reality": "语音克隆质量已接近天花板；真正的差异现在在于定价模式、语言覆盖和许可条款。"
+  },
+  "Translation & Dubbing": {
+   "label": "翻译与配音",
+   "intro": "将现有视频带入新语言的工具：带克隆声音的机器配音、口型同步再生成和字幕本地化。对许多频道这是 ROI 最高的 AI 支出——内容已经存在，你只是在解锁新受众。",
+   "whatMatters": "原声是跨语言克隆还是被素材声音替换\n特写镜头的口型同步质量——可见的错位比口音更伤信任\n多说话人处理，区分严肃工具与演示\n按你实际体量的每分钟定价；配音按时长而非座位计费",
+   "reality": "机器配音对大多数创作者内容足够好，但对戏剧化表演还不够。顶级频道仍会让母语者在上传前检查习语和笑点。"
+  },
+  "Music & SFX": {
+   "label": "音乐与音效",
+   "intro": "为需要获得授权音频而无需在许可迷宫中周旋的创作者提供的生成式音乐和音效。适合背景铺底和简单音效；在具有特定结构弧线的作品上仍然薄弱。",
+   "whatMatters": "许可是否覆盖变现视频并能经受平台 Content ID 索赔\n分轨分离，以便闪避或混音而非接受完整混音\n长度控制以及循环是否干净衔接\n取消订阅后许可是否仍然有效",
+   "reality": "仔细阅读许可条款。有几款工具授予的权利会随你的订阅终止，这对存量内容是个问题。"
+  },
+  "AI Avatars": {
+   "label": "AI 数字人",
+   "intro": "在镜头前朗读脚本的合成主持人，加上现有素材的口型同步翻译。在企业讲解片和本地化上表现出色；在随意内容中对大多数观众仍可识别为合成。",
+   "whatMatters": "能否创建你自己的定制数字人，以及需要什么验证\n语言覆盖以及口型同步是按语言重新生成还是仅覆盖配音\n手势范围——静态主持人很快显得不自然\n按分钟定价，使长视频成本不成比例地高",
+   "reality": "观众越来越擅长识别它们。在观众期待正式演示的场合效果最好。"
+  },
+  "Thumbnails & Design": {
+   "label": "缩略图与设计",
+   "intro": "以点击率为导向的图像生成和编辑：缩略图、频道美术和社交图形。生成模型在背景和概念上出色，在可读文字上仍然薄弱。",
+   "whatMatters": "文字渲染质量，仍是每个图像模型最薄弱的点\n如果你出现在自己的缩略图中，面部一致性\n是否按每个平台要求的精确尺寸导出\nA/B 测试支持，对实际 CTR 比原始图像质量更重要",
+   "reality": "用 AI 生成背景，在真正的编辑器中添加文字。几乎所有专业人士都这么做。"
+  },
+  "Scripting & Writing": {
+   "label": "脚本与写作",
+   "intro": "为视频调优的语言模型：钩子、大纲、完整脚本、标题和描述。对结构和克服空白页真正有用；输出仍需要你的声音叠加其上。",
+   "whatMatters": "是否基于你现有的文字稿而非通用提示词工作\n钩子变化质量——前八秒决定留存\n针对平台的格式化，适用于描述框、章节和置顶评论\n对特定受众来说，原始输出有多明显是 AI 写的",
+   "reality": "把它们用于骨架，绝不用于最终稿。观众能很快识破未经编辑的模型输出，它会抹平让频道成功的个性。"
+  },
+  "AI Agents & Assistants": {
+   "label": "AI 智能体与助手",
+   "intro": "位于整个创作者工作流底层的通用助手和研究代理：头脑风暴、大纲、事实核查、来源总结和多步骤任务自动化。它们不交付视频——它们让其他每一步更快。",
+   "whatMatters": "上下文窗口和文件处理，决定它能否消化你的文字稿和研究文件夹\n任何事实性内容的引文和网络访问——无引用的模型输出绝不应进入脚本\n付费套餐是增加真实能力（推理、代理、集成）还是只是容量\n数据条款：你的提示词和上传是否用于训练",
+   "reality": "前沿助手之间的能力差距已缩小；更大的差异是你围绕所选工具建立提示词与事实核查流程的纪律。"
+  },
+  "Prompts & Templates": {
+   "label": "提示词与模板",
+   "intro": "面向本目录其余生成工具的可复用提示词和模板的市场、库和扩展。好的提示词库是捷径；坏的则给你的产出封顶。",
+   "whatMatters": "提示词是否附带可验证的示例输出供购买前核验\n模型版本——一个出色的 Midjourney v5 提示词在 v7 中可能毫无用处\n提示词本身以及你用其产出的任何内容的许可\n付费市场的退款或质量政策",
+   "reality": "购买的提示词是辅助轮，不是护城河。用它学习好提示词的结构，然后写出贴合自己风格的提示词。"
+  },
+  "Transcription & Captions": {
+   "label": "转写与字幕",
+   "intro": "语音转文字、字幕生成和翻译。本目录最可靠的 AI 类别——清晰英语的准确率通常超过 95%，开源选项与付费选项竞争。",
+   "whatMatters": "带口音语音和技术词汇的词错率\n多人录音的说话人分离质量\n导出格式——SRT、VTT 和烧录样式不可互换\n翻译是纯机器还是经过审核，这对发布的字幕很重要",
+   "reality": "这是免费自托管选项真正能与付费服务竞争的一类。"
+  },
+  "SEO & Analytics": {
+   "label": "SEO 与分析",
+   "intro": "面向视频平台的关键词研究、竞争对手分析、标题测试和表现面板。它们显示真实数据，但上面的 AI 推荐层从有洞见到迷信不一而足。",
+   "whatMatters": "数据来自平台官方 API 还是估算\n估算如何计算，供应商是否透明\nA/B 测试是真实的还是只是顺序比较\n历史深度，决定趋势分析是否有意义",
+   "reality": "把搜索量估算当作方向性参考。没有任何第三方能访问真实的排名信号。"
+  },
+  "Automation": {
+   "label": "自动化",
+   "intro": "连接你其余工具栈的工作流工具：发布、跨平台分发、文件处理和多重管道。流程稳定后是杠杆最高的类别，之前则是浪费时间。",
+   "whatMatters": "哪些平台有真正的 API 访问，而非脆弱的浏览器自动化\n管道中途某步失败时的错误处理\n能否自托管，这对成本和隐私很重要\n按任务或操作定价，随数量增长扩展性差",
+   "reality": "只有在你手动运行一个工作流足够多次、确信它下个月不会改变之后，才将其自动化。"
+  },
+  "Live & Streaming": {
+   "label": "直播与流媒体",
+   "intro": "面向现场制作的实时工具：即时剪辑、直播字幕、流媒体监控和自动精彩片段检测。延迟限制意味着这里的质量落后于离线同类工具。",
+   "whatMatters": "端到端延迟，决定字幕直播是否可用\n精彩片段是实时检测还是只在直播结束后\n本地资源占用——任何在你编码机上运行的程序都会消耗帧\nTwitch、YouTube 和 Kick 的平台覆盖",
+   "reality": "如果可能，把任何 AI 驱动的东西放在第二台机器上运行。与编码器共享 GPU 就是丢帧的原因。"
+  },
+  "3D & Motion": {
+   "label": "3D 与动态",
+   "intro": "动作捕捉、3D 资产生成、镜头跟踪和程序化动画。这里最不成熟的类别，但提升最快，而且输出很难用其他方式生产。",
+   "whatMatters": "生成的网格是否干净到可直接使用，还是需要完整重拓扑\n快速运动和遮挡下无标记动作捕捉的精度\n与 Blender、Unreal 及现有管道的导出兼容性\n是否包含绑定，还是留给你自己完成",
+   "reality": "把 AI 输出当作起点，而非成品资产。节省的时间在于粗模，而非打磨。"
+  }
+ },
+ "news": {
+  "veo-3-render-pricing-drops": {
+   "title": "Veo 3 上线：渲染价格下调，API 新增 720p 导出",
+   "excerpt": "谷歌悄然下调 Veo 3 的 API 每秒价格并新增 720p 输出，降低了片段生产成本。",
+   "categoryLabel": "视频生成"
+  },
+  "elevenlabs-dubbing-studio-30-languages": {
+   "title": "ElevenLabs 将配音工作室扩展到 30 种语言，保留情感表达",
+   "excerpt": "新的配音流程在不同语言间保持情绪基调，这对本地化很重要。",
+   "categoryLabel": "语音与音频"
+  },
+  "youtube-monetization-human-input-rule-update": {
+   "title": "YouTube 澄清 AI 频道的“显著人工投入”规则",
+   "excerpt": "新指南称，经 AI 辅助编辑的内容符合变现资格，但完全自动化的内容不符合。",
+   "categoryLabel": "行业"
+  },
+  "runway-api-4k-upscale-ga": {
+   "title": "Runway 将 API 放大功能正式上线",
+   "excerpt": "4K 放大端点现已 GA 并生产稳定，创作者可修复模糊的生成输出。",
+   "categoryLabel": "视频生成"
+  },
+  "opusclip-virality-filter-free-tier": {
+   "title": "OpusClip 扩大免费套餐并新增留存优先的片段筛选",
+   "excerpt": "新的“留存优先”筛选器将片段选择偏向观众流失最高的时刻。",
+   "categoryLabel": "视频再利用"
+  },
+  "suno-pro-license-update-monetized": {
+   "title": "Suno 更新 Pro 许可，明确覆盖变现视频",
+   "excerpt": "修订后的 Pro 条款明确允许生成曲目的商业用途，消除了模糊地带。",
+   "categoryLabel": "音乐与音频"
+  },
+  "descript-studio-sound-multitrack": {
+   "title": "Descript 为群组剪辑新增多轨 Studio Sound",
+   "excerpt": "Studio Sound 现在分别清理每位参与者的音轨，而非单一混音，保留自然听感。",
+   "categoryLabel": "视频剪辑与特效"
+  },
+  "n8n-ai-workflow-templates-for-creators": {
+   "title": "n8n 发布创作者自动化工作流入门模板",
+   "excerpt": "预制模板现在涵盖发布和跨平台分发管道，减少设置时间。",
+   "categoryLabel": "自动化"
+  },
+  "capcut-web-pro-free-tier-expansion": {
+   "title": "CapCut 扩大网页免费套餐，新增 AI 字幕和文字工具",
+   "excerpt": "更多字幕和文字编辑功能转移到免费网页套餐，缩小与付费版差距。",
+   "categoryLabel": "视频剪辑与特效"
+  },
+  "heygen-avatar-v6-uncanny-valley": {
+   "title": "HeyGen 预览 Avatar v6，瞄准恐怖谷最后一块",
+   "excerpt": "泄露的产品预览显示更精细的微表情细节，旨在让主持人更自然。",
+   "categoryLabel": "AI 数字人"
+  },
+  "kling-2-master-model-all-tiers": {
+   "title": "Kling 2.0 主模型向所有套餐开放，支持 3 分钟连贯片段",
+   "excerpt": "快手扩大主模型访问权限并将连贯片段长度提升三倍，加剧竞争。",
+   "categoryLabel": "视频生成"
+  },
+  "capcut-script-to-short-faceless-pipeline": {
+   "title": "CapCut 推出面向无脸频道的脚本转短视频管道",
+   "excerpt": "免费编辑器串联了脚本导入、AI 语音、素材匹配和自动字幕。",
+   "categoryLabel": "无脸视频"
+  },
+  "suno-stem-export-licensing-clarity": {
+   "title": "Suno 新增分轨导出，并用通俗语言明确变现视频许可",
+   "excerpt": "Pro 订阅者现在可以下载人声/伴奏分轨，许可页面明确声明变现用途。",
+   "categoryLabel": "音乐与音频"
+  },
+  "vidiq-outlier-alerts-dashboard": {
+   "title": "vidIQ 将异常值提醒直接推送至频道仪表盘",
+   "excerpt": "你的利基市场中的异常值不再只是研究标签页，而是在开始起飞的那小时提醒你。",
+   "categoryLabel": "SEO 与分析"
+  },
+  "runway-gen4-character-consistency": {
+   "title": "Runway Gen-4 新增参考锁定的人物一致性控制",
+   "excerpt": "参考图像现在可在生成的镜头间锚定身份，瞄准最大遗留障碍。",
+   "categoryLabel": "视频生成"
+  },
+  "adobe-podcast-multitrack-paid-tier": {
+   "title": "Adobe Podcast 新增付费多轨套餐；Enhance 保持免费",
+   "excerpt": "免费的一键 Enhance 保留，而多轨会话和批量处理转移到付费版。",
+   "categoryLabel": "价格"
+  },
+  "midjourney-v8-beta-text-brand-kits": {
+   "title": "Midjourney V8 测试版瞄准清晰文字和创作者品牌套件",
+   "excerpt": "测试版聚焦可读标题和可复用风格/品牌套件——一个直接的主张。",
+   "categoryLabel": "缩略图与设计"
+  },
+  "heygen-v6-beta-gesture-control": {
+   "title": "HeyGen v6 数字人带着定向手势进入公开测试",
+   "excerpt": "创作者现在可以按句子编排强调手势，追逐恐怖谷的最后一块。",
+   "categoryLabel": "AI 数字人"
+  },
+  "youtube-auto-dub-all-monetized": {
+   "title": "YouTube 向所有变现频道推出自动配音音轨",
+   "excerpt": "多语言音频此前与大型合作伙伴试点，现在成为所有人的 Studio 选项。",
+   "categoryLabel": "行业"
+  },
+  "sora-storyboard-to-video-pro": {
+   "title": "OpenAI Sora 为 ChatGPT Pro 订阅者新增分镜转视频",
+   "excerpt": "面板式分镜现在驱动多镜头生成，每个面板带镜头笔记。",
+   "categoryLabel": "视频生成"
+  },
+  "descript-live-transcript-collab": {
+   "title": "Descript 推出实时文稿协作，支持团队剪辑",
+   "excerpt": "编辑者现在可以在共享文稿会话中看到彼此的剪辑，并逐段评论。",
+   "categoryLabel": "发布"
+  },
+  "elevenlabs-conversational-agents-ga": {
+   "title": "ElevenLabs 对话语音代理正式上线",
+   "excerpt": "亚秒延迟的语音代理现已生产就绪，按分钟定价已公布。",
+   "categoryLabel": "语音与音频"
+  },
+  "n8n-creator-pack-40-templates": {
+   "title": "n8n 发布面向无脸管道的 40 模板创作者套件",
+   "excerpt": "开源自动化变得有主见：脚本 → 语音 → 渲染 → 发布链条，带错误处理。",
+   "categoryLabel": "自动化"
+  },
+  "opusclip-hook-strength-ab": {
+   "title": "OpusClip 为剪好的短视频新增钩子强度建议",
+   "excerpt": "每个导出的片段现在都带有钩子评分，以及针对第一行的两条改写建议。",
+   "categoryLabel": "视频再利用"
+  },
+  "elevenlabs-creator-tier-cut": {
+   "title": "ElevenLabs 在 TTS 价格战中下调创作者套餐价格 20%",
+   "excerpt": "Starter 和 Creator 套餐下降五分之一，竞争对手语音实验室争夺旁白者。",
+   "categoryLabel": "价格"
+  },
+  "capcut-ai-relighting": {
+   "title": "CapCut Pro 为口播视频新增 AI 重新布光",
+   "excerpt": "一个滑块即可在拍摄素材上重建主光和轮廓光，专为补救场景设计。",
+   "categoryLabel": "视频剪辑与特效"
+  },
+  "sora-template-gallery": {
+   "title": "Sora 模板画廊向 ChatGPT Pro 创作者开放",
+   "excerpt": "可浏览的分镜模板画廊，一键混剪到自己的镜头。",
+   "categoryLabel": "视频生成"
+  },
+  "runway-descript-integration": {
+   "title": "Runway 与 Descript 集成：按文稿编辑生成的片段",
+   "excerpt": "Runway 生成的镜头现在可进入 Descript 项目，带可编辑场景笔记。",
+   "categoryLabel": "发布"
+  },
+  "heygen-mobile-lipsync": {
+   "title": "HeyGen 口型同步配音面向移动创作者推出",
+   "excerpt": "移动应用现在可为你口播视频进行 12 种语言的口型同步配音。",
+   "categoryLabel": "AI 数字人"
+  },
+  "kling-camera-presets": {
+   "title": "Kling 2.0 为短视频创作者新增镜头控制预设",
+   "excerpt": "急推、环绕和轨道预设随主模型一同登陆所有套餐。",
+   "categoryLabel": "视频生成"
+  },
+  "suno-stems-youtubers": {
+   "title": "Suno 为 YouTuber 推出 30 秒无广告分轨",
+   "excerpt": "面向短视频的许可：预授权 30 秒分轨，带人声/伴奏分离。",
+   "categoryLabel": "音乐与音频"
+  },
+  "midjourney-brand-kits": {
+   "title": "Midjourney 品牌套件：每个缩略图统一调色板",
+   "excerpt": "调色板、颗粒和构图的风格锁定进入 V8 测试版。",
+   "categoryLabel": "缩略图与设计"
+  },
+  "veo-inside-shorts": {
+   "title": "Google Veo 进入 YouTube Shorts：剪辑时生成 B-roll",
+   "excerpt": "Shorts 编辑器现在可以不离开时间线请求 6 秒 Veo 插入。",
+   "categoryLabel": "视频生成"
+  },
+  "descript-studio-sound-free": {
+   "title": "Descript Studio Sound 进入免费套餐",
+   "excerpt": "让 Descript 成名的一键音频修复现在对单声道导出免费。",
+   "categoryLabel": "语音与音频"
+  },
+  "sora-watermark-api": {
+   "title": "Sora 水印 API 让编辑者验证来源",
+   "excerpt": "面向 C2PA 来源的读取 API，管道可自动检查生成的镜头。",
+   "categoryLabel": "行业"
+  },
+  "capcut-opusclip-clipping-war": {
+   "title": "CapCut 与 OpusClip 争夺播客剪辑桂冠",
+   "excerpt": "两者在一周内先后推出说话人感知重构和钩子评分。",
+   "categoryLabel": "视频再利用"
+  },
+  "elevenlabs-accent-retention": {
+   "title": "ElevenLabs 配音在创作者测试中达到 95% 口音保持",
+   "excerpt": "8 个频道的社区基准显示，新流程保留了播报身份。",
+   "categoryLabel": "翻译与配音"
+  },
+  "pika-scene-ingredients": {
+   "title": "Pika 3 新增场景配料，实现一致 B-roll",
+   "excerpt": "一次性上传参考对象；每个生成的镜头都保持一致。",
+   "categoryLabel": "视频生成"
+  },
+  "synthesia-veed": {
+   "title": "Synthesia 数字人进入 VEED 编辑器",
+   "excerpt": "粘贴脚本、拖入数字人、像普通片段一样剪辑——无需切换应用。",
+   "categoryLabel": "AI 数字人"
+  },
+  "luma-price-cut-1080p": {
+   "title": "Luma Dream Machine 降价：9.99 美元套餐获得 1080p",
+   "excerpt": "标准套餐现在以相同积分逻辑渲染 1080p。",
+   "categoryLabel": "价格"
+  },
+  "n8n-elevenlabs-autodub": {
+   "title": "n8n + ElevenLabs 模板在发布时自动为短视频配音",
+   "excerpt": "一个开放模板串联发布 → 配音 → 上传，带人工质检点。",
+   "categoryLabel": "自动化"
+  },
+  "midjourney-v8-legibility": {
+   "title": "Midjourney V8 文字渲染通过缩略图可读性测试",
+   "excerpt": "三字标题在大多数生成中以手机尺寸清晰渲染。",
+   "categoryLabel": "缩略图与设计"
+  },
+  "heygen-gestures-all-tiers": {
+   "title": "HeyGen 手势控制向所有付费套餐开放",
+   "excerpt": "按句子定向的手势离开测试版，抵达每个付费套餐。",
+   "categoryLabel": "AI 数字人"
+  },
+  "runway-gen4-reference": {
+   "title": "Runway Gen-4 一致性：一个参考，十个镜头",
+   "excerpt": "参考锁定的身份在我们的检查中跨越十个镜头保持稳定。",
+   "categoryLabel": "视频生成"
+  },
+  "suno-udio-pledge": {
+   "title": "Suno 与 Udio 联合发布变现清晰度承诺",
+   "excerpt": "单页许可、通俗语言和共享的争议处理流程。",
+   "categoryLabel": "音乐与音频"
+  },
+  "capcut-multitrack-cleanup": {
+   "title": "CapCut 网页版新增 Studio Sound 风格多轨清理",
+   "excerpt": "跨轨批量清理登陆网页版，追赶 Descript 的旗舰功能。",
+   "categoryLabel": "语音与音频"
+  },
+  "veo-native-audio": {
+   "title": "Veo 3.1 原生音频：自带声音的 B-roll",
+   "excerpt": "生成的镜头现在包含匹配的环境声和拟音，可作为音轨编辑。",
+   "categoryLabel": "视频生成"
+  },
+  "opusclip-virality-v2": {
+   "title": "OpusClip 病毒式评分 v2 解释片段为何获胜",
+   "excerpt": "评分现在每个片段附带三条可读理由。",
+   "categoryLabel": "视频再利用"
+  },
+  "kling-motion-brush-free": {
+   "title": "Kling 动态笔刷进入免费套餐",
+   "excerpt": "区域级运动方向现在免费，带水印 720p 导出。",
+   "categoryLabel": "视频生成"
+  },
+  "elevenlabs-agents-live": {
+   "title": "ElevenLabs 对话代理用于直播",
+   "excerpt": "亚秒语音代理以主持人和联合主持身份加入直播。",
+   "categoryLabel": "直播与流媒体"
+  },
+  "descript-multicam": {
+   "title": "Descript 为视频播客新增 AI 多机位切换",
+   "excerpt": "文稿现在根据说话人和能量驱动镜头切换。",
+   "categoryLabel": "视频剪辑与特效"
+  },
+  "sora-storyboard-faceless": {
+   "title": "Sora 分镜模式：面向无脸频道的定向镜头",
+   "excerpt": "面板驱动的序列在整个视频中保持一致的取景语言。",
+   "categoryLabel": "无脸视频"
+  },
+  "midjourney-canva-pipeline": {
+   "title": "Midjourney + Canva 管道：不离开品牌套件制作缩略图",
+   "excerpt": "一个连接器将生成结果直接推入 Canva 品牌模板。",
+   "categoryLabel": "缩略图与设计"
+  },
+  "capcut-template-marketplace": {
+   "title": "CapCut 为模板卖家推出创作者市场",
+   "excerpt": "卖家保留 70%；模板为买家携带使用分析。",
+   "categoryLabel": "发布"
+  },
+  "heygen-v6-beta-gestures": {
+   "title": "HeyGen v6 公开测试版：按句子定向手势",
+   "excerpt": "测试者编排点头和节拍；渲染时间下降 30%。",
+   "categoryLabel": "AI 数字人"
+  },
+  "veo-pricing-caps": {
+   "title": "Google Veo API 为工作室新增每秒价格上限",
+   "excerpt": "月度上限让生成的 B-roll 在工作室规模下可预算。",
+   "categoryLabel": "价格"
+  },
+  "suno-stem-licensing-faq": {
+   "title": "Suno 分轨导出伴随重写的许可常见问题发布",
+   "excerpt": "分轨附带面向视频用途的单页许可摘要。",
+   "categoryLabel": "音乐与音频"
+  },
+  "runway-frameio-sync": {
+   "title": "Runway 与 Frame.io 将生成片段同步到审核流程",
+   "excerpt": "生成的镜头进入 Frame.io，带提示词和拍摄元数据。",
+   "categoryLabel": "发布"
+  },
+  "pika-vertical-effects": {
+   "title": "Pika 特效库面向 Shorts 竖屏优先",
+   "excerpt": "病毒式特效包现在原生渲染 9:16 并带安全区。",
+   "categoryLabel": "视频再利用"
+  },
+  "elevenlabs-agents-ga-pricing": {
+   "title": "ElevenLabs 代理 GA 版按分钟定价",
+   "excerpt": "生产级语音代理发布，带每分钟费率公开和同意工具。",
+   "categoryLabel": "语音与音频"
+  },
+  "opusclip-retention-filter": {
+   "title": "OpusClip 留存筛选器自动剪掉静默死区",
+   "excerpt": "新流程在剪辑前剪掉死区与离题，节省导出积分。",
+   "categoryLabel": "视频再利用"
+  },
+  "kling-lipsync-dubbing": {
+   "title": "Kling 2.1 口型同步弥合配音差距",
+   "excerpt": "配音音频现在驱动生成和上传素材上的嘴唇运动。",
+   "categoryLabel": "翻译与配音"
+  },
+  "midjourney-v8-hands": {
+   "title": "Midjourney V8.1 修复双手，文字保持清晰",
+   "excerpt": "永恒的梗悄然消逝；手势密集的缩略图现在安全了。",
+   "categoryLabel": "缩略图与设计"
+  },
+  "descript-live-collab": {
+   "title": "Descript 实时文稿协作上线",
+   "excerpt": "多编辑者会话带实时光标，用于团队播客剪辑。",
+   "categoryLabel": "发布"
+  },
+  "veo-google-vids": {
+   "title": "Veo 进入 Google Vids：为演示者提供触手可及的 B-roll",
+   "excerpt": "Workspace 用户无需离开幻灯片转视频流程即可请求生成插入。",
+   "categoryLabel": "视频生成"
+  }
+ },
+ "tag": {
+  "1080p": {
+   "label": "1080p"
+  },
+  "120+ Languages": {
+   "label": "超过 120 种语言"
+  },
+  "120+ Voices": {
+   "label": "超过 120 个声音"
+  },
+  "130+ Languages": {
+   "label": "超过 130 种语言"
+  },
+  "13B Params": {
+   "label": "13B Params"
+  },
+  "140+ Languages": {
+   "label": "超过 140 种语言"
+  },
+  "200+ Languages": {
+   "label": "超过 200 种语言"
+  },
+  "250+ Styles": {
+   "label": "超过 250 种风格"
+  },
+  "2500+ Voices": {
+   "label": "超过 2500 个声音"
+  },
+  "26 Languages": {
+   "label": "26 种语言"
+  },
+  "28 Languages": {
+   "label": "28 种语言"
+  },
+  "2D to 3D": {
+   "label": "2D 转 3D"
+  },
+  "3-Min Tracks": {
+   "label": "3 分钟曲目"
+  },
+  "30+ Languages": {
+   "label": "超过 30 种语言"
+  },
+  "30+ Platforms": {
+   "label": "超过 30 个平台"
+  },
+  "3D Animation": {
+   "label": "3D 动画"
+  },
+  "3D Design": {
+   "label": "3D 设计"
+  },
+  "3D Export": {
+   "label": "3D 导出"
+  },
+  "40+ Languages": {
+   "label": "超过 40 种语言"
+  },
+  "40+ Templates": {
+   "label": "超过 40 个模板"
+  },
+  "400+ Integrations": {
+   "label": "超过 400 个集成"
+  },
+  "4K": {
+   "label": "4K"
+  },
+  "50+ Languages": {
+   "label": "超过 50 种语言"
+  },
+  "500+ Voices": {
+   "label": "超过 500 个声音"
+  },
+  "5000+ Apps": {
+   "label": "超过 5000 个应用"
+  },
+  "60+ Languages": {
+   "label": "超过 60 种语言"
+  },
+  "70+ Languages": {
+   "label": "超过 70 种语言"
+  },
+  "80+ Languages": {
+   "label": "超过 80 种语言"
+  },
+  "8K": {
+   "label": "8K"
+  },
+  "90+ Languages": {
+   "label": "超过 90 种语言"
+  },
+  "95+ Languages": {
+   "label": "超过 95 种语言"
+  },
+  "99% Accuracy": {
+   "label": "99% 准确率"
+  },
+  "A/B Testing": {
+   "label": "A/B 测试"
+  },
+  "AI Agents": {
+   "label": "AI 智能体"
+  },
+  "AI Assist": {
+   "label": "AI 辅助"
+  },
+  "AI Assistant": {
+   "label": "AI 助手"
+  },
+  "AI Avatars": {
+   "label": "AI 数字人"
+  },
+  "AI Captions": {
+   "label": "AI 字幕"
+  },
+  "AI Clipping": {
+   "label": "AI 剪辑"
+  },
+  "AI Clone": {
+   "label": "AI 克隆"
+  },
+  "AI Copilot": {
+   "label": "AI 副驾驶"
+  },
+  "AI Generated": {
+   "label": "AI 生成"
+  },
+  "AI Highlights": {
+   "label": "AI 精彩集锦"
+  },
+  "AI Posts": {
+   "label": "AI 帖子"
+  },
+  "AI Scenes": {
+   "label": "AI 场景"
+  },
+  "AI Scripting": {
+   "label": "AI 脚本"
+  },
+  "AI Voice": {
+   "label": "AI 语音"
+  },
+  "AI Voiceover": {
+   "label": "AI 配音"
+  },
+  "AI Write": {
+   "label": "AI 写作"
+  },
+  "API": {
+   "label": "API"
+  },
+  "ASR": {
+   "label": "ASR"
+  },
+  "Accessibility": {
+   "label": "无障碍"
+  },
+  "Ad Scripts": {
+   "label": "广告脚本"
+  },
+  "Adobe": {
+   "label": "Adobe"
+  },
+  "Ads": {
+   "label": "广告"
+  },
+  "After Effects": {
+   "label": "After Effects"
+  },
+  "Agents": {
+   "label": "智能体"
+  },
+  "Aggregator": {
+   "label": "聚合器"
+  },
+  "Alerts": {
+   "label": "提醒"
+  },
+  "Alibaba": {
+   "label": "Alibaba"
+  },
+  "All Platforms": {
+   "label": "所有平台"
+  },
+  "All-in-One": {
+   "label": "一体化"
+  },
+  "Ambience": {
+   "label": "氛围"
+  },
+  "Analysis": {
+   "label": "分析"
+  },
+  "Analytics": {
+   "label": "分析"
+  },
+  "Animated Captions": {
+   "label": "动画字幕"
+  },
+  "Animation": {
+   "label": "动画"
+  },
+  "Anime": {
+   "label": "Anime"
+  },
+  "Apple": {
+   "label": "Apple"
+  },
+  "Art": {
+   "label": "艺术"
+  },
+  "Artists": {
+   "label": "艺术家"
+  },
+  "Audio": {
+   "label": "音频"
+  },
+  "Audio Enhancement": {
+   "label": "音频增强"
+  },
+  "Audio Overviews": {
+   "label": "音频概览"
+  },
+  "Audio Post-Production": {
+   "label": "音频后期"
+  },
+  "Audio Reactive": {
+   "label": "音频响应"
+  },
+  "Audio Sync": {
+   "label": "音频同步"
+  },
+  "Audiograms": {
+   "label": "声波图"
+  },
+  "Auto B-Roll": {
+   "label": "自动 B-roll"
+  },
+  "Auto Captions": {
+   "label": "自动字幕"
+  },
+  "Auto Compositing": {
+   "label": "自动合成"
+  },
+  "Auto Edit": {
+   "label": "自动剪辑"
+  },
+  "Auto Editing": {
+   "label": "自动剪辑"
+  },
+  "Auto Subtitles": {
+   "label": "自动字幕"
+  },
+  "Auto Zoom": {
+   "label": "自动变焦"
+  },
+  "Auto-Captions": {
+   "label": "自动字幕"
+  },
+  "Auto-Publish": {
+   "label": "自动发布"
+  },
+  "Auto-Translate": {
+   "label": "自动翻译"
+  },
+  "Autodesk": {
+   "label": "Autodesk"
+  },
+  "Automated Video": {
+   "label": "自动化视频"
+  },
+  "Autonomous": {
+   "label": "自主"
+  },
+  "Autoposing": {
+   "label": "自动摆姿"
+  },
+  "B2B": {
+   "label": "B2B"
+  },
+  "Background Music": {
+   "label": "背景音乐"
+  },
+  "Background Removal": {
+   "label": "背景移除"
+  },
+  "Bad Takes": {
+   "label": "糟糕镜头"
+  },
+  "Batch": {
+   "label": "批量"
+  },
+  "Beginner Friendly": {
+   "label": "新手友好"
+  },
+  "Benchmarks": {
+   "label": "基准测试"
+  },
+  "Best Time": {
+   "label": "最佳时间"
+  },
+  "Blender": {
+   "label": "Blender"
+  },
+  "Blog Posts": {
+   "label": "博客文章"
+  },
+  "Blog to Video": {
+   "label": "博客转视频"
+  },
+  "Body Language": {
+   "label": "肢体语言"
+  },
+  "Brainstorming": {
+   "label": "头脑风暴"
+  },
+  "Brand Styles": {
+   "label": "品牌风格"
+  },
+  "Brand Templates": {
+   "label": "品牌模板"
+  },
+  "Brand Voice": {
+   "label": "品牌语调"
+  },
+  "Branded Content": {
+   "label": "品牌内容"
+  },
+  "Brands": {
+   "label": "品牌"
+  },
+  "Broadcast": {
+   "label": "直播"
+  },
+  "Browser": {
+   "label": "浏览器"
+  },
+  "Browser Editor": {
+   "label": "浏览器编辑器"
+  },
+  "Budget": {
+   "label": "预算"
+  },
+  "Bulk": {
+   "label": "批量"
+  },
+  "Bulk Processing": {
+   "label": "批量处理"
+  },
+  "Bulk Scheduling": {
+   "label": "批量排期"
+  },
+  "Bullet Time": {
+   "label": "子弹时间"
+  },
+  "ByteDance": {
+   "label": "ByteDance"
+  },
+  "CG Characters": {
+   "label": "CG 角色"
+  },
+  "CTR": {
+   "label": "点击率"
+  },
+  "Calls": {
+   "label": "通话"
+  },
+  "Camera Control": {
+   "label": "镜头控制"
+  },
+  "Camera Direction": {
+   "label": "镜头方向"
+  },
+  "Camera Moves": {
+   "label": "镜头运动"
+  },
+  "Canvas": {
+   "label": "画布"
+  },
+  "Captions": {
+   "label": "字幕"
+  },
+  "Carousels": {
+   "label": "轮播图"
+  },
+  "Categories": {
+   "label": "分类"
+  },
+  "Celebrity Voices": {
+   "label": "名人声音"
+  },
+  "Chapters": {
+   "label": "章节"
+  },
+  "Character Animation": {
+   "label": "角色动画"
+  },
+  "Character Consistency": {
+   "label": "角色一致性"
+  },
+  "Character Motion": {
+   "label": "角色动作"
+  },
+  "Characters": {
+   "label": "角色"
+  },
+  "ChatGPT": {
+   "label": "ChatGPT"
+  },
+  "ChatGPT Extension": {
+   "label": "ChatGPT Extension"
+  },
+  "Chatbot": {
+   "label": "聊天机器人"
+  },
+  "Chord Detection": {
+   "label": "和弦检测"
+  },
+  "Cinematic": {
+   "label": "电影感"
+  },
+  "Citations": {
+   "label": "引用"
+  },
+  "Clarity": {
+   "label": "清晰度"
+  },
+  "Clip Farming": {
+   "label": "批量产片"
+  },
+  "Clips": {
+   "label": "片段"
+  },
+  "Code": {
+   "label": "代码"
+  },
+  "Collaboration": {
+   "label": "协作"
+  },
+  "Color Grading": {
+   "label": "调色"
+  },
+  "Colorize": {
+   "label": "上色"
+  },
+  "Commercial License": {
+   "label": "商业许可"
+  },
+  "Commercially Safe": {
+   "label": "商业安全"
+  },
+  "Community": {
+   "label": "社区"
+  },
+  "Competitor Intel": {
+   "label": "竞品情报"
+  },
+  "Competitors": {
+   "label": "竞争对手"
+  },
+  "Complex Logic": {
+   "label": "复杂逻辑"
+  },
+  "Compliance": {
+   "label": "合规"
+  },
+  "Consistent Characters": {
+   "label": "一致角色"
+  },
+  "Consumer GPU": {
+   "label": "消费级 GPU"
+  },
+  "Content Calendar": {
+   "label": "内容日历"
+  },
+  "Content Repurposing": {
+   "label": "内容再利用"
+  },
+  "Content Score": {
+   "label": "内容评分"
+  },
+  "Content Strategy": {
+   "label": "内容策略"
+  },
+  "Conversational AI": {
+   "label": "对话式 AI"
+  },
+  "Copywriting": {
+   "label": "文案写作"
+  },
+  "Corporate": {
+   "label": "企业"
+  },
+  "Courses": {
+   "label": "课程"
+  },
+  "Creative Cloud": {
+   "label": "Creative Cloud"
+  },
+  "Creative Writing": {
+   "label": "创意写作"
+  },
+  "Cross-Platform": {
+   "label": "跨平台"
+  },
+  "Custom Clone": {
+   "label": "定制克隆"
+  },
+  "Customizable": {
+   "label": "可定制"
+  },
+  "Customization": {
+   "label": "定制"
+  },
+  "DJs": {
+   "label": "DJs"
+  },
+  "Daily Ideas": {
+   "label": "每日灵感"
+  },
+  "Dead Air": {
+   "label": "静默死区"
+  },
+  "Deep Research": {
+   "label": "深度研究"
+  },
+  "Denoise": {
+   "label": "降噪"
+  },
+  "Depth Maps": {
+   "label": "深度图"
+  },
+  "Design": {
+   "label": "设计"
+  },
+  "Desktop & Mobile": {
+   "label": "桌面与移动"
+  },
+  "Desktop Editor": {
+   "label": "桌面编辑器"
+  },
+  "Detail Enhancement": {
+   "label": "细节增强"
+  },
+  "Developers": {
+   "label": "开发者"
+  },
+  "Dialog Editor": {
+   "label": "对白编辑器"
+  },
+  "Digital Presenter": {
+   "label": "数字主持人"
+  },
+  "Discord": {
+   "label": "Discord"
+  },
+  "Distribution": {
+   "label": "分发"
+  },
+  "Drag & Drop": {
+   "label": "拖放"
+  },
+  "Dubbing": {
+   "label": "配音"
+  },
+  "E-commerce": {
+   "label": "电商"
+  },
+  "Effects": {
+   "label": "特效"
+  },
+  "Email": {
+   "label": "邮件"
+  },
+  "Emojis": {
+   "label": "表情"
+  },
+  "Emotion": {
+   "label": "情感"
+  },
+  "Emotion Control": {
+   "label": "情绪控制"
+  },
+  "Emotional Voices": {
+   "label": "情感语音"
+  },
+  "Enhancement": {
+   "label": "增强"
+  },
+  "Enterprise": {
+   "label": "企业级"
+  },
+  "European Languages": {
+   "label": "欧洲语言"
+  },
+  "Evergreen": {
+   "label": "常青"
+  },
+  "Everywhere": {
+   "label": "随处"
+  },
+  "Examples": {
+   "label": "示例"
+  },
+  "Explainer Videos": {
+   "label": "讲解视频"
+  },
+  "Explainers": {
+   "label": "讲解"
+  },
+  "Export XML": {
+   "label": "Export XML"
+  },
+  "Expressive": {
+   "label": "富有表现力"
+  },
+  "Extension": {
+   "label": "扩展"
+  },
+  "Eye Contact": {
+   "label": "眼神交流"
+  },
+  "Face Clone": {
+   "label": "面部克隆"
+  },
+  "Face Swap": {
+   "label": "换脸"
+  },
+  "Facecam": {
+   "label": "摄像头"
+  },
+  "Faceless": {
+   "label": "无脸"
+  },
+  "Faceless Shorts": {
+   "label": "无脸短视频"
+  },
+  "Faceless Video": {
+   "label": "无脸视频"
+  },
+  "Fact-Check": {
+   "label": "事实核查"
+  },
+  "Fast": {
+   "label": "快速"
+  },
+  "Fiction": {
+   "label": "虚构"
+  },
+  "Filler Removal": {
+   "label": "填充词移除"
+  },
+  "Filmmakers": {
+   "label": "电影制作人"
+  },
+  "Filmmaking": {
+   "label": "电影制作"
+  },
+  "Fine-Tuned Models": {
+   "label": "微调模型"
+  },
+  "Foley": {
+   "label": "拟音"
+  },
+  "Frame Interpolation": {
+   "label": "插帧"
+  },
+  "Free": {
+   "label": "免费"
+  },
+  "Free Editor": {
+   "label": "免费编辑器"
+  },
+  "Free Tier": {
+   "label": "免费套餐"
+  },
+  "Free Tool": {
+   "label": "免费工具"
+  },
+  "GDPR": {
+   "label": "GDPR"
+  },
+  "GIFs": {
+   "label": "GIFs"
+  },
+  "GPT": {
+   "label": "GPT"
+  },
+  "Game Art": {
+   "label": "游戏美术"
+  },
+  "Game Assets": {
+   "label": "游戏资产"
+  },
+  "Gameplay BG": {
+   "label": "游戏背景"
+  },
+  "Gaming": {
+   "label": "游戏"
+  },
+  "Gen-3 Alpha": {
+   "label": "Gen-3 Alpha"
+  },
+  "Generative": {
+   "label": "生成式"
+  },
+  "Generative Fill": {
+   "label": "生成式填充"
+  },
+  "Google": {
+   "label": "Google"
+  },
+  "Grammar": {
+   "label": "语法"
+  },
+  "Grounded": {
+   "label": "有据可依"
+  },
+  "Guests": {
+   "label": "嘉宾"
+  },
+  "HD": {
+   "label": "HD"
+  },
+  "HDR": {
+   "label": "HDR"
+  },
+  "Headlines": {
+   "label": "标题"
+  },
+  "Headshots": {
+   "label": "头像照"
+  },
+  "Hi-Fi": {
+   "label": "Hi-Fi"
+  },
+  "Highlights": {
+   "label": "精彩集锦"
+  },
+  "Hollywood": {
+   "label": "Hollywood"
+  },
+  "Hooks": {
+   "label": "钩子"
+  },
+  "Human Option": {
+   "label": "人工选项"
+  },
+  "Human QA": {
+   "label": "人工审核"
+  },
+  "Humanize": {
+   "label": "人性化"
+  },
+  "Ideation": {
+   "label": "构思"
+  },
+  "Image + Audio": {
+   "label": "图像 + 音频"
+  },
+  "Image Gen": {
+   "label": "图像生成"
+  },
+  "Image Generation": {
+   "label": "图像生成"
+  },
+  "Image to 3D": {
+   "label": "图像转 3D"
+  },
+  "Image to Video": {
+   "label": "图像转视频"
+  },
+  "Immersive": {
+   "label": "沉浸式"
+  },
+  "Industry Standard": {
+   "label": "行业标准"
+  },
+  "Inpainting": {
+   "label": "修补"
+  },
+  "Instrumental": {
+   "label": "伴奏"
+  },
+  "Integrations": {
+   "label": "集成"
+  },
+  "Interactive": {
+   "label": "交互"
+  },
+  "Interviews": {
+   "label": "访谈"
+  },
+  "Jump Cuts": {
+   "label": "跳切"
+  },
+  "Keyframes": {
+   "label": "关键帧"
+  },
+  "Keywords": {
+   "label": "关键词"
+  },
+  "Kick": {
+   "label": "Kick"
+  },
+  "Legal": {
+   "label": "法律"
+  },
+  "Leveler": {
+   "label": "电平器"
+  },
+  "Licensed Data": {
+   "label": "授权数据"
+  },
+  "LinkedIn": {
+   "label": "LinkedIn"
+  },
+  "Lip Sync": {
+   "label": "口型同步"
+  },
+  "Live Avatars": {
+   "label": "实时数字人"
+  },
+  "Live Camera": {
+   "label": "实时相机"
+  },
+  "Live Sports": {
+   "label": "体育直播"
+  },
+  "Live Web": {
+   "label": "实时网页"
+  },
+  "Local": {
+   "label": "本地"
+  },
+  "Local AI": {
+   "label": "本地 AI"
+  },
+  "Localization": {
+   "label": "本地化"
+  },
+  "Logos": {
+   "label": "标志"
+  },
+  "Long Clips": {
+   "label": "长片段"
+  },
+  "Long Context": {
+   "label": "长上下文"
+  },
+  "Loudness": {
+   "label": "响度"
+  },
+  "Low Latency": {
+   "label": "低延迟"
+  },
+  "Lyrics": {
+   "label": "歌词"
+  },
+  "MIDI Export": {
+   "label": "MIDI Export"
+  },
+  "Mac": {
+   "label": "Mac"
+  },
+  "Magic Clips": {
+   "label": "魔法片段"
+  },
+  "Magnetic Timeline": {
+   "label": "磁吸时间线"
+  },
+  "Markerless": {
+   "label": "无标记"
+  },
+  "Marketing": {
+   "label": "营销"
+  },
+  "Meetings": {
+   "label": "会议"
+  },
+  "Memes": {
+   "label": "梗图"
+  },
+  "Mesh Generation": {
+   "label": "网格生成"
+  },
+  "Metadata": {
+   "label": "元数据"
+  },
+  "Micro Video": {
+   "label": "微视频"
+  },
+  "Microsoft": {
+   "label": "Microsoft"
+  },
+  "Midjourney": {
+   "label": "Midjourney"
+  },
+  "MiniMax": {
+   "label": "MiniMax"
+  },
+  "Mobile": {
+   "label": "Mobile"
+  },
+  "Mocap Suits": {
+   "label": "动捕服"
+  },
+  "Mochi": {
+   "label": "Mochi"
+  },
+  "Mockups": {
+   "label": "样机"
+  },
+  "Montages": {
+   "label": "集锦"
+  },
+  "Mood Arc": {
+   "label": "情绪弧线"
+  },
+  "Mood Based": {
+   "label": "基于情绪"
+  },
+  "Motion Capture": {
+   "label": "动作捕捉"
+  },
+  "Motion Mix": {
+   "label": "动作混合"
+  },
+  "Motion Quality": {
+   "label": "动作质量"
+  },
+  "Motion Tracking": {
+   "label": "运动跟踪"
+  },
+  "Mouth Sounds": {
+   "label": "口腔声"
+  },
+  "MrBeast": {
+   "label": "MrBeast"
+  },
+  "Multi-Cam": {
+   "label": "多机位"
+  },
+  "Multi-Model": {
+   "label": "多模型"
+  },
+  "Multi-Shot": {
+   "label": "多镜头"
+  },
+  "Multi-Speaker": {
+   "label": "多说话人"
+  },
+  "Multilingual": {
+   "label": "多语言"
+  },
+  "Multimodal": {
+   "label": "多模态"
+  },
+  "Multistream": {
+   "label": "多平台直播"
+  },
+  "Music Ducking": {
+   "label": "音乐闪避"
+  },
+  "Music Generation": {
+   "label": "音乐生成"
+  },
+  "Music Videos": {
+   "label": "音乐视频"
+  },
+  "Music Vocals": {
+   "label": "人声"
+  },
+  "Narrative": {
+   "label": "叙事"
+  },
+  "Native Audio": {
+   "label": "原生音频"
+  },
+  "Newsrooms": {
+   "label": "新闻编辑部"
+  },
+  "Niche Research": {
+   "label": "利基研究"
+  },
+  "No Green Screen": {
+   "label": "无需绿幕"
+  },
+  "No Suit": {
+   "label": "无需套装"
+  },
+  "No-Code": {
+   "label": "无代码"
+  },
+  "Noise Cancellation": {
+   "label": "降噪"
+  },
+  "Noise Removal": {
+   "label": "噪音消除"
+  },
+  "Non-Designer": {
+   "label": "非设计师"
+  },
+  "Nova-3": {
+   "label": "Nova-3"
+  },
+  "OBS": {
+   "label": "OBS"
+  },
+  "Object Detection": {
+   "label": "物体检测"
+  },
+  "Offline": {
+   "label": "离线"
+  },
+  "One Click": {
+   "label": "一键"
+  },
+  "One-Time": {
+   "label": "一次性"
+  },
+  "Online Editor": {
+   "label": "在线编辑器"
+  },
+  "Open Model": {
+   "label": "开放模型"
+  },
+  "Open Source": {
+   "label": "开源"
+  },
+  "OpenAI": {
+   "label": "OpenAI"
+  },
+  "Optimization": {
+   "label": "优化"
+  },
+  "Orchestral": {
+   "label": "管弦乐"
+  },
+  "Organize": {
+   "label": "整理"
+  },
+  "Outliers": {
+   "label": "异常值"
+  },
+  "Outlines": {
+   "label": "大纲"
+  },
+  "Outreach": {
+   "label": "触达"
+  },
+  "Overdub": {
+   "label": "覆录"
+  },
+  "Overlays": {
+   "label": "叠加层"
+  },
+  "PPT to Video": {
+   "label": "PPT to Video"
+  },
+  "Packaging": {
+   "label": "包装"
+  },
+  "Parallax": {
+   "label": "Parallax"
+  },
+  "Paraphrasing": {
+   "label": "改述"
+  },
+  "Personalization": {
+   "label": "个性化"
+  },
+  "Personas": {
+   "label": "角色设定"
+  },
+  "Phone Video": {
+   "label": "Phone Video"
+  },
+  "Photo Editing": {
+   "label": "Photo Editing"
+  },
+  "Photorealism": {
+   "label": "Photorealism"
+  },
+  "Photoshop": {
+   "label": "Photoshop"
+  },
+  "Physics": {
+   "label": "Physics"
+  },
+  "Pipelines": {
+   "label": "Pipelines"
+  },
+  "Pitch Control": {
+   "label": "Pitch Control"
+  },
+  "Pitch Decks": {
+   "label": "Pitch Decks"
+  },
+  "Pitch Shift": {
+   "label": "Pitch Shift"
+  },
+  "Plot": {
+   "label": "Plot"
+  },
+  "Podcast": {
+   "label": "Podcast"
+  },
+  "Podcast Clipping": {
+   "label": "播客剪辑"
+  },
+  "Podcast Editing": {
+   "label": "播客编辑"
+  },
+  "Podcasting": {
+   "label": "Podcasting"
+  },
+  "Podcasts": {
+   "label": "播客"
+  },
+  "Posters": {
+   "label": "Posters"
+  },
+  "Practice": {
+   "label": "Practice"
+  },
+  "Premiere Pro": {
+   "label": "Premiere Pro"
+  },
+  "Presets": {
+   "label": "Presets"
+  },
+  "Privacy": {
+   "label": "隐私"
+  },
+  "Pro": {
+   "label": "专业版"
+  },
+  "Pro Camera": {
+   "label": "Pro Camera"
+  },
+  "ProRes": {
+   "label": "ProRes"
+  },
+  "Product Photos": {
+   "label": "Product Photos"
+  },
+  "Professional": {
+   "label": "Professional"
+  },
+  "Prompt Adherence": {
+   "label": "Prompt Adherence"
+  },
+  "Prompt Library": {
+   "label": "提示词库"
+  },
+  "Prompt Marketplace": {
+   "label": "Prompt Marketplace"
+  },
+  "Prompts": {
+   "label": "提示词"
+  },
+  "Pronunciation": {
+   "label": "发音"
+  },
+  "Public Stats": {
+   "label": "公开数据"
+  },
+  "Publishing": {
+   "label": "发布"
+  },
+  "Punch-In": {
+   "label": "推近"
+  },
+  "QA": {
+   "label": "质量审核"
+  },
+  "QA Review": {
+   "label": "质量审核"
+  },
+  "Questions": {
+   "label": "问题"
+  },
+  "Quick Design": {
+   "label": "快速设计"
+  },
+  "Rank Tracker": {
+   "label": "排名跟踪"
+  },
+  "Real-time": {
+   "label": "实时"
+  },
+  "Real-time Trends": {
+   "label": "实时趋势"
+  },
+  "Realism": {
+   "label": "真实感"
+  },
+  "Realistic Avatars": {
+   "label": "逼真数字人"
+  },
+  "Realistic Motion": {
+   "label": "逼真动作"
+  },
+  "Reasoning": {
+   "label": "推理"
+  },
+  "Recommendations": {
+   "label": "推荐"
+  },
+  "Recording": {
+   "label": "录制"
+  },
+  "Recycling": {
+   "label": "回收"
+  },
+  "Redub": {
+   "label": "重新配音"
+  },
+  "Reels": {
+   "label": "Reels"
+  },
+  "Reference to Video": {
+   "label": "参考转视频"
+  },
+  "Reimagine": {
+   "label": "再想象"
+  },
+  "Remixing": {
+   "label": "混音"
+  },
+  "Remote Recording": {
+   "label": "远程录制"
+  },
+  "Repurposing": {
+   "label": "再利用"
+  },
+  "Research": {
+   "label": "研究"
+  },
+  "Resize": {
+   "label": "调整大小"
+  },
+  "Retention": {
+   "label": "留存"
+  },
+  "Rewrite": {
+   "label": "重写"
+  },
+  "Rewriting": {
+   "label": "重写"
+  },
+  "Rigging": {
+   "label": "绑定"
+  },
+  "Rough Cut": {
+   "label": "粗剪"
+  },
+  "Royalty-Free": {
+   "label": "免版税"
+  },
+  "SEO": {
+   "label": "SEO"
+  },
+  "SEO Briefs": {
+   "label": "SEO 简报"
+  },
+  "SEO Content": {
+   "label": "SEO 内容"
+  },
+  "SEO Research": {
+   "label": "SEO 研究"
+  },
+  "SERP": {
+   "label": "SERP"
+  },
+  "SRT": {
+   "label": "SRT"
+  },
+  "Sales": {
+   "label": "销售"
+  },
+  "Sales Videos": {
+   "label": "销售视频"
+  },
+  "Scale": {
+   "label": "规模"
+  },
+  "Scenarios": {
+   "label": "场景"
+  },
+  "Scenes": {
+   "label": "场景"
+  },
+  "Scheduling": {
+   "label": "排期"
+  },
+  "Scoring": {
+   "label": "评分"
+  },
+  "Scraping": {
+   "label": "抓取"
+  },
+  "Screen Recording": {
+   "label": "录屏"
+  },
+  "Script Writing": {
+   "label": "脚本写作"
+  },
+  "Self-Hosted": {
+   "label": "自托管"
+  },
+  "Sentiment": {
+   "label": "情绪分析"
+  },
+  "Shorten": {
+   "label": "缩短"
+  },
+  "Shorts": {
+   "label": "短视频"
+  },
+  "Show Notes": {
+   "label": "节目笔记"
+  },
+  "Silence Removal": {
+   "label": "静音移除"
+  },
+  "Simple": {
+   "label": "简单"
+  },
+  "Singing": {
+   "label": "演唱"
+  },
+  "Sky Replacement": {
+   "label": "换天"
+  },
+  "Smart Cut": {
+   "label": "智能剪辑"
+  },
+  "Social": {
+   "label": "社交"
+  },
+  "Social Content": {
+   "label": "社交内容"
+  },
+  "Social Copy": {
+   "label": "社交文案"
+  },
+  "Social Posts": {
+   "label": "社交帖子"
+  },
+  "Song Generation": {
+   "label": "歌曲生成"
+  },
+  "Sound Effects": {
+   "label": "音效"
+  },
+  "Soundboard": {
+   "label": "音板"
+  },
+  "Soundtracks": {
+   "label": "配乐"
+  },
+  "Sources": {
+   "label": "来源"
+  },
+  "Speaker ID": {
+   "label": "说话人识别"
+  },
+  "Speed": {
+   "label": "速度"
+  },
+  "Stable Diffusion": {
+   "label": "Stable Diffusion"
+  },
+  "Stem Splitting": {
+   "label": "分轨"
+  },
+  "Stems": {
+   "label": "音轨"
+  },
+  "Stock Avatars": {
+   "label": "素材数字人"
+  },
+  "Stock Library": {
+   "label": "素材库"
+  },
+  "Stock Photos": {
+   "label": "素材照片"
+  },
+  "Story": {
+   "label": "故事"
+  },
+  "Story Shorts": {
+   "label": "故事短视频"
+  },
+  "Storyboard": {
+   "label": "分镜"
+  },
+  "Storytelling": {
+   "label": "讲故事"
+  },
+  "Strategy": {
+   "label": "策略"
+  },
+  "Stream Clips": {
+   "label": "直播片段"
+  },
+  "Streaming": {
+   "label": "流媒体"
+  },
+  "Streams": {
+   "label": "直播"
+  },
+  "Studio": {
+   "label": "工作室"
+  },
+  "Studio Sound": {
+   "label": "录音棚音质"
+  },
+  "Studio Speech": {
+   "label": "录音棚语音"
+  },
+  "Style Consistency": {
+   "label": "风格一致"
+  },
+  "Style Transfer": {
+   "label": "风格迁移"
+  },
+  "Styles": {
+   "label": "风格"
+  },
+  "Stylized Video": {
+   "label": "风格化视频"
+  },
+  "Subtitle Editor": {
+   "label": "字幕编辑器"
+  },
+  "Subtitles": {
+   "label": "字幕"
+  },
+  "Summaries": {
+   "label": "摘要"
+  },
+  "Summarize": {
+   "label": "总结"
+  },
+  "Summarizer": {
+   "label": "总结器"
+  },
+  "Support": {
+   "label": "支持"
+  },
+  "Sync": {
+   "label": "同步"
+  },
+  "TTS Arena": {
+   "label": "TTS Arena"
+  },
+  "Tags": {
+   "label": "标签"
+  },
+  "Talking Avatar": {
+   "label": "说话数字人"
+  },
+  "Talking Characters": {
+   "label": "说话角色"
+  },
+  "Talking Photos": {
+   "label": "会说话的照片"
+  },
+  "Teams": {
+   "label": "团队"
+  },
+  "Templates": {
+   "label": "模板"
+  },
+  "Text Editing": {
+   "label": "文本编辑"
+  },
+  "Text Rendering": {
+   "label": "文字渲染"
+  },
+  "Text to 3D": {
+   "label": "文字转 3D"
+  },
+  "Text to Audio": {
+   "label": "文字转音频"
+  },
+  "Text to Music": {
+   "label": "文字转音乐"
+  },
+  "Text to SFX": {
+   "label": "文字转音效"
+  },
+  "Text to Speech": {
+   "label": "文字转语音"
+  },
+  "Text to Video": {
+   "label": "文字转视频"
+  },
+  "Text-Based Editing": {
+   "label": "文本化剪辑"
+  },
+  "Textures": {
+   "label": "纹理"
+  },
+  "Thumbnail Search": {
+   "label": "缩略图搜索"
+  },
+  "Thumbnails": {
+   "label": "缩略图"
+  },
+  "TikTok": {
+   "label": "TikTok"
+  },
+  "TikTok Editor": {
+   "label": "TikTok 编辑器"
+  },
+  "TikTok Effects": {
+   "label": "TikTok 特效"
+  },
+  "Timeline": {
+   "label": "时间线"
+  },
+  "Tips": {
+   "label": "技巧"
+  },
+  "Titles": {
+   "label": "标题"
+  },
+  "Tone": {
+   "label": "语气"
+  },
+  "Tone Control": {
+   "label": "语气控制"
+  },
+  "Topic Research": {
+   "label": "主题研究"
+  },
+  "Training": {
+   "label": "培训"
+  },
+  "Training Videos": {
+   "label": "培训视频"
+  },
+  "Transcription": {
+   "label": "转写"
+  },
+  "Translation": {
+   "label": "翻译"
+  },
+  "Trend Analysis": {
+   "label": "趋势分析"
+  },
+  "Trend Discovery": {
+   "label": "趋势发现"
+  },
+  "Twitch": {
+   "label": "Twitch"
+  },
+  "Universal-2": {
+   "label": "Universal-2"
+  },
+  "Upscale": {
+   "label": "放大"
+  },
+  "Upscaling": {
+   "label": "放大"
+  },
+  "V7": {
+   "label": "V7"
+  },
+  "VFX": {
+   "label": "VFX"
+  },
+  "Vector Art": {
+   "label": "矢量艺术"
+  },
+  "Vectors": {
+   "label": "矢量"
+  },
+  "Verified": {
+   "label": "已验证"
+  },
+  "Vertical Crop": {
+   "label": "竖屏裁剪"
+  },
+  "Video Dubbing": {
+   "label": "视频配音"
+  },
+  "Video Hooks": {
+   "label": "视频钩子"
+  },
+  "Video Match": {
+   "label": "视频匹配"
+  },
+  "Video Scripts": {
+   "label": "视频脚本"
+  },
+  "Video to 3D": {
+   "label": "视频转 3D"
+  },
+  "Video to Animation": {
+   "label": "视频转动画"
+  },
+  "Video to Anime": {
+   "label": "视频转动漫"
+  },
+  "Video to Video": {
+   "label": "视频转视频"
+  },
+  "Viral Data": {
+   "label": "病毒数据"
+  },
+  "Viral Shorts": {
+   "label": "爆款短视频"
+  },
+  "Virality Score": {
+   "label": "病毒式传播评分"
+  },
+  "Visual Builder": {
+   "label": "可视化构建器"
+  },
+  "Vocal Removal": {
+   "label": "人声移除"
+  },
+  "Vocals": {
+   "label": "人声"
+  },
+  "Voice Changer": {
+   "label": "变声器"
+  },
+  "Voice Clone": {
+   "label": "声音克隆"
+  },
+  "Voice Cloning": {
+   "label": "语音克隆"
+  },
+  "Voice Models": {
+   "label": "语音模型"
+  },
+  "Waveforms": {
+   "label": "波形"
+  },
+  "Web Embed": {
+   "label": "网页嵌入"
+  },
+  "Web-based": {
+   "label": "基于网页"
+  },
+  "Webinar Clipper": {
+   "label": "网络研讨会剪辑"
+  },
+  "Webinars": {
+   "label": "网络研讨会"
+  },
+  "Workflows": {
+   "label": "工作流"
+  },
+  "Workspace": {
+   "label": "工作区"
+  },
+  "X Data": {
+   "label": "X 数据"
+  },
+  "YouTube": {
+   "label": "YouTube"
+  },
+  "YouTube Art": {
+   "label": "YouTube 美术"
+  },
+  "YouTube Automation": {
+   "label": "YouTube 自动化"
+  },
+  "YouTube SEO": {
+   "label": "YouTube SEO"
+  },
+  "YouTube Scripts": {
+   "label": "YouTube 脚本"
+  },
+  "YouTube Thumbnails": {
+   "label": "YouTube 缩略图"
+  },
+  "YouTube to TikTok": {
+   "label": "YouTube 转 TikTok"
+  }
+ },
+ "tool": {
+  "opusclip": {
+   "tagline": "将长视频变成爆款短视频",
+   "description": "OpusClip 利用 AI 病毒式传播评分分析长视频，提取留存率最高的竖屏片段。内置自动字幕、表情和智能重构图。"
+  },
+  "munch": {
+   "tagline": "面向社交媒体的 AI 视频再利用",
+   "description": "利用 AI 趋势分析和关键词病毒式传播评分，从长内容中提取最吸引人的时刻。"
+  },
+  "vidyo-ai": {
+   "tagline": "从长视频制作短视频",
+   "description": "将长播客和网络研讨会再利用为适合社交媒体的竖屏片段，支持自定义品牌模板、表情和自动构图。"
+  },
+  "klap": {
+   "tagline": "将 YouTube 视频变成 TikTok",
+   "description": "快速 AI 剪辑工具，识别长视频中的有趣主题，生成竖屏片段并叠加自定义字幕。"
+  },
+  "submagic": {
+   "tagline": "短视频自动字幕和 B-roll",
+   "description": "将动画字幕与你的声音同步，插入贴合语境的 B-roll 图形，应用平滑的镜头缩放过渡，并添加细腻的音效。"
+  },
+  "autoshorts": {
+   "tagline": "无脸视频自动化",
+   "description": "自动短视频生成器，结合 GPT 脚本、AI 语音和背景 B-roll，几秒钟内制作无脸 Shorts。"
+  },
+  "pictory": {
+   "tagline": "AI 配音文字转视频",
+   "description": "将脚本和文章转化为专业视频，带 AI 旁白、素材画面和自动字幕。"
+  },
+  "invideo": {
+   "tagline": "AI 视频创作平台",
+   "description": "一体化 AI 视频生成器，从简单文字提示创建脚本、选择素材、添加字幕并应用逼真的配音。"
+  },
+  "clipchamp": {
+   "tagline": "微软带 AI 的视频编辑器",
+   "description": "免费视频编辑器，支持自动字幕、文字转语音、绿幕和演讲教练。由微软打造。"
+  },
+  "capcut": {
+   "tagline": "一体化视频编辑器",
+   "description": "世界级免费桌面和移动编辑器，支持 AI 自动字幕、人声分离、背景移除和 TikTok 潮流模板。"
+  },
+  "runway": {
+   "tagline": "AI 视频生成与编辑",
+   "description": "从文字或参考图像制作电影级 AI 视频片段，移除移动物体，并应用好莱坞级 AI 运动跟踪。"
+  },
+  "descript": {
+   "tagline": "通过编辑文本来剪辑视频",
+   "description": "一体化视频和播客编辑器，支持 AI 配音、录音棚级音质增强、填充词删除和自动转录。"
+  },
+  "filmora": {
+   "tagline": "带 AI 的简易视频编辑器",
+   "description": "对新手友好的视频编辑器，带 AI 副驾驶、智能抠像、运动跟踪和数千种特效与模板。"
+  },
+  "veed": {
+   "tagline": "带 AI 的在线视频编辑器",
+   "description": "专业浏览器视频编辑平台，支持一键字幕翻译、填充词删除和社交媒体即时尺寸调整。"
+  },
+  "adobe-premiere-pro": {
+   "tagline": "专业视频剪辑",
+   "description": "行业标准专业视频编辑器，带 AI 色彩匹配、场景检测、语音转文字和无缝 After Effects 集成。"
+  },
+  "davinci-resolve": {
+   "tagline": "专业调色",
+   "description": "好莱坞级调色、Fairlight 音频、Fusion 特效和 Cut 页面剪辑——标准版完全免费。"
+  },
+  "final-cut-pro": {
+   "tagline": "苹果专业编辑器",
+   "description": "苹果专业视频剪辑软件，带磁吸时间线、360° VR、HDR 和为 Apple Silicon 优化的高级调色。"
+  },
+  "synthesia": {
+   "tagline": "带数字人的 AI 视频生成",
+   "description": "用 AI 数字人在 130 多种语言中制作专业视频。无需相机、工作室或演员。非常适合培训和公司内容。"
+  },
+  "heygen": {
+   "tagline": "AI 数字人和视频翻译",
+   "description": "制作带 40 多种语言口型同步翻译的 AI 数字人视频。克隆你的声音和外貌，规模化制作个性化视频。"
+  },
+  "d-id": {
+   "tagline": "会说话的照片 AI 视频制作",
+   "description": "将照片转化为逼真的说话头像视频。与 ChatGPT 集成，打造交互式 AI 主持人和对话代理。"
+  },
+  "elevenlabs": {
+   "tagline": "最逼真的 AI 语音克隆",
+   "description": "29 多种语言 AI 配音、语音克隆和配音的行业标准。非常适合无脸 YouTube 频道和纪录片。"
+  },
+  "murf-ai": {
+   "tagline": "视频 AI 配音",
+   "description": "多功能 AI 语音生成器，提供 20 种语言中 120 多种逼真语音。包括音高控制、重音编辑和背景音乐同步。"
+  },
+  "descript-overdub": {
+   "tagline": "用 AI 克隆你的声音",
+   "description": "用你自己的声音创建文字转语音模型。通过编辑文本来编辑音频。无需重新录制即可修正录音错误。"
+  },
+  "resemble-ai": {
+   "tagline": "实时语音克隆",
+   "description": "实时语音克隆 API，支持情绪控制、本地化和深度伪造检测。企业级安全与合规。"
+  },
+  "lovo-ai": {
+   "tagline": "面向创作者的 AI 语音生成器",
+   "description": "一体化配音和视频创作平台，具备情感语音控制、音效库和多说话人对话编辑。"
+  },
+  "adobe-podcast": {
+   "tagline": "AI 音频增强",
+   "description": "免费 AI 语音增强，即时消除任何麦克风录音中的背景噪音和回声。"
+  },
+  "auphonic": {
+   "tagline": "自动音频后期制作",
+   "description": "面向播客、广播公司和视频创作者的自动音频后期制作网络服务。电平器、降噪和响度标准化。"
+  },
+  "krisp": {
+   "tagline": "AI 降噪",
+   "description": "面向通话和录音的 AI 降噪。实时消除背景人声、狗叫和键盘声。"
+  },
+  "cleanvoice": {
+   "tagline": "AI 音频清理",
+   "description": "自动从播客和视频录音中移除填充词、口腔声、口吃和静默死区。"
+  },
+  "colossyan": {
+   "tagline": "面向培训的 AI 视频生成",
+   "description": "几分钟内用 AI 主持人制作培训视频。自动翻译成 70 多种语言并带本地化口音。"
+  },
+  "elai-io": {
+   "tagline": "带数字人的 AI 视频制作",
+   "description": "从文字制作带数字主持人的定制 AI 视频。80 多种语言、25 多个数字人和 PPT 转视频。"
+  },
+  "canva": {
+   "tagline": "用 AI 设计一切",
+   "description": "一体化设计平台，带 AI 魔法写作、背景移除器和数千个缩略图、横幅和社交帖子模板。"
+  },
+  "adobe-express": {
+   "tagline": "快速简单的设计",
+   "description": "用 AI 生成式填充、文字特效和数千个专业设计模板制作缩略图、传单和社交帖子。"
+  },
+  "thumbly-ai": {
+   "tagline": "AI YouTube 缩略图生成器",
+   "description": "用基于病毒视频数据训练的 AI 生成高点击率 YouTube 缩略图。内置人脸检测、情绪分析和色彩心理学。"
+  },
+  "snappa": {
+   "tagline": "面向非设计师的平面设计",
+   "description": "几分钟内用预制模板和素材照片制作 YouTube 缩略图、频道美术和社交媒体图形。"
+  },
+  "jasper": {
+   "tagline": "AI 写作助手",
+   "description": "为营销训练的 AI 文案。以一致的品牌语调撰写视频脚本、博客文章、广告文案和社交标题。"
+  },
+  "copy-ai": {
+   "tagline": "面向营销人员的 AI 文案",
+   "description": "几秒钟内生成营销文案、视频钩子、广告脚本和邮件序列。包含 90 多个模板和工作流。"
+  },
+  "chatgpt": {
+   "tagline": "通用 AI 助手",
+   "description": "OpenAI 的对话式 AI，用于头脑风暴、脚本写作、研究和代码生成。创作者的瑞士军刀。"
+  },
+  "claude": {
+   "tagline": "高级 AI 写作与分析",
+   "description": "Anthropic 的 AI 助手，拥有行业领先的上下文窗口。非常适合长脚本分析、研究综合和创意写作。"
+  },
+  "writesonic": {
+   "tagline": "AI 内容创作",
+   "description": "AI 写作器，带 SEO 优化、改述和图像生成。创建能排名的博客文章、落地页和视频脚本。"
+  },
+  "zapier": {
+   "tagline": "用 AI 自动化工作流",
+   "description": "连接 5000 多个应用来自动化你的创作者工作流。自动发布视频、发送通知并跨平台同步数据。"
+  },
+  "make": {
+   "tagline": "可视化自动化平台",
+   "description": "带拖放场景构建器的可视化无代码自动化。对复杂创作者工作流比 Zapier 更强大、更直观。"
+  },
+  "n8n": {
+   "tagline": "开源工作流自动化",
+   "description": "可自托管的开源自动化，400 多个集成。完全掌控你的数据。非常适合注重隐私的创作者。"
+  },
+  "repurpose-io": {
+   "tagline": "随处自动发布内容",
+   "description": "自动将你的视频和音频再利用并分发到所有主流平台。设置一次，永久随处发布。"
+  },
+  "tubebuddy": {
+   "tagline": "YouTube 增长与优化",
+   "description": "面向 YouTube SEO、缩略图 A/B 测试、批量处理和高级分析的浏览器扩展。严肃 YouTuber 必备。"
+  },
+  "sora": {
+   "tagline": "OpenAI 文字转视频模型",
+   "description": "从简单文字提示生成最长 20 秒的电影级、物理感知视频片段，内置分镜和混剪工具。"
+  },
+  "google-veo": {
+   "tagline": "Google DeepMind 视频生成",
+   "description": "最先进的文字转视频，带原生音频生成、强大提示遵循度和 Gemini 与 Flow 内的 4K 电影级输出。"
+  },
+  "pika": {
+   "tagline": "从创意到视频的创作工作室",
+   "description": "有趣的 AI 视频生成器，带场景配料、Pikaffects 效果和视频转视频编辑，深受短视频创作者喜爱。"
+  },
+  "luma-dream-machine": {
+   "tagline": "从文字和图像生成高质量 AI 视频",
+   "description": "来自 Luma Labs 的快速、高保真视频生成，带流畅运动、关键帧和镜头控制。"
+  },
+  "kling-ai": {
+   "tagline": "逼真物理视频生成",
+   "description": "快手视频模型，以逼真人体动作、口型同步和最长 2 分钟 1080p 片段著称。"
+  },
+  "hailuo-ai": {
+   "tagline": "MiniMax 电影级视频模型",
+   "description": "强提示遵循的文字和图像转视频生成，带富有表现力的角色动画和镜头导演。"
+  },
+  "haiper": {
+   "tagline": "创意 AI 视频工具包",
+   "description": "文字转视频和关键帧控制工具，专注于为社交内容打造风格化、艺术化的运动。"
+  },
+  "vidu": {
+   "tagline": "多主体一致的 AI 视频",
+   "description": "中国视频模型，支持参考转视频，让角色在不同镜头间保持一致——非常适合故事类短视频。"
+  },
+  "pixverse": {
+   "tagline": "动漫与风格化视频生成",
+   "description": "以在 TikTok 上爆火的动漫风格特效和模板著称，生成速度快。"
+  },
+  "ltx-studio": {
+   "tagline": "AI 电影制作与分镜平台",
+   "description": "从故事到成片的整体平台：脚本、分镜、一致角色、镜头剪辑和最终渲染一站完成。"
+  },
+  "kaiber": {
+   "tagline": "艺术视频生成工作室",
+   "description": "超级工作室画布，用于音乐视频、音频响应视觉和风格化动画，深受音乐人和艺术家使用。"
+  },
+  "krea-ai": {
+   "tagline": "实时 AI 创意套件",
+   "description": "实时图像生成、放大和视频工具，带直观画布——快速视觉构思的最爱。"
+  },
+  "genmo": {
+   "tagline": "开源 Mochi 视频模型",
+   "description": "Mochi 1 的开发者，一个开源最先进视频生成模型，具有强大的运动质量和提示遵循度。"
+  },
+  "higgsfield": {
+   "tagline": "电影级镜头控制 AI 视频",
+   "description": "以戏剧性镜头运动闻名的社交优先视频模型——急推、子弹时间和第一人称镜头预设。"
+  },
+  "moonvalley": {
+   "tagline": "授权数据电影级视频模型",
+   "description": "Marey 模型仅使用授权素材训练——为专业电影制作人提供商业安全的 HD 视频生成。"
+  },
+  "neural-frames": {
+   "tagline": "AI 音乐视频动画师",
+   "description": "逐帧 AI 动画与音频音轨同步——制作迷幻、音频响应音乐视频的首选工具。"
+  },
+  "fliki": {
+   "tagline": "带逼真配音的文字转视频",
+   "description": "用 80 种语言的 2500 多个 AI 语音、素材和字幕，将脚本、博客或推文转化为视频。"
+  },
+  "lumen5": {
+   "tagline": "面向品牌的博客转视频",
+   "description": "用简单的拖放工作流，将博客文章和 Zoom 录音再利用为品牌社交视频。"
+  },
+  "steveai": {
+   "tagline": "动画和真人 AI 视频",
+   "description": "从脚本生成带角色、配音和模板的动画和真人风格视频。"
+  },
+  "viggle": {
+   "tagline": "可控角色动作",
+   "description": "将任何角色图像与动作视频混合——以真实物理动画角色的网红 JST-1 模型。"
+  },
+  "domo-ai": {
+   "tagline": "视频风格迁移与动画",
+   "description": "通过基于 Discord 的视频转视频生成，将真实镜头重新风格化为动漫、3D 卡通或像素艺术。"
+  },
+  "pollo-ai": {
+   "tagline": "一体化 AI 视频中心",
+   "description": "从一个界面访问 Kling、Runway、Veo、Hailuo 等更多模型，带模板和效果。"
+  },
+  "goenhance": {
+   "tagline": "视频转视频风格与增强",
+   "description": "将视频转化为动漫和卡通风格，放大到 4K，并插帧实现流畅运动。"
+  },
+  "stable-video-diffusion": {
+   "tagline": "开源图像转视频",
+   "description": "Stability AI 的开放视频模型，用于图像转视频生成——免费本地运行并可针对研究微调。"
+  },
+  "hunyuan-video": {
+   "tagline": "腾讯开源视频模型",
+   "description": "130 亿参数开放视频基础模型，电影级质量可与封闭模型媲美——开发者免费。"
+  },
+  "wan": {
+   "tagline": "阿里巴巴开放视频生成",
+   "description": "阿里巴巴 Wan 2.x 开源模型家族——强文字渲染和运动，可在消费级 GPU 上运行。"
+  },
+  "seedance": {
+   "tagline": "字节跳动专业视频模型",
+   "description": "基准领先的文字和图像转视频模型，支持多镜头叙事和精准镜头控制。"
+  },
+  "hedra": {
+   "tagline": "富有表现力的角色视频",
+   "description": "Character-3 模型从单张图像和音轨生成会说话、会唱歌、会表达情感的角色。"
+  },
+  "immersity-ai": {
+   "tagline": "2D 到 3D 深度动画",
+   "description": "用深度感知视差动画，将照片和视频转化为沉浸式 3D 运动。"
+  },
+  "topaz-video-ai": {
+   "tagline": "专业 AI 视频放大",
+   "description": "行业标准 AI 放大至 8K、降噪、去隔行和最高 120fps 插帧，适用于档案和专业素材。"
+  },
+  "captions": {
+   "tagline": "AI 驱动口播视频工作室",
+   "description": "录制、加字幕、配音和剪辑口播视频，带 AI 眼神纠正、数字人和一键编辑。"
+  },
+  "kapwing": {
+   "tagline": "协作式在线视频编辑器",
+   "description": "基于浏览器的编辑器，带 AI 智能剪辑、自动字幕、背景移除和团队工作区。"
+  },
+  "flexclip": {
+   "tagline": "简易在线视频制作器",
+   "description": "模板驱动的视频创作，带 AI 文字转视频、自动字幕和庞大素材库，快速制作营销视频。"
+  },
+  "gling": {
+   "tagline": "面向 YouTuber 的 AI 粗剪编辑器",
+   "description": "自动从口播视频中剪掉静音、糟糕镜头和填充词，然后导出到 Premiere、Resolve 或 FCP。"
+  },
+  "timebolt": {
+   "tagline": "即时静音与停顿移除",
+   "description": "几秒钟内移除视频和播客中的停顿和静默，带放大推近并导出到编辑器。"
+  },
+  "autopod": {
+   "tagline": "Premiere 中的多机位播客剪辑",
+   "description": "Premiere Pro 扩展，自动剪辑多机位播客和视频节目——根据说话人切换镜头。"
+  },
+  "wisecut": {
+   "tagline": "带音乐的自动视频剪辑",
+   "description": "AI 编辑器，移除静音、添加带自动闪避的背景音乐、字幕和智能推近。"
+  },
+  "powerdirector": {
+   "tagline": "AI 增强桌面视频编辑器",
+   "description": "全功能编辑器，带 AI 换天、物体检测、身体特效和语音增强，面向准专业人士。"
+  },
+  "unscreen": {
+   "tagline": "视频背景移除",
+   "description": "无需绿幕即可自动移除视频背景——非常适合反应叠加层和产品演示。"
+  },
+  "cutoutpro": {
+   "tagline": "AI 视觉增强工具包",
+   "description": "一站式工具包，通过 API 提供视频背景移除、照片增强、上色和证件照服务。"
+  },
+  "vizard": {
+   "tagline": "带病毒式评分的 AI 剪辑",
+   "description": "将长视频转化为短视频，带每个片段的病毒式评分、自动字幕和内置社交排期。"
+  },
+  "2shortai": {
+   "tagline": "YouTube 转 Shorts 转换器",
+   "description": "提取 YouTube 视频中最吸引人的时刻，并带字幕转化为竖屏 Shorts。"
+  },
+  "spikes-studio": {
+   "tagline": "游戏与直播 AI 剪辑",
+   "description": "为主播打造：在 Twitch VOD 和游戏画面中发现值得爆红的时刻，自动添加字幕和表情。"
+  },
+  "chopcast": {
+   "tagline": "将网络研讨会再利用为片段",
+   "description": "面向 B2B 的再利用工具，将网络研讨会和长内容转化为面向 LinkedIn 的品牌微视频。"
+  },
+  "eklipse": {
+   "tagline": "AI 游戏精彩集锦",
+   "description": "自动从 Twitch、Kick 和 YouTube 直播中捕捉连杀和高光时刻，生成 TikTok 就绪片段。"
+  },
+  "powder": {
+   "tagline": "面向创作者的 AI 游戏集锦",
+   "description": "桌面 AI，本地检测你的最佳游戏时刻，并带你的摄像头反应制作集锦。"
+  },
+  "revidai": {
+   "tagline": "无脸爆款视频生成器",
+   "description": "从一个提示制作无脸 TikTok——脚本、AI 语音、字幕以及素材或 AI 视觉，一键完成。"
+  },
+  "crayo": {
+   "tagline": "规模化批量产片",
+   "description": "带游戏背景、AI 语音和字幕生成故事类短视频——专为剪片频道打造。"
+  },
+  "zebracat": {
+   "tagline": "文字转爆款营销视频",
+   "description": "用 AI 场景、语音和音乐，将文字提示和博客文章转化为短视频营销内容。"
+  },
+  "syllaby": {
+   "tagline": "无脸内容策略引擎",
+   "description": "用 AI 主题研究，跨平台规划、撰写、生成和排期无脸视频内容。"
+  },
+  "headliner": {
+   "tagline": "播客转视频声波图",
+   "description": "将播客剧集转化为可分享的声波图视频，带波形、字幕和完整文字稿。"
+  },
+  "recast-studio": {
+   "tagline": "自动驾驶的播客营销",
+   "description": "自动将播客剧集转化为片段、节目笔记、博客文章和社交标题。"
+  },
+  "rask-ai": {
+   "tagline": "视频翻译与配音",
+   "description": "用语音克隆、口型同步和多说话人检测，将视频本地化为 130 多种语言——顶级教育频道使用。"
+  },
+  "papercup": {
+   "tagline": "带人工审核的 AI 配音",
+   "description": "企业级 AI 配音，带专业翻译审核——为 Bloomberg 和 Fremantle 的本地化提供支持。"
+  },
+  "dubverse": {
+   "tagline": "即时在线视频配音",
+   "description": "用逼真语音将视频配音成 60 多种语言，带字幕生成和协作编辑器。"
+  },
+  "speechify": {
+   "tagline": "无处不在的文字转语音",
+   "description": "用名人 AI 语音在移动端、桌面和浏览器中聆听任何文本——文档、PDF、网页。"
+  },
+  "wellsaid-labs": {
+   "tagline": "企业级 AI 配音",
+   "description": "带商业许可、发音控制和团队语音库的录音棚级合成语音，面向 L&D 和广告。"
+  },
+  "podcastle": {
+   "tagline": "AI 播客录音棚",
+   "description": "录制录音棚级远程访谈，用 Magic Dust 增强音频，克隆你的声音并进行文本化剪辑。"
+  },
+  "riverside": {
+   "tagline": "录音棚级远程录制",
+   "description": "4K 远程录制，带本地音轨、100 多种语言 AI 转录、Magic Clips 和文本化剪辑。"
+  },
+  "lalalai": {
+   "tagline": "AI 分轨器",
+   "description": "用 Phoenix 神经网络从任何音轨中分离人声、鼓、贝斯和乐器——DJ 和剪辑师使用。"
+  },
+  "voicemod": {
+   "tagline": "实时 AI 变声器",
+   "description": "面向主播和游戏玩家的实时变声和音板，带 AI 语音和自定义语音创建。"
+  },
+  "fish-audio": {
+   "tagline": "开源语音克隆平台",
+   "description": "排名最高的开源 TTS，几秒钟内即时语音克隆，带庞大的社区语音库。"
+  },
+  "cartesia": {
+   "tagline": "超低延迟逼真 TTS",
+   "description": "Sonic 模型为实时代理、游戏和交互式视频提供 40ms 延迟的逼真语音。"
+  },
+  "kits-ai": {
+   "tagline": "面向音乐人的 AI 语音",
+   "description": "为音乐训练和分享 AI 语音模型，艺术家间转换人声，并生成免版税人声。"
+  },
+  "moises": {
+   "tagline": "AI 音乐练习与分轨",
+   "description": "将任何歌曲分成音轨，改变音高和速度，检测和弦——音乐创作者必备。"
+  },
+  "cambai": {
+   "tagline": "140 多种语言的语音翻译",
+   "description": "MARS 和 BOLI 模型在保留情绪的同时，将现场体育和电影配音成 140 多种语言。"
+  },
+  "deepdub": {
+   "tagline": "录音棚级 AI 配音",
+   "description": "企业配音平台，用 AI 语音加录音棚级质量审核本地化电影和剧集，为流媒体和发行商打造。"
+  },
+  "vozo-ai": {
+   "tagline": "AI 视频翻译与口型同步",
+   "description": "用多说话人检测和脚本编辑，翻译、重新配音并同步视频口型。"
+  },
+  "suno": {
+   "tagline": "从文字生成完整歌曲",
+   "description": "从文字提示创建带人声、歌词和伴奏的完整歌曲——最受欢迎的 AI 音乐工具。"
+  },
+  "udio": {
+   "tagline": "录音棚级 AI 音乐创作",
+   "description": "面向严肃制作人的高保真 AI 音乐生成，带精细控制、混音和修补。"
+  },
+  "soundraw": {
+   "tagline": "视频免版税 AI 音乐",
+   "description": "按情绪、流派和时长生成无限免版税曲目——为完美剪辑定制每段能量。"
+  },
+  "aiva": {
+   "tagline": "配乐 AI 作曲家",
+   "description": "以 250 多种风格创作情感配乐——从电影管弦乐到低保真——带 MIDI 导出。"
+  },
+  "mubert": {
+   "tagline": "生成式音乐流媒体与 API",
+   "description": "通过简单提示或 API，为内容、应用和直播提供实时生成式免版税音乐。"
+  },
+  "beatovenai": {
+   "tagline": "基于情绪的背景音乐",
+   "description": "创建可定制、免版税的背景配乐，与视频时间线的情绪弧线匹配。"
+  },
+  "soundful": {
+   "tagline": "面向创作者和品牌的 AI 音乐",
+   "description": "按流派模板生成录音棚级免版税曲目，可下载分轨进行定制。"
+  },
+  "loudly": {
+   "tagline": "视频 AI 音乐与配乐",
+   "description": "用与你视频内容匹配的推荐引擎生成和定制免版税音乐。"
+  },
+  "stable-audio": {
+   "tagline": "文字转音频与音效生成",
+   "description": "从带时间控制的文字生成最长 3 分钟的音乐曲目和音效——包含开放模型。"
+  },
+  "elevenlabs-sfx": {
+   "tagline": "AI 音效生成",
+   "description": "从文字描述生成电影级音效、拟音和环境音——非常适合短视频和电影。"
+  },
+  "deepbrain-ai": {
+   "tagline": "逼真 AI 数字人工作室",
+   "description": "面向新闻、培训和营销视频的超逼真 AI 数字人，带 100 多个素材数字人和定制克隆。"
+  },
+  "vidnoz": {
+   "tagline": "免费 AI 数字人视频生成器",
+   "description": "用 1500 多个模板、会说话的照片和语音克隆生成数字人视频——慷慨的免费套餐。"
+  },
+  "yepic-ai": {
+   "tagline": "实时说话数字人",
+   "description": "带 28 种语言口型同步的实时数字人代理，用于视频活动、培训和客户支持。"
+  },
+  "argil": {
+   "tagline": "面向内容创作者的 AI 克隆",
+   "description": "创建替你拍视频的 AI 克隆——肢体语言控制、B-roll 和社交就绪剪辑。"
+  },
+  "tavus": {
+   "tagline": "规模化个性化视频",
+   "description": "录一次，用你的脸和声音生成数千个个性化视频——为实时对话视频代理提供支持。"
+  },
+  "bhuman": {
+   "tagline": "个性化视频消息",
+   "description": "克隆你的脸和声音，向数千个线索和客户发送个性化视频。"
+  },
+  "akool": {
+   "tagline": "换脸与数字人平台",
+   "description": "面向营销和娱乐的高保真换脸、说话数字人和实时相机数字人。"
+  },
+  "midjourney": {
+   "tagline": "一流 AI 图像生成",
+   "description": "AI 艺术图像的黄金标准——V7 为缩略图提供逼真角色和一致风格。"
+  },
+  "ideogram": {
+   "tagline": "带完美文字的 AI 图像",
+   "description": "最适合可读文字渲染的 AI 图像生成器——缩略图、海报和 Logo 的理想之选。"
+  },
+  "leonardo-ai": {
+   "tagline": "AI 艺术与生产套件",
+   "description": "微调模型、实时画布和一致角色——游戏美术师和 YouTuber 使用的完整创作管线。"
+  },
+  "adobe-firefly": {
+   "tagline": "商业安全的 AI 生成",
+   "description": "Adobe 基于授权内容训练的 AI 图像、矢量与视频生成——集成于 Creative Cloud。"
+  },
+  "flux": {
+   "tagline": "最先进开源图像模型",
+   "description": "Black Forest Labs 的 FLUX 模型以非凡的提示遵循度和真实感引领开源图像生成。"
+  },
+  "recraft": {
+   "tagline": "带品牌控制的 AI 设计",
+   "description": "设计级图像生成，带精确品牌色、风格、矢量艺术和样机——为设计师打造。"
+  },
+  "photoroom": {
+   "tagline": "面向产品的 AI 照片编辑",
+   "description": "即时背景移除和 AI 背景生成，用于产品照片——移动端电商标准。"
+  },
+  "removebg": {
+   "tagline": "即时背景移除",
+   "description": "原始的一键背景移除工具，带 API 和 Photoshop 集成。"
+  },
+  "fotor": {
+   "tagline": "AI 照片编辑器和生成器",
+   "description": "一体化照片编辑，带 AI 图像生成、增强、头像和设计模板。"
+  },
+  "pixlr": {
+   "tagline": "AI 驱动的浏览器照片编辑器",
+   "description": "浏览器中的免费 Photoshop 替代品，带生成式填充、扩展和 AI 设计工具。"
+  },
+  "thumbnailtest": {
+   "tagline": "YouTube 缩略图 A/B 测试",
+   "description": "在直播视频上自动轮换和测试缩略图，用统计置信度找到最高 CTR 的获胜者。"
+  },
+  "magnific": {
+   "tagline": "AI 图像放大与增强器",
+   "description": "著名的“幻觉”放大工具，放大时添加逼真细节——缩略图艺术家的最爱。"
+  },
+  "upscayl": {
+   "tagline": "免费开源图像放大工具",
+   "description": "面向 Linux、macOS 和 Windows 的免费、私密、离线 AI 图像放大——无需云端。"
+  },
+  "gemini": {
+   "tagline": "Google 多模态 AI 助手",
+   "description": "用 Google 前沿模型研究、写脚本和头脑风暴——深度研究和 1M token 上下文，适合长视频项目。"
+  },
+  "perplexity": {
+   "tagline": "带引用的 AI 研究",
+   "description": "用实时网页引用研究主题的答案引擎——非常适合核实视频脚本。"
+  },
+  "notion-ai": {
+   "tagline": "工作区中的 AI",
+   "description": "用内置在 Notion 工作区中的 AI 撰写、总结和整理脚本与内容日历。"
+  },
+  "grammarly": {
+   "tagline": "无处不在的 AI 写作助手",
+   "description": "每个应用中的实时语法、语气和清晰度建议——外加生成式 AI 起草。"
+  },
+  "quillbot": {
+   "tagline": "AI 改述与总结",
+   "description": "用最受内容作者欢迎的改述工具改写、总结和人性化文本。"
+  },
+  "rytr": {
+   "tagline": "经济实惠的 AI 写作器",
+   "description": "以无与伦比的价格，用 40 多个用例模板在 30 多种语言中生成大纲、钩子和描述。"
+  },
+  "sudowrite": {
+   "tagline": "面向小说与叙事的 AI",
+   "description": "为叙事作者打造的故事引擎——为故事型频道描述、扩展和头脑风暴情节转折。"
+  },
+  "subscribr": {
+   "tagline": "YouTube 脚本 AI",
+   "description": "专为 YouTube 打造：研究你利基市场中的爆款视频，写带钩子、优化留存的脚本。"
+  },
+  "wordtune": {
+   "tagline": "AI 改写与语气控制",
+   "description": "带语气和长度控制地改写句子，外加基于你来源的 AI 回答。"
+  },
+  "hypotenuse-ai": {
+   "tagline": "电商与 SEO 内容 AI",
+   "description": "带品牌语调训练，批量生成产品描述、SEO 文章和社交标题。"
+  },
+  "grok": {
+   "tagline": "xAI 实时助手",
+   "description": "带实时 X 数据、图像生成和无过滤研究的前沿推理模型，适合紧跟趋势的创作者。"
+  },
+  "deepseek": {
+   "tagline": "开源前沿推理",
+   "description": "免费前沿级推理和写作模型——R1 在脚本逻辑和研究方面媲美付费模型。"
+  },
+  "surfer": {
+   "tagline": "SEO 内容优化",
+   "description": "数据驱动的内容编辑器，针对 SERP 竞争对手为你的文章评分——博客转视频管道的标准。"
+  },
+  "frase": {
+   "tagline": "SEO 研究与 AI 写作",
+   "description": "在一个工作流中研究、列提纲、写作和优化 SEO 内容，带来自 SERP 的问题研究。"
+  },
+  "promptbase": {
+   "tagline": "提示词市场",
+   "description": "买卖经过测试的 Midjourney、DALL·E、Stable Diffusion 和 GPT 提示词——通往经过验证的缩略图和视觉风格的捷径。"
+  },
+  "prompthero": {
+   "tagline": "提示词库与教育",
+   "description": "搜索大型开放 AI 图像提示词库，带示例输出，另有免费提示词课程。"
+  },
+  "aiprm": {
+   "tagline": "ChatGPT 提示词模板",
+   "description": "浏览器扩展，为 ChatGPT 添加精选提示词模板——SEO 简报、视频脚本和角色，一键完成。"
+  },
+  "whisper": {
+   "tagline": "开源语音识别",
+   "description": "OpenAI 免费开源 ASR 模型，支持 90 多种语言——大多数字幕工具的骨干。"
+  },
+  "otterai": {
+   "tagline": "AI 会议与访谈笔记",
+   "description": "带说话人识别、摘要和行动项的实时转录——非常适合基于访谈的内容。"
+  },
+  "rev": {
+   "tagline": "人工 + AI 转录",
+   "description": "行业标准转录，带 AI（快速）和人工（99% 准确）选项，外加字幕和副标题。"
+  },
+  "trint": {
+   "tagline": "面向讲故事者的转录",
+   "description": "40 多种语言的新闻编辑部级转录和协作式故事构建——AP 和 Vice 使用。"
+  },
+  "sonix": {
+   "tagline": "自动多语言转录",
+   "description": "50 多种语言的快速自动转录，带浏览器内编辑器、字幕和 AI 摘要。"
+  },
+  "deepgram": {
+   "tagline": "面向开发者的语音转文字 API",
+   "description": "Nova-3 提供最快、最准确的 STT API，用于在创作者工具中构建语音功能。"
+  },
+  "assemblyai": {
+   "tagline": "通过 API 提供的语音 AI 模型",
+   "description": "Universal-2 语音转文字，带情感、章节和 PII 编辑，用于构建媒体功能。"
+  },
+  "happy-scribe": {
+   "tagline": "转录与字幕平台",
+   "description": "120 多种语言的机器和人工转录与字幕，带专业字幕编辑器。"
+  },
+  "macwhisper": {
+   "tagline": "Mac 本地 Whisper 转录",
+   "description": "macOS 上拖放式本地转录——私密、快速、一次性购买、无订阅。"
+  },
+  "zeemo": {
+   "tagline": "95 多种语言自动字幕",
+   "description": "以 98% 准确率自动为视频加字幕，翻译字幕并为社交媒体排版——移动优先。"
+  },
+  "zubtitle": {
+   "tagline": "字幕与社交视频优化器",
+   "description": "为社交视频添加字幕、标题和进度条，并按平台自动调整尺寸。"
+  },
+  "checksub": {
+   "tagline": "AI 字幕与配音",
+   "description": "在 200 多种语言中生成、翻译和排版字幕，带 AI 配音选项。"
+  },
+  "amberscript": {
+   "tagline": "转录与字幕服务",
+   "description": "符合 GDPR 的机器和人工转录，在欧洲语言中具有很强准确率。"
+  },
+  "vidiq": {
+   "tagline": "YouTube 增长与关键词 AI",
+   "description": "关键词研究、竞争对手跟踪、每日视频创意和 AI 指导——最受欢迎的 YouTube SEO 扩展。"
+  },
+  "1of10": {
+   "tagline": "爆款缩略图研究",
+   "description": "在任何利基市场找到突破性的“异常值”视频，逆向工程出获胜标题、主题和缩略图。"
+  },
+  "spotter-studio": {
+   "tagline": "面向 YouTuber 的构思引擎",
+   "description": "来自资助 MrBeast 的公司：用基于 1000 万+ 异常值训练的 AI 头脑风暴、包装和项目管理视频。"
+  },
+  "taja-ai": {
+   "tagline": "AI YouTube 发布副驾驶",
+   "description": "发布时从一个仪表板优化标题、描述、标签、章节和缩略图。"
+  },
+  "viewstats": {
+   "tagline": "MrBeast 团队频道分析",
+   "description": "来自 ViewStats 团队的公开频道数据、缩略图搜索和异常值发现。"
+  },
+  "tuberanker": {
+   "tagline": "YouTube SEO 工具包",
+   "description": "关键词探索器、标签生成器和排名跟踪器，用于优化视频元数据。"
+  },
+  "nexlev": {
+   "tagline": "无脸利基与趋势研究",
+   "description": "用专为无脸频道运营者打造的 AI 研究，找到获胜 YouTube 利基、热门话题和竞争对手空白。"
+  },
+  "metricool": {
+   "tagline": "社交排期与分析",
+   "description": "在所有平台（包括 YouTube 和 TikTok）上计划、排期和分析内容，带 AI 帖子生成。"
+  },
+  "ocoya": {
+   "tagline": "AI 社交媒体自动化",
+   "description": "用 26 种语言的 AI 文案和电商集成，创建、配文和排期社交内容。"
+  },
+  "publer": {
+   "tagline": "社交媒体超级英雄",
+   "description": "带 AI 辅助、批量工具、回收利用和最佳时间建议，随处排期。"
+  },
+  "buffer": {
+   "tagline": "带 AI 的简单社交发布",
+   "description": "经典排期工具，带 AI 助手跨渠道再利用帖子。"
+  },
+  "socialbee": {
+   "tagline": "AI 驱动内容分类",
+   "description": "基于分类的社交排期，带构建整个发布策略的 AI 副驾驶。"
+  },
+  "blotato": {
+   "tagline": "AI 内容再利用 API",
+   "description": "将一个视频转化为 10 多个平台原生帖子，并通过 API 和无代码工作流自动化无脸频道。"
+  },
+  "gumloop": {
+   "tagline": "无代码 AI 工作流构建器",
+   "description": "面向内容管道的拖放式 AI 自动化——无需代码即可抓取、生成和发布。"
+  },
+  "lindy": {
+   "tagline": "忙碌创作者的数字员工",
+   "description": "构建自主处理邮件、研究、会议记录和内容任务的 AI 代理。"
+  },
+  "simplified": {
+   "tagline": "一体化 AI 营销套件",
+   "description": "在一个为精简创意团队打造的工作区中设计、写作、剪辑视频和排期社交帖子。"
+  },
+  "predisai": {
+   "tagline": "从提示生成 AI 社交帖子",
+   "description": "生成可发布的品牌帖子、轮播图和 Reels，内置竞争对手分析。"
+  },
+  "notebooklm": {
+   "tagline": "AI 研究与播客笔记本",
+   "description": "上传来源，从你自己的文档获得有依据的摘要、学习指南和爆款 Audio Overview 播客。"
+  },
+  "streamyard": {
+   "tagline": "浏览器直播工作室",
+   "description": "带嘉宾、叠加层和本地录制的多平台直播到 YouTube、LinkedIn 和 Facebook——无需安装。"
+  },
+  "restream": {
+   "tagline": "多平台直播到 30+ 平台",
+   "description": "带工作室、字幕和直播分析，同时直播到 30 多个目的地。"
+  },
+  "streamlabs": {
+   "tagline": "一体化直播工具包",
+   "description": "基于 OBS 的直播套件，带 AI 精彩集锦、提醒、小费和用于再利用的播客编辑器。"
+  },
+  "ecamm-live": {
+   "tagline": "Mac 专业直播制作",
+   "description": "Mac 原生直播，带场景、访谈、画中画和专业镜头控制，深受单人主持喜爱。"
+  },
+  "streamelements": {
+   "tagline": "直播叠加层与互动",
+   "description": "面向 Twitch 和 YouTube 主播的云场景、提醒、聊天机器人和忠诚度工具，带 AI 辅助剪辑和标题功能。"
+  },
+  "wonder-studio": {
+   "tagline": "AI CG 角色动画",
+   "description": "自动在真人镜头中动画、照明和合成 CG 角色——Autodesk 的 VFX 改变者。"
+  },
+  "move-ai": {
+   "tagline": "无标记动作捕捉",
+   "description": "从普通手机视频捕捉 3D 动作——无需套装或标记——并导出到 Blender、Unity 或 Unreal。"
+  },
+  "cascadeur": {
+   "tagline": "AI 辅助 3D 动画",
+   "description": "基于物理的角色动画，带 AI 自动摆姿——无需动捕即可制作逼真动作动画。"
+  },
+  "plask": {
+   "tagline": "浏览器动作捕捉与动画",
+   "description": "在浏览器中从视频提取动作，并用直观时间线编辑 3D 动画。"
+  },
+  "rokoko-video": {
+   "tagline": "免费视频转动画捕捉",
+   "description": "免费将任何视频转化为 3D 角色动画，扩展时使用专业动捕硬件。"
+  },
+  "spline-ai": {
+   "tagline": "浏览器中的 AI 3D 设计",
+   "description": "用 AI 提示生成和编辑交互式 3D 场景，然后直接嵌入网页。"
+  },
+  "meshy": {
+   "tagline": "文字和图像转 3D 模型",
+   "description": "一分钟内从文字或图像生成带纹理的 3D 模型——最受欢迎的 AI 3D 管道。"
+  },
+  "deepmotion": {
+   "tagline": "无标记动作捕捉",
+   "description": "用 AI 动作捕捉从普通视频动画化 3D 角色——无需套装，支持 Blender 和 Unreal 导出。"
+  },
+  "kaedim": {
+   "tagline": "2D 到可生产 3D",
+   "description": "用 AI 网格生成加人工审查，将概念图和照片转化为干净、可游戏就绪的 3D 模型。"
+  },
+  "tripo-ai": {
+   "tagline": "快速文字与图像转 3D",
+   "description": "几秒钟内从单张图像或提示生成带纹理的 3D 模型，带绑定和导出选项，适用于游戏和动画。"
+  }
+ }
+}

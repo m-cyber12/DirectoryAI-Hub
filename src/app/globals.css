@@ -1,0 +1,763 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ * ─────────────────────────────────────────────────────────────────────────
+ *  CreatorAI Hub — Cinematic v2 design system
+ *  (built on top of the audit-fixed token system below)
+ * ─────────────────────────────────────────────────────────────────────────
+ */
+
+@layer base {
+  body {
+    @apply bg-surface-0 text-foreground antialiased;
+    font-feature-settings:
+      'rlig' 1,
+      'calt' 1;
+  }
+
+  /* Monospace numerals align in columns — scores, prices, dates. */
+  .tabular-nums,
+  .font-mono {
+    font-variant-numeric: tabular-nums;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /**
+   * Audit fix 4.1 — light mode overrides.
+   * The site previously forced dark with no toggle. These token overrides
+   * flip the surface/foreground colours when the user (or system preference)
+   * selects light mode via next-themes.
+   */
+  html.light {
+    --surface-0: #FAFAFA;
+    --surface-1: #F4F4F5;
+    --surface-2: #E4E4E7;
+    --surface-3: #D4D4D8;
+    --foreground: #18181B;
+  }
+
+  /* Light-mode text colours — invert the zinc scale. */
+  html.light {
+    color-scheme: light;
+  }
+  html.light body {
+    color: #18181B;
+  }
+  html.light .text-zinc-400 { color: #52525B; }
+  html.light .text-zinc-500 { color: #71717A; }
+  html.light .text-zinc-600 { color: #A1A1AA; }
+  html.light .text-zinc-300 { color: #3F3F46; }
+  html.light .text-zinc-200 { color: #27272A; }
+  html.light .text-zinc-100 { color: #18181B; }
+  html.light .text-white { color: #09090B; }
+  html.light .border-white\/5 { border-color: rgba(0, 0, 0, 0.06); }
+  html.light .border-white\/10 { border-color: rgba(0, 0, 0, 0.08); }
+  html.light .bg-black { background-color: #FAFAFA; }
+  html.light .bg-zinc-950\/60 { background-color: rgba(250, 250, 250, 0.9); }
+  html.light .bg-zinc-900\/60 { background-color: rgba(244, 244, 245, 0.9); }
+  html.light .bg-zinc-950\/80 { background-color: rgba(244, 244, 245, 0.95); }
+  html.light .bg-surface-0\/85 { background-color: rgba(250, 250, 250, 0.88); }
+  html.light .bg-white\/5 { background-color: rgba(0, 0, 0, 0.04); }
+  html.light .hover\:bg-white\/5:hover { background-color: rgba(0, 0, 0, 0.06); }
+  html.light .hover\:text-white:hover { color: #09090B; }
+  html.light .hover\:text-zinc-300:hover { color: #27272A; }
+  html.light .ring-white\/10 { --tw-ring-color: rgba(0, 0, 0, 0.08); }
+
+  /* Audit fix 4.6 — a single visible focus ring for every interactive element. */
+  *:focus-visible {
+    outline: 2px solid theme('colors.accent.400');
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background: theme('colors.accent.500 / 30%');
+    color: theme('colors.accent.50');
+  }
+}
+
+@layer components {
+  /* Retained: still used by the Stack Builder. */
+  .cinematic-card {
+    @apply border border-white/10 bg-surface-1;
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .cinematic-card:hover {
+    @apply border-accent-500/40;
+    transform: translateY(-4px);
+  }
+
+  .skeleton {
+    background: linear-gradient(
+      90deg,
+      theme('colors.surface.2') 25%,
+      theme('colors.surface.3') 50%,
+      theme('colors.surface.2') 75%
+    );
+    background-size: 200% 100%;
+    animation: skeleton-loading 1.5s infinite;
+  }
+
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/**
+ * Audit fix 4.2 — staggered entrance animation for tool cards.
+ * Cards fade in and slide up sequentially on page load.
+ * Disabled when prefers-reduced-motion is active (see the media query below).
+ */
+@keyframes card-enter {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card-enter {
+  animation: card-enter 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Stagger delays via CSS custom property set by JS */
+.card-enter[data-delay="0"] { animation-delay: 0ms; }
+.card-enter[data-delay="1"] { animation-delay: 60ms; }
+.card-enter[data-delay="2"] { animation-delay: 120ms; }
+.card-enter[data-delay="3"] { animation-delay: 180ms; }
+.card-enter[data-delay="4"] { animation-delay: 240ms; }
+.card-enter[data-delay="5"] { animation-delay: 300ms; }
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+::-webkit-scrollbar-track {
+  background: theme('colors.surface.0');
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, theme('colors.accent.500'), theme('colors.primary.600'));
+  border-radius: 8px;
+  border: 2px solid theme('colors.surface.0');
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, theme('colors.accent.400'), theme('colors.primary.500'));
+}
+
+/* Light-mode hero glow — softer for bright backgrounds. */
+html.light .bg-hero-glow {
+  background-image: radial-gradient(circle at 50% 0%, rgba(232, 174, 28, 0.06) 0%, rgba(250, 250, 250, 0) 70%);
+}
+
+/**
+ * Audit fix 4.6 — the original had a single reduced-motion rule. This also
+ * disables smooth scrolling, which is a common vestibular trigger.
+ */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Lenis owns wheel smoothing on capable desktops; native smooth scrolling is
+   retained only as the accessible fallback for anchors and touch devices. */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .card-enter { animation: none; }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════
+   CINEMATIC v2 — new design system
+   ═══════════════════════════════════════════════════════════════════════ */
+
+@layer base {
+  :root {
+    /* Accent ramp (amber by default) — flipped to red by html.theme-red
+       (the Infinity Gauntlet snap easter egg). */
+    --accent-50: #FFF8EB;
+    --accent-200: #FDE9B8;
+    --accent-300: #FBD87F;
+    --accent-400: #F7C948;
+    --accent-500: #E8AE1C;
+    --accent-600: #C08A0F;
+    --accent-700: #8F650B;
+
+    --glow-amber: rgba(247, 201, 72, 0.55);
+    --glow-violet: rgba(139, 92, 246, 0.55);
+    --glow-cyan: rgba(34, 211, 238, 0.45);
+    --aurora-1: rgba(124, 58, 237, 0.22);
+    --aurora-2: rgba(34, 211, 238, 0.12);
+    --aurora-3: rgba(247, 201, 72, 0.10);
+  }
+
+  html.light {
+    --aurora-1: rgba(124, 58, 237, 0.10);
+    --aurora-2: rgba(34, 211, 238, 0.08);
+    --aurora-3: rgba(247, 201, 72, 0.12);
+  }
+}
+
+/* ── Titan theme (Infinity Gauntlet snap) ──────────────────────────────────
+   UNLAYERED on purpose: Tailwind's build dropped these custom-property
+   overrides when they lived inside @layer base, and unlayered rules also win
+   the cascade over the layered :root defaults. Yellow → red, site-wide. */
+html.theme-red {
+  --accent-50: #FEF2F2;
+  --accent-200: #FECACA;
+  --accent-300: #FCA5A5;
+  --accent-400: #F87171;
+  --accent-500: #DC2626;
+  --accent-600: #B91C1C;
+  --accent-700: #991B1B;
+
+  --glow-amber: rgba(239, 68, 68, 0.6);
+  --aurora-3: rgba(239, 68, 68, 0.16);
+  --aurora-1: rgba(190, 18, 60, 0.22);
+}
+
+/* ── Gradient text ─────────────────────────────────────────────────────── */
+.text-gradient {
+  background: linear-gradient(100deg, #f7c948 0%, #e879f9 45%, #22d3ee 90%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.text-gradient-amber {
+  background: linear-gradient(100deg, #fbbf24 0%, #f7c948 40%, #f59e0b 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Titan theme gradient swaps (yellow→red everywhere) */
+html.theme-red .text-gradient {
+  background: linear-gradient(100deg, #f87171 0%, #f43f5e 45%, #fb923c 90%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+html.theme-red .text-gradient-amber {
+  background: linear-gradient(100deg, #fca5a5 0%, #ef4444 40%, #dc2626 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ── Glass panels ──────────────────────────────────────────────────────── */
+.glass-panel {
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02));
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+}
+
+html.light .glass-panel {
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.4));
+  border-color: rgba(0, 0, 0, 0.08);
+}
+
+/* Animated gradient border (padding-box trick) */
+.border-flow {
+  position: relative;
+  border-radius: 1.5rem;
+  background:
+    linear-gradient(var(--surface-1), var(--surface-1)) padding-box,
+    linear-gradient(120deg, #f7c948, #8b5cf6, #22d3ee, #f7c948) border-box;
+  background-size:
+    100% 100%,
+    300% 100%;
+  border: 1.5px solid transparent;
+  animation: border-flow 8s linear infinite;
+}
+
+html.light .border-flow {
+  background:
+    linear-gradient(#ffffff, #ffffff) padding-box,
+    linear-gradient(120deg, #f59e0b, #8b5cf6, #06b6d4, #f59e0b) border-box;
+  background-size:
+    100% 100%,
+    300% 100%;
+}
+
+@keyframes border-flow {
+  0% { background-position: 0% 0%, 0% 50%; }
+  100% { background-position: 0% 0%, 300% 50%; }
+}
+
+/* ── Hero background layers ────────────────────────────────────────────── */
+.hero-aurora {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.hero-aurora::before,
+.hero-aurora::after {
+  content: '';
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(90px);
+  will-change: transform;
+}
+
+.hero-aurora::before {
+  width: 55vw;
+  height: 55vw;
+  left: -12vw;
+  top: -18vw;
+  background: radial-gradient(circle, var(--aurora-1), transparent 65%);
+  animation: aurora-drift-a 26s ease-in-out infinite alternate;
+}
+
+.hero-aurora::after {
+  width: 45vw;
+  height: 45vw;
+  right: -14vw;
+  bottom: -16vw;
+  background: radial-gradient(circle, var(--aurora-2), transparent 65%);
+  animation: aurora-drift-b 32s ease-in-out infinite alternate;
+}
+
+.hero-aurora .aurora-third {
+  position: absolute;
+  width: 38vw;
+  height: 38vw;
+  left: 30vw;
+  top: 8vh;
+  border-radius: 9999px;
+  background: radial-gradient(circle, var(--aurora-3), transparent 60%);
+  filter: blur(80px);
+  animation: aurora-drift-a 38s ease-in-out infinite alternate-reverse;
+}
+
+@keyframes aurora-drift-a {
+  0% { transform: translate3d(0, 0, 0) scale(1); }
+  100% { transform: translate3d(9vw, 6vh, 0) scale(1.15); }
+}
+
+@keyframes aurora-drift-b {
+  0% { transform: translate3d(0, 0, 0) scale(1.05); }
+  100% { transform: translate3d(-8vw, -5vh, 0) scale(0.95); }
+}
+
+/* Subtle grid overlay */
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.045) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(ellipse 90% 70% at 50% 30%, black 30%, transparent 75%);
+  -webkit-mask-image: radial-gradient(ellipse 90% 70% at 50% 30%, black 30%, transparent 75%);
+}
+
+html.light .bg-grid {
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+}
+
+/* Fine noise grain */
+.bg-noise {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+  opacity: 0.035;
+}
+
+/* ── Floating chips ────────────────────────────────────────────────────── */
+@keyframes float-y {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-14px); }
+}
+
+.float-slow { animation: float-y 7s ease-in-out infinite; }
+.float-slower { animation: float-y 9.5s ease-in-out infinite reverse; }
+
+/* ── Shimmer / shine sweeps ────────────────────────────────────────────── */
+@keyframes shine-sweep {
+  0% { transform: translateX(-130%) skewX(-18deg); }
+  60%, 100% { transform: translateX(230%) skewX(-18deg); }
+}
+
+.shine {
+  position: relative;
+  overflow: hidden;
+}
+
+.shine::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 40%;
+  left: 0;
+  background: linear-gradient(105deg, transparent, rgba(255, 255, 255, 0.22), transparent);
+  animation: shine-sweep 5.5s ease-in-out infinite;
+  pointer-events: none;
+}
+
+/* Slow rotating conic ring behind key panels */
+@keyframes spin-slow {
+  to { transform: rotate(360deg); }
+}
+
+.animate-spin-slow { animation: spin-slow 14s linear infinite; }
+
+/* ── Rotating word (hero) ──────────────────────────────────────────────── */
+.word-cell {
+  transition:
+    opacity 0.45s ease,
+    transform 0.55s cubic-bezier(0.16, 1, 0.3, 1),
+    filter 0.45s ease;
+}
+
+.word-in {
+  opacity: 1;
+  transform: translateY(0);
+  filter: blur(0);
+}
+
+.word-out {
+  opacity: 0;
+  transform: translateY(55%);
+  filter: blur(6px);
+}
+
+/* ── Scroll cue (hero mouse) ───────────────────────────────────────────── */
+@keyframes scroll-wheel {
+  0% { opacity: 0; transform: translateY(0); }
+  30% { opacity: 1; }
+  100% { opacity: 0; transform: translateY(12px); }
+}
+
+.scroll-wheel-dot {
+  animation: scroll-wheel 1.8s ease-in-out infinite;
+}
+
+/* ── Tilt card helpers ─────────────────────────────────────────────────── */
+.tilt-wrap {
+  transform-style: preserve-3d;
+  will-change: transform;
+  transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.45s ease;
+}
+
+.tilt-glare {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  background: radial-gradient(
+    560px circle at var(--gx, 50%) var(--gy, 50%),
+    rgba(255, 255, 255, 0.10),
+    rgba(139, 92, 246, 0.08) 35%,
+    transparent 55%
+  );
+  mix-blend-mode: screen;
+}
+
+.tilt-wrap:hover .tilt-glare {
+  opacity: 1;
+}
+
+/* ── Pulsing glow for CTAs ─────────────────────────────────────────────── */
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(247, 201, 72, 0.45), 0 8px 30px -6px rgba(139, 92, 246, 0.35); }
+  50% { box-shadow: 0 0 0 8px rgba(247, 201, 72, 0), 0 8px 40px -4px rgba(139, 92, 246, 0.5); }
+}
+
+.cta-glow {
+  animation: pulse-glow 3.2s ease-in-out infinite;
+}
+
+/* ── Section eyebrow line ──────────────────────────────────────────────── */
+.eyebrow-line {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.eyebrow-line::before {
+  content: '';
+  width: 1.75rem;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, currentColor);
+}
+
+.eyebrow-line::after {
+  content: '';
+  width: 1.75rem;
+  height: 1px;
+  background: linear-gradient(90deg, currentColor, transparent);
+}
+
+/* ── Footer glow hairline ──────────────────────────────────────────────── */
+.footer-glow {
+  position: relative;
+}
+
+.footer-glow::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(100%, 80rem);
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(247, 201, 72, 0.5), rgba(139, 92, 246, 0.5), transparent);
+}
+
+/* ── Decorative overlays must never eat clicks (v2.4 bugfix) ───────────── */
+.hero-aurora, .bg-grid, .bg-noise { pointer-events: none; }
+
+/* ── v2.5 light-mode rescue ────────────────────────────────────────────────
+   The gauntlet/Iron Man art is dark-by-design; on a bright page it washed
+   out. `.dark-island` puts a museum-spotlight vignette behind the stage so
+   the art (and its chips) read correctly in BOTH themes. */
+.dark-island::before {
+  content: "";
+  position: absolute;
+  inset: -6% -45%;
+  border-radius: 2.5rem;
+  background: radial-gradient(
+    ellipse 62% 56% at 50% 44%,
+    rgba(8, 9, 12, 0.94) 0%,
+    rgba(8, 9, 12, 0.82) 52%,
+    transparent 78%
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+/* In light mode the stone chips keep their dark styling inside the island. */
+html.light .dark-island .text-zinc-200 { color: #e4e4e7; }
+html.light .dark-island .bg-black\/60 { background-color: rgba(0, 0, 0, 0.62); }
+html.light .dark-island .border-white\/10 { border-color: rgba(255, 255, 255, 0.16); }
+
+/* Light theme needs darker "ink" tints for accent text (the pale 200/300
+   ramps are invisible on #FAFAFA). Utilities read these variables, and the
+   titan-red theme still wins in light mode via the combined selector below. */
+html.light {
+  --accent-200: #92400e;
+  --accent-300: #a16207;
+  --accent-400: #b45309;
+}
+html.light.theme-red {
+  --accent-200: #7f1d1d;
+  --accent-300: #991b1b;
+  --accent-400: #b91c1c;
+}
+/* Secondary borders that vanished on light surfaces. */
+html.light .border-white\/15 { border-color: rgba(0, 0, 0, 0.16); }
+html.light .border-white\/20 { border-color: rgba(0, 0, 0, 0.2); }
+/* Semantic tints that were tuned for dark surfaces only. */
+html.light .text-emerald-300 { color: #047857; }
+html.light .text-emerald-400 { color: #059669; }
+html.light .text-cyan-300, html.light .text-cyan-400 { color: #0e7490; }
+html.light .text-fuchsia-300, html.light .text-fuchsia-400 { color: #a21caf; }
+html.light .text-rose-300, html.light .text-rose-400 { color: #be123c; }
+html.light .text-amber-200, html.light .text-amber-300 { color: #92400e; }
+
+/* ── Infinity Gauntlet easter egg (v2.1) ───────────────────────────────── */
+
+/* Idle float for the whole gauntlet */
+@keyframes gauntlet-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+.gauntlet-float { animation: gauntlet-float 6s ease-in-out infinite; }
+
+/* ── Entrance: the closed fist descends from above ─────────────────────── */
+button.g-pre {
+  opacity: 0;
+  transform: translateY(-260px) scale(1.05);
+}
+button.g-pre.g-descended {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  transition:
+    opacity 1.3s ease-out,
+    transform 1.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ── Tool stones: hidden until the hand is open, then pop with stagger ── */
+.g-stone {
+  opacity: 0;
+  transform: translate(-50%, -50%) translateY(110px) scale(0);
+  transition:
+    transform 0.8s cubic-bezier(0.2, 1.4, 0.3, 1),
+    opacity 0.45s ease-out;
+}
+.stones-popped .g-stone {
+  opacity: 1;
+  transform: translate(-50%, -50%) translateY(0) scale(1);
+}
+.stones-popped .g-stone:nth-child(1) { transition-delay: 0.05s; }
+.stones-popped .g-stone:nth-child(2) { transition-delay: 0.19s; }
+.stones-popped .g-stone:nth-child(3) { transition-delay: 0.33s; }
+.stones-popped .g-stone:nth-child(4) { transition-delay: 0.47s; }
+
+/* ── Iron Man finale (v2.4, re-timed v2.7): revealed by the fading blast ── */
+@keyframes ironman-rise {
+  from { opacity: 0; transform: translateY(36px) scale(1.04); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.ironman-enter { animation: ironman-rise 0.9s cubic-bezier(0.16, 1, 0.3, 1) both; }
+
+@keyframes ironman-glow {
+  0%, 100% { filter: drop-shadow(0 0 14px rgba(239, 68, 68, 0.35)) drop-shadow(0 0 30px rgba(247, 201, 72, 0.18)); }
+  50% { filter: drop-shadow(0 0 26px rgba(239, 68, 68, 0.55)) drop-shadow(0 0 52px rgba(168, 85, 247, 0.3)); }
+}
+.ironman-glow { animation: ironman-glow 4s ease-in-out infinite; }
+
+/* Stones breathing glow on the closed fist */
+@keyframes stone-flicker {
+  0%, 100% { filter: drop-shadow(0 0 18px rgba(247, 201, 72, 0.35)) drop-shadow(0 0 42px rgba(139, 92, 246, 0.22)); }
+  50% { filter: drop-shadow(0 0 30px rgba(247, 201, 72, 0.6)) drop-shadow(0 0 60px rgba(139, 92, 246, 0.35)); }
+}
+.stone-flicker { animation: stone-flicker 3.2s ease-in-out infinite; }
+
+/* Snap recoil: violent jitter for ~500ms */
+@keyframes snap-shake {
+  0% { transform: translate(0, 0) scale(1); }
+  15% { transform: translate(-10px, 4px) scale(1.06); }
+  30% { transform: translate(9px, -6px) scale(1.1); }
+  45% { transform: translate(-8px, -4px) scale(1.12); }
+  60% { transform: translate(7px, 5px) scale(1.1); }
+  75% { transform: translate(-5px, 2px) scale(1.06); }
+  100% { transform: translate(0, 0) scale(1.05); }
+}
+.snap-shake { animation: snap-shake 0.55s ease-in-out both; }
+
+/* Full-viewport white flash at the moment of the snap */
+.snap-flash {
+  position: fixed;
+  inset: 0;
+  z-index: 998;
+  pointer-events: none;
+  background: radial-gradient(circle at 50% 45%, #fff 0%, rgba(255, 255, 255, 0.9) 35%, rgba(255, 255, 255, 0.4) 70%, transparent 100%);
+  opacity: 0;
+}
+
+/* Snap recoil: violent jitter for ~500ms (applied to <body> on snap) */
+body.snap-shake { overflow: clip; }
+
+/* Released tool "stones" hovering around the gauntlet */
+@keyframes stone-bob {
+  0%, 100% { transform: translateY(0) rotate(-1deg); }
+  50% { transform: translateY(-8px) rotate(1.5deg); }
+}
+.stone-bob { animation: stone-bob 3.6s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .gauntlet-float, .stone-flicker, .stone-bob, .snap-shake,
+  .ironman-enter, .ironman-glow { animation: none !important; }
+  button.g-pre { opacity: 1; transform: none; }
+  .g-stone { opacity: 1; transform: translate(-50%, -50%); transition: none; }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+ * i18n (2026-08-07) — per-script typography + RTL.
+ *
+ * Strong native typefaces per language, applied via <html lang>. The base
+ * Tailwind `font-sans` (var(--font-sans) = Inter) is untouched, so every
+ * existing component automatically picks up the correct face for the active
+ * locale. unicode-range in the @font-face rules means browsers only download
+ * the glyphs they render, keeping English pages exactly as fast as before.
+ * ───────────────────────────────────────────────────────────────────────── */
+
+@layer base {
+  /* Persian — Vazirmatn, the reference modern Farsi typeface. */
+  html[lang='fa'] body,
+  html[lang='fa'] body * {
+    font-family: var(--font-fa), var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  }
+
+  /* Arabic — Noto Sans Arabic (modern, highly legible MSA). */
+  html[lang='ar'] body,
+  html[lang='ar'] body * {
+    font-family: var(--font-ar), var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  }
+
+  /* Chinese (Simplified) — Noto Sans SC. */
+  html[lang='zh'] body,
+  html[lang='zh'] body * {
+    font-family: var(--font-zh), var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  }
+
+  /* CJK + Arabic-script text embeds inside Latin pages (e.g. a Persian tool
+     name in an English description) fall back to a decent face too. */
+  .font-lang-zh { font-family: var(--font-zh), var(--font-sans), sans-serif; }
+  .font-lang-ar { font-family: var(--font-ar), var(--font-sans), sans-serif; }
+  .font-lang-fa { font-family: var(--font-fa), var(--font-sans), sans-serif; }
+
+  /* RTL: make sure the default text alignment follows the writing direction
+     (Tailwind's text-left/text-right in untouched components would otherwise
+     fight the direction set on <html>). */
+  html[dir='rtl'] body {
+    text-align: right;
+  }
+  html[dir='rtl'] *[dir='ltr'],
+  html[dir='ltr'] *[dir='rtl'] {
+    text-align: start;
+  }
+}
+
+/* RTL fixes for shared utility classes that Tailwind can't infer direction
+   for (kept scoped so nothing in the LTR design changes). */
+html[dir='rtl'] .rtl-flip {
+  transform: scaleX(-1);
+}
+
+/* Language switcher: keep flag glyphs and native labels from inheriting the
+   locale font awkwardly in Arabic/Persian UI chrome. */
+.locale-switcher {
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+}
+html[lang='fa'] .locale-switcher,
+html[lang='ar'] .locale-switcher {
+  font-family: var(--font-sans), var(--font-fa), var(--font-ar), ui-sans-serif, sans-serif;
+}

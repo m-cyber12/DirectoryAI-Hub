@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /go/
+Disallow: /admin
+Disallow: /account
+Disallow: /login
+
+Sitemap: https://directory-ai-hub.vercel.app/sitemap.xml

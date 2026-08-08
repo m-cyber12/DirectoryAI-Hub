@@ -1,0 +1,378 @@
+{
+ "opusclip": {
+  "tagline": "Convierte vídeos largos en shorts virales",
+  "description": "OpusClip analiza vídeos de formato largo con puntuación de viralidad por IA para extraer los clips verticales con mayor retención. Subtítulos automáticos, emojis y reencuadre inteligente incluidos."
+ },
+ "munch": {
+  "tagline": "Reaprovechamiento de vídeo con IA para redes sociales",
+  "description": "Extrae los momentos más atractivos del contenido de formato largo usando análisis de tendencias por IA y puntuación de viralidad de palabras clave."
+ },
+ "vidyo-ai": {
+  "tagline": "Crea clips cortos a partir de vídeos largos",
+  "description": "Reaprovecha podcasts y seminarios web en clips verticales listos para redes sociales con plantillas de marca personalizadas, emojis y encuadre automático."
+ },
+ "klap": {
+  "tagline": "Convierte vídeos de YouTube en TikToks",
+  "description": "Herramienta rápida de recorte con IA que identifica temas interesantes en tus vídeos largos, genera clips verticales y superpone subtítulos personalizados."
+ },
+ "submagic": {
+  "tagline": "Subtítulos automáticos y B-roll para shorts",
+  "description": "Sincroniza subtítulos animados con tu voz, inserta gráficos B-roll contextuales, aplica transiciones suaves de zoom y añade efectos de sonido sutiles."
+ },
+ "autoshorts": {
+  "tagline": "Automatización de vídeo sin rostro",
+  "description": "Generador automático de Shorts que combina guiones GPT, voces de IA y B-roll de fondo para crear Shorts sin rostro en segundos."
+ },
+ "pictory": {
+  "tagline": "De texto a vídeo con voces de IA",
+  "description": "Transforma guiones y artículos en vídeos profesionales con narración por IA, material de archivo y subtitulado automático."
+ },
+ "invideo": {
+  "tagline": "Plataforma de creación de vídeo con IA",
+  "description": "Generador de vídeo todo en uno que crea guiones, selecciona metraje de archivo, añade subtítulos y aplica locuciones realistas desde un simple prompt de texto."
+ },
+ "clipchamp": {
+  "tagline": "El editor de vídeo de Microsoft con IA",
+  "description": "Editor de vídeo gratuito con subtítulos automáticos, texto a voz, pantalla verde y entrenador de oratoria. Creado por Microsoft."
+ },
+ "capcut": {
+  "tagline": "Editor de vídeo todo en uno",
+  "description": "Editor gratuito de escritorio y móvil de primer nivel con subtítulos automáticos por IA, aislamiento vocal, eliminación de fondos y plantillas de tendencias de TikTok."
+ },
+ "runway": {
+  "tagline": "Generación y edición de vídeo con IA",
+  "description": "Crea clips de vídeo cinematográficos desde texto o imágenes de referencia, elimina objetos en movimiento y aplica seguimiento de movimiento de calidad Hollywood."
+ },
+ "descript": {
+  "tagline": "Edita vídeo editando texto",
+  "description": "Editor de vídeo y podcast todo en uno con regrabación por IA, mejora de sonido de estudio, eliminación de muletillas y transcripción automática."
+ },
+ "filmora": {
+  "tagline": "Editor de vídeo fácil con IA",
+  "description": "Editor de vídeo apto para principiantes con copiloto de IA, recorte inteligente, seguimiento de movimiento y miles de efectos y plantillas."
+ },
+ "veed": {
+  "tagline": "Editor de vídeo online con IA",
+  "description": "Plataforma profesional de edición de vídeo en el navegador con traducción de subtítulos en un clic, eliminación de muletillas y redimensionado instantáneo para redes sociales."
+ },
+ "adobe-premiere-pro": {
+  "tagline": "Edición de vídeo profesional",
+  "description": "Editor de vídeo profesional estándar de la industria con emparejado de color por IA, detección de cambios de escena, voz a texto e integración perfecta con After Effects."
+ },
+ "davinci-resolve": {
+  "tagline": "Etalonaje de color profesional",
+  "description": "Corrección de color de nivel Hollywood, audio Fairlight, efectos Fusion y edición en la página Cut — completamente gratis en la versión estándar."
+ },
+ "final-cut-pro": {
+  "tagline": "El editor profesional de Apple",
+  "description": "Software de edición profesional de Apple con línea de tiempo magnética, VR 360°, HDR y etalonaje avanzado optimizado para Apple Silicon."
+ },
+ "synthesia": {
+  "tagline": "Generación de vídeo con avatares de IA",
+  "description": "Crea vídeos profesionales con avatares de IA en más de 130 idiomas. Sin cámara, estudio ni actores. Ideal para formación y contenido corporativo."
+ },
+ "heygen": {
+  "tagline": "Avatares de IA y traducción de vídeo",
+  "description": "Crea vídeos con avatares de IA y traducción con sincronización labial en más de 40 idiomas. Clona tu voz y tu apariencia para contenido de vídeo personalizado a escala."
+ },
+ "d-id": {
+  "tagline": "Creación de vídeo con fotos parlantes",
+  "description": "Convierte fotos en vídeos realistas de cabeza parlante. Se integra con ChatGPT para presentadores de IA interactivos y agentes conversacionales."
+ },
+ "elevenlabs": {
+  "tagline": "La clonación de voz por IA más realista",
+  "description": "El estándar de la industria en locución, clonación de voz y doblaje por IA en más de 29 idiomas. Perfecto para canales de YouTube sin rostro y documentales."
+ },
+ "murf-ai": {
+  "tagline": "Locuciones por IA para vídeos",
+  "description": "Generador de voz versátil con más de 120 voces realistas en 20 idiomas. Incluye control de tono, edición de énfasis y sincronización de música de fondo."
+ },
+ "descript-overdub": {
+  "tagline": "Clona tu voz con IA",
+  "description": "Crea un modelo de texto a voz con tu propia voz. Edita el audio editando texto. Corrige errores de grabación sin volver a grabar."
+ },
+ "resemble-ai": {
+  "tagline": "Clonación de voz en tiempo real",
+  "description": "API de clonación de voz en tiempo real con control de emociones, localización y detección de deepfakes. Seguridad y cumplimiento de nivel empresarial."
+ },
+ "lovo-ai": {
+  "tagline": "Generador de voz por IA para creadores",
+  "description": "Plataforma todo en uno de locución y creación de vídeo con control emocional del habla, biblioteca de efectos de sonido y edición de diálogos con varios locutores."
+ },
+ "adobe-podcast": {
+  "tagline": "Mejora de audio con IA",
+  "description": "Mejora de voz por IA gratuita que elimina ruido de fondo y ecos de cualquier grabación de micrófono al instante."
+ },
+ "auphonic": {
+  "tagline": "Postproducción de audio automática",
+  "description": "Servicio web de postproducción automática de audio para podcasts, emisoras y creadores de vídeo. Ecualizador, reducción de ruido y normalización de sonoridad."
+ },
+ "krisp": {
+  "tagline": "Cancelación de ruido con IA",
+  "description": "Cancelación de ruido con IA para llamadas y grabaciones. Elimina voces de fondo, ladridos y teclados en tiempo real."
+ },
+ "cleanvoice": {
+  "tagline": "Limpieza de audio con IA",
+  "description": "Elimina automáticamente muletillas, sonidos de boca, tartamudeos y silencios muertos de grabaciones de podcasts y vídeos."
+ },
+ "colossyan": {
+  "tagline": "Generación de vídeo con IA para formación",
+  "description": "Crea vídeos de formación con presentadores de IA en minutos. Traducción automática a más de 70 idiomas con acentos localizados."
+ },
+ "elai-io": {
+  "tagline": "Creación de vídeo con avatares de IA",
+  "description": "Crea vídeos de IA personalizados con presentadores digitales a partir de texto. Más de 80 idiomas, 25 avatares y conversión de PPT a vídeo."
+ },
+ "canva": {
+  "tagline": "Diseña cualquier cosa con IA",
+  "description": "Plataforma de diseño todo en uno con escritura mágica de IA, eliminador de fondos y miles de plantillas para miniaturas, banners y publicaciones sociales."
+ },
+ "adobe-express": {
+  "tagline": "Diseño rápido y fácil",
+  "description": "Crea miniaturas, folletos y publicaciones sociales con relleno generativo de IA, efectos de texto y miles de plantillas diseñadas profesionalmente."
+ },
+ "thumbly-ai": {
+  "tagline": "Generador de miniaturas de YouTube con IA",
+  "description": "Genera miniaturas de YouTube de alto CTR con IA entrenada con datos de vídeos virales. Detección facial, análisis de emociones y psicología del color integrados."
+ },
+ "snappa": {
+  "tagline": "Diseño gráfico para no diseñadores",
+  "description": "Crea miniaturas de YouTube, arte de canal y gráficos para redes sociales en minutos con plantillas prefabricadas y fotos de archivo."
+ },
+ "jasper": {
+  "tagline": "Asistente de escritura con IA",
+  "description": "Redactor de IA entrenado para marketing. Escribe guiones de vídeo, entradas de blog, textos publicitarios y pies de foto sociales con coherencia de voz de marca."
+ },
+ "copy-ai": {
+  "tagline": "Redacción publicitaria con IA para marketers",
+  "description": "Genera textos de marketing, ganchos de vídeo, guiones de anuncios y secuencias de correo en segundos. Incluye más de 90 plantillas y flujos de trabajo."
+ },
+ "chatgpt": {
+  "tagline": "Asistente de IA de propósito general",
+  "description": "La IA conversacional de OpenAI para lluvia de ideas, guionización, investigación y generación de código. La navaja suiza para creadores."
+ },
+ "claude": {
+  "tagline": "Escritura y análisis avanzados con IA",
+  "description": "El asistente de IA de Anthropic con ventana de contexto líder en la industria. Perfecto para analizar guiones largos, sintetizar investigación y escritura creativa."
+ },
+ "writesonic": {
+  "tagline": "Creación de contenido con IA",
+  "description": "Escritor de IA con optimización SEO, paráfrasis y generación de imágenes. Crea entradas de blog, páginas de destino y guiones de vídeo que posicionan."
+ },
+ "zapier": {
+  "tagline": "Automatiza flujos de trabajo con IA",
+  "description": "Conecta más de 5000 aplicaciones para automatizar tu flujo de trabajo de creador. Publica vídeos automáticamente, envía notificaciones y sincroniza datos entre plataformas."
+ },
+ "make": {
+  "tagline": "Plataforma de automatización visual",
+  "description": "Automatización sin código visual con constructor de escenarios por arrastrar y soltar. Más potente y visual que Zapier para flujos de trabajo complejos de creadores."
+ },
+ "n8n": {
+  "tagline": "Automatización de flujos de trabajo de código abierto",
+  "description": "Automatización de código abierto autoalojable con más de 400 integraciones. Control total sobre tus datos. Perfecto para creadores conscientes de la privacidad."
+ },
+ "repurpose-io": {
+  "tagline": "Publica contenido automáticamente en todas partes",
+  "description": "Reaprovecha y distribuye automáticamente tus vídeos y audios en todas las plataformas principales. Configúralo una vez, publica en todas partes para siempre."
+ },
+ "tubebuddy": {
+  "tagline": "Crecimiento y optimización de YouTube",
+  "description": "Extensión de navegador para SEO de YouTube, pruebas A/B de miniaturas, procesamiento por lotes y análisis avanzado. Esencial para youtubers serios."
+ },
+ "sora": {
+  "tagline": "Modelo de texto a vídeo de OpenAI",
+  "description": "Genera clips de vídeo cinematográficos y conscientes de la física de hasta 20 segundos desde prompts de texto, con herramientas de guion gráfico y remezcla integradas."
+ },
+ "google-veo": {
+  "tagline": "Generación de vídeo de Google DeepMind",
+  "description": "Texto a vídeo de última generación con generación de audio nativa, gran fidelidad al prompt y salida cinematográfica en 4K dentro de Gemini y Flow."
+ },
+ "pika": {
+  "tagline": "Estudio creativo de idea a vídeo",
+  "description": "Generador de vídeo con IA lúdico con ingredientes de escena, efectos Pikaffects y edición de vídeo a vídeo que encanta a los creadores de formato corto."
+ },
+ "luma-dream-machine": {
+  "tagline": "Vídeo de IA de alta calidad desde texto e imágenes",
+  "description": "Generación de vídeo rápida y de alta fidelidad con movimiento suave, fotogramas clave y control de cámara de Luma Labs."
+ },
+ "kling-ai": {
+  "tagline": "Generación de vídeo con física realista",
+  "description": "Modelo de vídeo de Kuaishou conocido por el movimiento humano realista, la sincronización labial y clips en 1080p de hasta 2 minutos."
+ },
+ "hailuo-ai": {
+  "tagline": "Modelo de vídeo cinematográfico de MiniMax",
+  "description": "Generación de texto e imagen a vídeo con gran fidelidad al prompt, animación de personajes expresiva y dirección de cámara."
+ },
+ "haiper": {
+  "tagline": "Kit de herramientas creativas de vídeo con IA",
+  "description": "Herramientas de texto a vídeo y condicionamiento de fotogramas clave centradas en el movimiento estilizado y artístico para contenido social."
+ },
+ "vidu": {
+  "tagline": "Vídeo de IA con consistencia de múltiples sujetos",
+  "description": "Modelo de vídeo chino con referencia a vídeo para personajes consistentes entre tomas — ideal para shorts basados en historias."
+ },
+ "pixverse": {
+  "tagline": "Generación de vídeo anime y estilizado",
+  "description": "Popular por sus efectos y plantillas de estilo anime que se vuelven virales en TikTok, con gran velocidad de generación."
+ },
+ "ltx-studio": {
+  "tagline": "Plataforma de cine y guion gráfico con IA",
+  "description": "Plataforma integral de historia a pantalla: guion, guion gráfico, personajes consistentes, edición de planos y render final en un solo lugar."
+ },
+ "kaiber": {
+  "tagline": "Estudio de generación de vídeo artístico",
+  "description": "Lienzo superstudio para vídeos musicales, visuales reactivos al audio y animación estilizada usado por músicos y artistas."
+ },
+ "krea-ai": {
+  "tagline": "Suite creativa de IA en tiempo real",
+  "description": "Generación de imágenes en tiempo real, ampliación y herramientas de vídeo con un lienzo intuitivo — favorito para ideación visual rápida."
+ },
+ "genmo": {
+  "tagline": "Modelo de vídeo de código abierto Mochi",
+  "description": "Creadores de Mochi 1, un modelo de generación de vídeo de código abierto de vanguardia con fuerte calidad de movimiento y fidelidad al prompt."
+ },
+ "higgsfield": {
+  "tagline": "Vídeo de IA con control de cámara cinematográfico",
+  "description": "Modelo de vídeo social conocido por sus dramáticos movimientos de cámara: zooms bruscos, bullet time y ajustes de cámara corporal."
+ },
+ "moonvalley": {
+  "tagline": "Modelo de vídeo cinematográfico con datos con licencia",
+  "description": "El modelo Marey entrenado exclusivamente con material con licencia: generación de vídeo HD comercialmente segura para cineastas profesionales."
+ },
+ "neural-frames": {
+  "tagline": "Animador de vídeos musicales con IA",
+  "description": "Animación de IA fotograma a fotograma sincronizada con las pistas de audio: la herramienta de referencia para vídeos musicales psicodélicos reactivos al audio."
+ },
+ "fliki": {
+  "tagline": "De texto a vídeo con locuciones realistas",
+  "description": "Convierte guiones, blogs o tuits en vídeos con más de 2500 voces de IA en 80 idiomas, material de archivo y subtítulos."
+ },
+ "lumen5": {
+  "tagline": "De blog a vídeo para marcas",
+  "description": "Reaprovecha entradas de blog y grabaciones de Zoom en vídeos sociales de marca con un flujo de trabajo sencillo de arrastrar y soltar."
+ },
+ "steveai": {
+  "tagline": "Vídeos de IA animados y de acción real",
+  "description": "Genera vídeos en estilo animado y de acción real a partir de guiones con personajes, locuciones y plantillas."
+ },
+ "viggle": {
+  "tagline": "Movimiento de personajes controlable",
+  "description": "Mezcla cualquier imagen de personaje con vídeos de movimiento: el famoso modelo JST-1 que anima personajes con física real."
+ },
+ "domo-ai": {
+  "tagline": "Transferencia de estilo y animación de vídeo",
+  "description": "Reestiliza metraje real en anime, dibujos animados 3D o pixel art con generación de vídeo a vídeo basada en Discord."
+ },
+ "pollo-ai": {
+  "tagline": "Centro de vídeo de IA todo en uno",
+  "description": "Accede a Kling, Runway, Veo, Hailuo y más modelos desde una sola interfaz con plantillas y efectos."
+ },
+ "goenhance": {
+  "tagline": "Estilo y mejora de vídeo a vídeo",
+  "description": "Transforma vídeos en estilos anime y dibujos animados, amplía a 4K e interpola fotogramas para un movimiento fluido."
+ },
+ "stable-video-diffusion": {
+  "tagline": "De imagen a vídeo de código abierto",
+  "description": "El modelo de vídeo abierto de Stability AI para generación de imagen a vídeo: gratis para ejecutar localmente y ajustar para investigación."
+ },
+ "hunyuan-video": {
+  "tagline": "Modelo de vídeo de código abierto de Tencent",
+  "description": "Modelo de vídeo abierto de 13 mil millones de parámetros con calidad cinematográfica que rivaliza con los modelos cerrados — gratis para desarrolladores."
+ },
+ "wan": {
+  "tagline": "Generación de vídeo abierta de Alibaba",
+  "description": "La familia de modelos abiertos Wan 2.x de Alibaba: gran renderizado de texto y movimiento, ejecutable en GPUs de consumo."
+ },
+ "seedance": {
+  "tagline": "Modelo de vídeo profesional de ByteDance",
+  "description": "Modelo de texto e imagen a vídeo de primer nivel en benchmarks con narración multi-toma y control preciso de cámara."
+ },
+ "hedra": {
+  "tagline": "Vídeo de personajes expresivos",
+  "description": "El modelo Character-3 genera personajes que hablan, cantan y expresan emociones a partir de una sola imagen y una pista de audio."
+ },
+ "immersity-ai": {
+  "tagline": "Animación de profundidad 2D a 3D",
+  "description": "Convierte fotos y vídeos en movimiento 3D inmersivo con animación de paralaje sensible a la profundidad."
+ },
+ "topaz-video-ai": {
+  "tagline": "Ampliación de vídeo profesional con IA",
+  "description": "Ampliación de IA estándar de la industria hasta 8K, eliminación de ruido, desentrelazado e interpolación de fotogramas hasta 120 fps para material de archivo y profesional."
+ },
+ "captions": {
+  "tagline": "Estudio de vídeo parlante con IA",
+  "description": "Graba, subtitula, dobla y edita vídeos parlantes con corrección de contacto visual por IA, avatares y ediciones con un toque."
+ },
+ "kapwing": {
+  "tagline": "Editor de vídeo online colaborativo",
+  "description": "Editor basado en navegador con corte inteligente por IA, subtítulos automáticos, eliminación de fondos y espacios de trabajo de equipo."
+ },
+ "flexclip": {
+  "tagline": "Creador de vídeo online fácil",
+  "description": "Creación de vídeo basada en plantillas con texto a vídeo por IA, subtítulos automáticos y una gran biblioteca de material para vídeos de marketing rápidos."
+ },
+ "gling": {
+  "tagline": "Editor de corte preliminar con IA para youtubers",
+  "description": "Corta automáticamente silencios, tomas fallidas y muletillas de vídeos de cabeza parlante, y exporta a Premiere, Resolve o FCP."
+ },
+ "timebolt": {
+  "tagline": "Eliminación instantánea de silencios y pausas",
+  "description": "Elimina pausas y silencios muertos de vídeos y podcasts en segundos, con zooms de acercamiento y exportación a editores."
+ },
+ "autopod": {
+  "tagline": "Edición de podcasts multicámara en Premiere",
+  "description": "Extensión de Premiere Pro que edita automáticamente programas de vídeo y podcasts multicámara: corta cámaras según quién habla."
+ },
+ "wisecut": {
+  "tagline": "Edición automática de vídeo con música",
+  "description": "Editor de IA que elimina silencios, añade música de fondo con ducking automático, subtítulos y acercamientos inteligentes."
+ },
+ "powerdirector": {
+  "tagline": "Editor de vídeo de escritorio mejorado con IA",
+  "description": "Editor completo con reemplazo de cielo por IA, detección de objetos, efectos corporales y mejora de voz para usuarios avanzados."
+ },
+ "unscreen": {
+  "tagline": "Eliminación de fondo de vídeo",
+  "description": "Elimina fondos de vídeo automáticamente sin pantalla verde: perfecto para reacciones superpuestas y demostraciones de producto."
+ },
+ "cutoutpro": {
+  "tagline": "Kit de mejora visual con IA",
+  "description": "Kit todo en uno para eliminación de fondos de vídeo, mejora de fotos, coloreado y fotos de pasaporte mediante API."
+ },
+ "vizard": {
+  "tagline": "Recorte con IA y puntuaciones de viralidad",
+  "description": "Convierte vídeos largos en shorts con puntuaciones de viralidad por clip, subtítulos automáticos y programación social integrada."
+ },
+ "2shortai": {
+  "tagline": "Conversor de YouTube a Shorts",
+  "description": "Extrae los momentos más atractivos de los vídeos de YouTube y los convierte en shorts verticales con subtítulos."
+ },
+ "spikes-studio": {
+  "tagline": "Recorte de gaming y streaming con IA",
+  "description": "Hecho para streamers: encuentra momentos virales en VODs de Twitch y partidas, y añade subtítulos y emojis automáticamente."
+ },
+ "chopcast": {
+  "tagline": "Reaprovecha seminarios web en clips",
+  "description": "Reaprovechamiento centrado en B2B que convierte seminarios web y contenido largo en microvídeos de marca para LinkedIn."
+ },
+ "eklipse": {
+  "tagline": "Momentos destacados de gaming con IA",
+  "description": "Captura automáticamente rachas de bajas y momentos de euforia de transmisiones de Twitch, Kick y YouTube en clips listos para TikTok."
+ },
+ "powder": {
+  "tagline": "IA de montajes gaming para creadores",
+  "description": "IA de escritorio que detecta tus mejores momentos de juego localmente y crea montajes con tus reacciones de cámara."
+ },
+ "revidai": {
+  "tagline": "Generador de vídeos virales sin rostro",
+  "description": "Crea TikToks sin rostro desde un prompt: guion, voz de IA, subtítulos y visuales de archivo o de IA en un clic."
+ },
+ "crayo": {
+  "tagline": "Cultivo de clips a escala",
+  "description": "Genera shorts estilo historia con fondos de juego, voces de IA y subtítulos: hecho para canales de clips."
+ },
+ "zebracat": {
+  "tagline": "De texto a vídeos de marketing virales",
+  "description": "Convierte prompts de texto y entradas de blog en vídeos de marketing cortos con escenas, voces y música de IA."
+ }
+}

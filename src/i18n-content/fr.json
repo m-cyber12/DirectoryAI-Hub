@@ -1,0 +1,2999 @@
+{
+ "blog": {
+  "top-5-ai-tools-10x-youtube-shorts-views": {
+   "title": "Les 5 meilleurs outils IA pour décupler les vues de vos Shorts YouTube et TikTok en 2026",
+   "excerpt": "Arrêtez d'éditer des sous-titres dynamiques à la main pendant des heures. Cinq outils de découpe de notre catalogue — à quoi sert chacun et comment choisir.",
+   "categoryLabel": "Stratégie YouTube"
+  },
+  "elevenlabs-vs-heygen-voice-avatar-comparison": {
+   "title": "ElevenLabs vs HeyGen : quel studio de voix et d'avatars choisir ?",
+   "excerpt": "Les deux leaders de la voix et des avatars comparés sur les capacités documentées, les tarifs et les workflows.",
+   "categoryLabel": "Comparaison d'outils"
+  },
+  "faceless-youtube-channel-ai-tool-stack": {
+   "title": "Le stack de 4 outils IA derrière les chaînes YouTube sans visage (et ce que ça coûte vraiment)",
+   "excerpt": "Une décomposition complète du stack de 4 outils utilisé par les chaînes sans visage documentaires et finance.",
+   "categoryLabel": "Monétisation"
+  },
+  "midjourney-v7-thumbnail-ctr-secrets": {
+   "title": "Comment entraîner Midjourney pour des personnages de miniatures YouTube cohérents",
+   "excerpt": "Un workflow de prompts pratique — éclairage, objectif et personnage de référence — pour des miniatures cohérentes.",
+   "categoryLabel": "Miniatures et CTR"
+  },
+  "best-ai-video-generators-2026-tested": {
+   "title": "Sora vs Veo vs Kling vs Runway : comment choisir entre les générateurs vidéo IA de 2026",
+   "excerpt": "Quatre générateurs vidéo IA leaders, comparés sur leurs forces documentées, modèles tarifaires et limites.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "complete-guide-ai-multilingual-video-dubbing": {
+   "title": "Comment mondialiser votre chaîne YouTube avec le doublage IA — guide d'installation",
+   "excerpt": "Comment les créateurs utilisent ElevenLabs et Rask AI pour traduire des vidéos en espagnol, hindi et japonais.",
+   "categoryLabel": "Stratégie YouTube"
+  },
+  "free-ai-tool-stack-for-new-creators": {
+   "title": "Le stack créateur à 0 $ : 12 outils IA réellement gratuits pour démarrer en 2026",
+   "excerpt": "Sans essais, sans cartes de crédit. Ces 12 outils IA gratuits couvrent script, montage, sous-titres et miniatures.",
+   "categoryLabel": "Premiers pas"
+  },
+  "ai-podcast-production-workflow-2026": {
+   "title": "Le workflow podcast IA complet : de l'enregistrement à la publication en 3 heures",
+   "excerpt": "Comment les podcasteurs solo utilisent Riverside, Descript et Headliner pour produire un épisode complet.",
+   "categoryLabel": "Podcasting"
+  },
+  "ai-tools-seo-guide-video-creators": {
+   "title": "SEO YouTube en 2026 : comment les outils de recherche IA trouvent des idées de vidéos qui classent",
+   "excerpt": "vidIQ, 1of10 et Spotter Studio comparés — plus la méthode de recherche d'outliers des meilleures chaînes.",
+   "categoryLabel": "Stratégie YouTube"
+  },
+  "ai-music-copyright-safe-soundtracks": {
+   "title": "Musique IA sûre en droits : Suno, Udio et les outils libres de droits comparés",
+   "excerpt": "Pouvez-vous monétiser des vidéos avec de la musique IA ? Nous décortiquons les petits caractères des licences Suno, Udio et du reste.",
+   "categoryLabel": "Musique et audio"
+  }
+ },
+ "category": {
+  "Video Generation": {
+   "label": "Génération vidéo",
+   "intro": "Les modèles texte-vers-vidéo et image-vers-vidéo génèrent des images qui n'ont jamais existé. En 2026, ils sont réellement utiles pour le B-roll, les plans d'établissement et les inserts stylisés, mais toujours peu fiables pour tout ce qui exige un personnage cohérent sur plusieurs plans ou une synchro labiale précise.",
+   "whatMatters": "Durée de plan avant que le modèle perde en cohérence — la plupart se dégradent nettement au-delà de 8 à 10 secondes\nSi l'audio est généré nativement ou doit être ajouté séparément\nLa licence commerciale de la sortie, qui varie énormément entre fournisseurs\nCoût par seconde exploitable, pas par génération — prévoyez d'en écarter la plupart",
+   "reality": "L'adhésion au prompt a progressé bien plus vite que la cohérence temporelle. Budgetisez plusieurs générations par plan réellement publié."
+  },
+  "Video Editing & VFX": {
+   "label": "Montage vidéo et VFX",
+   "intro": "Des fonctions d'IA superposées aux éditeurs classiques : suppression d'objets, rotoscopie, correspondance des couleurs, upscaling et remplacement d'arrière-plan. Ces outils font gagner le plus de temps sur le milieu fastidieux d'un projet plutôt que sur le début créatif ou la finition.",
+   "whatMatters": "S'intègre-t-il à votre NLE existant ou impose-t-il un aller-retour séparé\nLimites de résolution et de codec d'export sur le plan que vous pouvez vraiment payer\nComment l'IA échoue avec élégance — un mauvais masque à corriger à la main coûte plus cher que le faire soi-même\nTemps de file de rendu aux heures de pointe sur une infrastructure cloud partagée",
+   "reality": "Les outils web rattrapent vite, mais tout ce qui est critique en couleur ou dépasse une vingtaine de minutes appartient toujours à un éditeur de bureau."
+  },
+  "Video Repurposing": {
+   "label": "Réutilisation vidéo",
+   "intro": "Les outils de découpe prennent un long enregistrement — podcast, interview ou stream — et le transforment en clips verticaux courts avec sous-titres et recadrage. C'est la catégorie vidéo IA la plus mature et celle au retour sur investissement le plus clair.",
+   "whatMatters": "Précision des sous-titres sur votre accent et votre vocabulaire, là où la plupart des outils échouent silencieusement\nRecadrage conscient du locuteur pour les enregistrements multi-personnes\nSi la sélection de clips est vraiment bonne ou choisit simplement des segments équidistants\nLes systèmes de crédits par minute d'entrée s'accumulent vite sur du contenu long",
+   "reality": "Presque tous les outils ici promettent un « score de viralité ». Traitez-les comme une aide de tri grossière, pas une prédiction."
+  },
+  "Faceless Video": {
+   "label": "Vidéo sans visage",
+   "intro": "Des pipelines de bout en bout pour les chaînes où personne n'apparaît à l'écran : recherche de niche, scripts, voix IA, visuels stock ou générés, sous-titres et upload — souvent avec toute la boucle automatisée. C'est l'un des sous-niches qui croissent le plus vite sur YouTube, et l'un des plus saturés de sorties à faible effort.",
+   "whatMatters": "Combien du pipeline est réellement automatisé versus « automatisé avec 40 étapes manuelles »\nQualité vocale et droits commerciaux sur le plan que vous payez vraiment\nSi les visuels sont stock, générés par IA ou scrapés — ce dernier cas démonétise les chaînes\nLimites de sortie mensuelles, qui décident de votre coût réel par vidéo publiée",
+   "reality": "Les outils fonctionnent ; la stratégie est la partie difficile. Les chaînes gagnantes ont toujours besoin d'une niche, d'un packaging et d'une constance — l'automatisation multiplie toute stratégie, bonne ou mauvaise."
+  },
+  "Voice & Audio": {
+   "label": "Voix et audio",
+   "intro": "Synthèse vocale, clonage vocal, doublage et réparation audio. La narration synthétique en anglais est désormais presque indiscernable d'une lecture humaine compétente pour la plupart des auditeurs ; les autres langues et la gamme émotionnelle restent en retrait.",
+   "whatMatters": "Droits commerciaux sur le plan gratuit — souvent absents, ce qui le rend inutile pour les chaînes monétisées\nExigences de consentement et de vérification pour cloner une voix\nContrôle de la prononciation pour noms, jargon et acronymes\nFréquence d'échantillonnage de sortie, qui compte si l'audio sera mixé et non utilisé brut",
+   "reality": "La qualité du clonage vocal a plafonné près du sommet ; les vraies différences sont désormais le modèle tarifaire, la couverture linguistique et les conditions de licence."
+  },
+  "Translation & Dubbing": {
+   "label": "Traduction et doublage",
+   "intro": "Des outils qui amènent une vidéo existante vers de nouvelles langues : doublage automatique avec voix clonées, régénération de la synchro labiale et localisation des sous-titres. Pour beaucoup de chaînes, c'est la dépense IA au meilleur ROI — le contenu existe déjà, vous débloquez seulement de nouvelles audiences.",
+   "whatMatters": "Si la voix originale est clonée entre les langues ou remplacée par une voix stock\nQualité de synchro labiale en gros plans — des décalages visibles nuisent plus qu'un accent\nGestion multi-locuteurs, qui sépare les outils sérieux des démos\nPrix par minute à votre volume réel ; le doublage évolue avec la durée, pas avec les sièges",
+   "reality": "Le doublage automatique suffit pour la plupart des contenus de créateurs, mais pas pour les performances dramatiques. Les meilleures chaînes font encore vérifier idiomes et blagues par un locuteur natif."
+  },
+  "Music & SFX": {
+   "label": "Musique et effets sonores",
+   "intro": "Musique générative et effets sonores pour les créateurs qui ont besoin d'audio autorisé sans naviguer dans les licences. Utile pour les nappes de fond et les jingles simples ; encore faible sur tout ce qui a un arc structurel spécifique.",
+   "whatMatters": "Si la licence couvre la vidéo monétisée et survit à une revendication Content ID\nSéparation des stems pour duck ou remixer plutôt qu'accepter le mix complet\nContrôle de la durée et si les loops bouclent proprement\nSi la licence persiste après l'annulation de votre abonnement",
+   "reality": "Lisez attentivement les conditions de licence. Plusieurs outils accordent des droits qui se terminent avec votre abonnement, un problème pour un catalogue existant."
+  },
+  "AI Avatars": {
+   "label": "Avatars IA",
+   "intro": "Des présentateurs synthétiques qui lisent un script à la caméra, plus une traduction en synchro labiale de séquences existantes. Solides pour les explicateurs corporate et la localisation ; encore reconnaissables comme synthétiques pour la plupart des spectateurs en contenu décontracté.",
+   "whatMatters": "Pouvez-vous créer un avatar personnalisé de vous-même et quelle vérification cela exige\nCouverture linguistique et si la synchro labiale est régénérée par langue ou simplement doublée\nGamme de gestes — les présentateurs statiques paraissent artificiels très vite\nPrix par minute, qui rend les vidéos longues disproportionnellement chères",
+   "reality": "Les audiences apprennent à les repérer. Ils fonctionnent le mieux là où le spectateur s'attend à une présentation formelle."
+  },
+  "Thumbnails & Design": {
+   "label": "Miniatures et design",
+   "intro": "Génération et édition d'images orientées CTR : miniatures, art de chaîne et graphiques sociaux. Les modèles génératifs excellent en arrière-plans et concepts, restent faibles en texte lisible.",
+   "whatMatters": "Qualité du rendu de texte, toujours le point le plus faible de tout modèle d'image\nCohérence faciale si vous apparaissez dans vos propres miniatures\nExporte-t-il aux dimensions exactes exigées par chaque plateforme\nSupport de tests A/B, plus important que la qualité brute d'image pour le CTR réel",
+   "reality": "Générez le fond avec l'IA, ajoutez le texte dans un vrai éditeur. Presque tous les professionnels font exactement cela."
+  },
+  "Scripting & Writing": {
+   "label": "Script et rédaction",
+   "intro": "Des modèles de langage ajustés pour la vidéo : crochets, plans, scripts complets, titres et descriptions. Vraiment utiles pour la structure et surmonter la page blanche ; la sortie a toujours besoin de votre voix par-dessus.",
+   "whatMatters": "Travaille-t-il depuis vos transcriptions existantes plutôt que des prompts génériques\nQualité de variation des crochets — les huit premières secondes décident de la rétention\nFormatage conscient de la plateforme pour boîtes de description, chapitres et commentaires épinglés\nÀ quel point la sortie brute se lit comme écrite par IA pour votre audience spécifique",
+   "reality": "Utilisez-les pour le squelette, jamais pour le brouillon final. Les audiences détectent vite la sortie de modèle non éditée, et elle aplatit la personnalité qui faisait marcher la chaîne."
+  },
+  "AI Agents & Assistants": {
+   "label": "Agents et assistants IA",
+   "intro": "Assistants généralistes et agents de recherche qui sous-tendent tout le workflow du créateur : brainstorming, planification, vérification des faits, résumé de sources et automatisation de tâches multi-étapes. Ils ne produisent pas de vidéo — ils accélèrent chaque autre étape.",
+   "whatMatters": "Fenêtre de contexte et gestion des fichiers, qui décident s'il peut digérer vos transcriptions et dossiers de recherche\nCitations et accès web pour tout ce qui est factuel — une sortie de modèle non citée ne devrait jamais atteindre un script\nSi le plan payant ajoute une vraie capacité (raisonnement, agents, intégrations) ou juste du volume\nTermes de données : vos prompts et uploads servent-ils à l'entraînement",
+   "reality": "Les écarts de capacité entre assistants de pointe se sont réduits ; la plus grande différence est la discipline de votre workflow de prompts et de vérification autour de celui que vous choisissez."
+  },
+  "Prompts & Templates": {
+   "label": "Prompts et modèles",
+   "intro": "Marchés, bibliothèques et extensions de prompts et modèles réutilisables pour les outils génératifs du reste de cet annuaire. Une bonne bibliothèque de prompts est un raccourci ; une mauvaise est un plafond sur votre production.",
+   "whatMatters": "Les prompts livrent-ils des exemples de sortie vérifiables avant achat\nVersionnage des modèles — un excellent prompt Midjourney v5 peut être inutile en v7\nLicence du prompt lui-même et de tout ce que vous produisez avec\nPolitiques de remboursement ou de qualité sur les marchés payants",
+   "reality": "Les prompts achetés sont des roues d'entraînement, pas un fossé. Servez-vous-en pour apprendre la structure d'un bon prompt, puis écrivez le vôtre adapté à votre style."
+  },
+  "Transcription & Captions": {
+   "label": "Transcription et sous-titres",
+   "intro": "Parole-vers-texte, génération de sous-titres et traduction. La catégorie IA la plus fiable de cet annuaire — la précision sur l'anglais clair dépasse régulièrement 95 %, et les options open source rivalisent avec les payantes.",
+   "whatMatters": "Taux d'erreur de mots sur la parole accentuée et le vocabulaire technique\nQualité de diarisation des locuteurs pour les enregistrements multi-personnes\nFormats d'export — SRT, VTT et style incrusté ne sont pas interchangeables\nSi la traduction est uniquement automatique ou relue, ce qui compte pour les sous-titres publiés",
+   "reality": "C'est la catégorie où une option gratuite auto-hébergée rivalise réellement avec les services payants."
+  },
+  "SEO & Analytics": {
+   "label": "SEO et analytique",
+   "intro": "Recherche de mots-clés, analyse des concurrents, tests de titres et tableaux de bord de performance pour plateformes vidéo. Ils montrent de vraies données, mais la couche de recommandation IA par-dessus varie d'astucieuse à superstitieuse.",
+   "whatMatters": "Les données viennent-elles des API officielles de la plateforme ou sont-elles estimées\nComment les estimations sont calculées et si le fournisseur est transparent\nSi les tests A/B sont réels ou juste une comparaison séquentielle\nProfondeur historique, qui décide si l'analyse de tendances signifie quelque chose",
+   "reality": "Traitez les estimations de volume de recherche comme directionnelles. Aucun tiers n'a accès aux vrais signaux de classement."
+  },
+  "Automation": {
+   "label": "Automatisation",
+   "intro": "Outils de workflow qui connectent le reste de votre stack : publication, cross-posting, gestion de fichiers et pipelines multi-étapes. La catégorie au plus grand effet de levier une fois votre processus stable, et une perte de temps avant.",
+   "whatMatters": "Quelles plateformes ont un vrai accès API versus une automation navigateur fragile\nGestion des erreurs quand une étape échoue en plein pipeline\nPouvez-vous auto-héberger, ce qui compte pour le coût et la confidentialité\nPrix par tâche ou opération, qui évolue mal avec le volume",
+   "reality": "Automatisez un workflow seulement après l'avoir exécuté manuellement assez de fois pour savoir qu'il ne changera pas le mois prochain."
+  },
+  "Live & Streaming": {
+   "label": "Live et streaming",
+   "intro": "Outils en temps réel pour la production live : découpe instantanée, sous-titres en direct, surveillance de stream et détection automatique des temps forts. Les contraintes de latence font que la qualité est en retrait des équivalents hors ligne.",
+   "whatMatters": "Latence de bout en bout, qui décide si les sous-titres sont exploitables en direct\nSi les temps forts sont détectés en temps réel ou seulement après la fin du stream\nUsage des ressources locales — tout ce qui tourne sur votre machine d'encodage coûte des images\nCouverture des plateformes sur Twitch, YouTube et Kick",
+   "reality": "Faites tourner tout ce qui est IA sur une seconde machine si possible. Partager un GPU avec votre encodeur, c'est ainsi que les streams perdent des images."
+  },
+  "3D & Motion": {
+   "label": "3D et motion",
+   "intro": "Capture de mouvement, génération d'actifs 3D, suivi de caméra et animation procédurale. La catégorie la moins mature ici, mais celle qui s'améliore le plus vite, et la sortie est réellement difficile à produire autrement.",
+   "whatMatters": "Les maillages générés sont-ils assez propres pour être utilisés ou nécessitent-ils une retopologie complète\nPrécision de la capture de mouvement sans marqueurs sur mouvement rapide et occlusion\nCompatibilité d'export avec Blender, Unreal et votre pipeline actuel\nLe rigging est-il inclus ou laissé en exercice",
+   "reality": "Attendez-vous à traiter la sortie IA comme un point de départ, pas un actif fini. Le temps gagné est dans le blocking, pas dans le polissage."
+  }
+ },
+ "news": {
+  "veo-3-render-pricing-drops": {
+   "title": "Déploiement de Veo 3 : baisse des prix de rendu et export 720p sur l'API",
+   "excerpt": "Google a discrètement réduit le prix par seconde de l'API Veo 3 et ajouté la sortie 720p, abaissant le coût de production des clips.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "elevenlabs-dubbing-studio-30-languages": {
+   "title": "ElevenLabs étend son studio de doublage à 30 langues avec préservation des émotions",
+   "excerpt": "Le nouveau passe de doublage conserve le ton émotionnel entre les langues, ce qui compte pour la localisation.",
+   "categoryLabel": "Voix et audio"
+  },
+  "youtube-monetization-human-input-rule-update": {
+   "title": "YouTube clarifie sa règle d'« apport humain significatif » pour les chaînes IA",
+   "excerpt": "Les nouveaux conseils disent que le contenu édité avec l'aide de l'IA est éligible à la monétisation, mais pas le contenu entièrement automatisé.",
+   "categoryLabel": "Industrie"
+  },
+  "runway-api-4k-upscale-ga": {
+   "title": "Runway lance son niveau d'upscaling API en disponibilité générale",
+   "excerpt": "L'endpoint d'upscale 4K est désormais GA et stable en production, laissant les créateurs corriger les sorties générées molles.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "opusclip-virality-filter-free-tier": {
+   "title": "OpusClip élargit son offre gratuite et ajoute un filtre de clips axé rétention",
+   "excerpt": "Un nouveau filtre « rétention d'abord » oriente la sélection des clips vers les moments de plus forte chute d'audience.",
+   "categoryLabel": "Réutilisation vidéo"
+  },
+  "suno-pro-license-update-monetized": {
+   "title": "Suno met à jour la licence Pro pour couvrir la vidéo monétisée en termes clairs",
+   "excerpt": "Les conditions Pro révisées rendent explicite l'usage commercial des pistes générées, fermant l'ambiguïté.",
+   "categoryLabel": "Musique et audio"
+  },
+  "descript-studio-sound-multitrack": {
+   "title": "Descript ajoute Studio Sound multipiste pour les montages de groupe",
+   "excerpt": "Studio Sound nettoie désormais chaque piste de participant séparément au lieu d'un mix plat, préservant le naturel.",
+   "categoryLabel": "Montage vidéo et VFX"
+  },
+  "n8n-ai-workflow-templates-for-creators": {
+   "title": "n8n publie des modèles de démarrage pour les workflows automatisés de créateurs",
+   "excerpt": "Les modèles prêts à l'emploi couvrent désormais les pipelines de publication et de cross-posting, réduisant le temps de configuration.",
+   "categoryLabel": "Automatisation"
+  },
+  "capcut-web-pro-free-tier-expansion": {
+   "title": "CapCut élargit l'offre gratuite d'édition web pour le sous-titrage et les outils texte IA",
+   "excerpt": "Plus de fonctions de sous-titrage et d'édition de texte passent à l'offre gratuite web, réduisant l'écart avec le payant.",
+   "categoryLabel": "Montage vidéo et VFX"
+  },
+  "heygen-avatar-v6-uncanny-valley": {
+   "title": "HeyGen prévisualise l'avatar v6, visant le dernier recoin de la vallée de l'étrange",
+   "excerpt": "Un aperçu fuité montre un meilleur détail des micro-expressions visant à rendre les présentateurs plus naturels.",
+   "categoryLabel": "Avatars IA"
+  },
+  "kling-2-master-model-all-tiers": {
+   "title": "Le modèle maître Kling 2.0 s'ouvre à tous les plans avec des clips cohérents de 3 minutes",
+   "excerpt": "Kuaishou a élargi l'accès à son modèle maître et triplé la durée cohérente des clips, intensifiant la concurrence.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "capcut-script-to-short-faceless-pipeline": {
+   "title": "CapCut lance un pipeline script-vers-Shorts destiné aux chaînes sans visage",
+   "excerpt": "L'éditeur gratuit a enchaîné import de script, voix IA, appariement de stock et sous-titres automatiques.",
+   "categoryLabel": "Vidéo sans visage"
+  },
+  "suno-stem-export-licensing-clarity": {
+   "title": "Suno ajoute l'export de stems et une licence claire en langage simple pour la vidéo monétisée",
+   "excerpt": "Les abonnés Pro peuvent désormais télécharger stems vocaux/instrumentaux, et la page de licence déclare l'usage monétisé.",
+   "categoryLabel": "Musique et audio"
+  },
+  "vidiq-outlier-alerts-dashboard": {
+   "title": "vidIQ envoie des alertes d'outliers directement dans les tableaux de bord des chaînes",
+   "excerpt": "Au lieu d'un onglet recherche, les outliers de votre niche vous alertent à l'heure où ils décollent.",
+   "categoryLabel": "SEO et analytique"
+  },
+  "runway-gen4-character-consistency": {
+   "title": "Runway Gen-4 ajoute des contrôles de cohérence de personnage verrouillés par référence",
+   "excerpt": "Une image de référence ancre désormais l'identité entre les plans générés, visant le plus grand obstacle restant.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "adobe-podcast-multitrack-paid-tier": {
+   "title": "Adobe Podcast ajoute un plan payant multipiste ; Enhance reste gratuit",
+   "excerpt": "L'Enhance gratuit en un clic demeure, tandis que les sessions multipistes et le traitement par lot passent au payant.",
+   "categoryLabel": "Tarifs"
+  },
+  "midjourney-v8-beta-text-brand-kits": {
+   "title": "La bêta Midjourney V8 vise le texte lisible et les kits de marque pour créateurs",
+   "excerpt": "La bêta se concentre sur les titres lisibles et les kits réutilisables de style/marque — une proposition directe.",
+   "categoryLabel": "Miniatures et design"
+  },
+  "heygen-v6-beta-gesture-control": {
+   "title": "Les avatars HeyGen v6 entrent en bêta publique avec des gestes dirigés",
+   "excerpt": "Les créateurs peuvent désormais script des gestes d'emphase par phrase, poursuivant le dernier recoin de la vallée de l'étrange.",
+   "categoryLabel": "Avatars IA"
+  },
+  "youtube-auto-dub-all-monetized": {
+   "title": "YouTube déploie les pistes audio doublées automatiquement à toutes les chaînes monétisées",
+   "excerpt": "L'audio multilingue, auparavant testé avec de grands partenaires, est maintenant une option Studio pour tous.",
+   "categoryLabel": "Industrie"
+  },
+  "sora-storyboard-to-video-pro": {
+   "title": "OpenAI Sora ajoute storyboard-vers-vidéo pour les abonnés ChatGPT Pro",
+   "excerpt": "Un storyboard à panneaux dirige désormais les générations multi-plans avec des notes de caméra par panneau.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "descript-live-transcript-collab": {
+   "title": "Descript lance la collaboration de transcription en direct pour les montages d'équipe",
+   "excerpt": "Les éditeurs voient désormais les coupes des autres dans une session de transcription partagée, avec commentaires par paragraphe.",
+   "categoryLabel": "Lancements"
+  },
+  "elevenlabs-conversational-agents-ga": {
+   "title": "Les agents vocaux conversationnels d'ElevenLabs arrivent en disponibilité générale",
+   "excerpt": "Les agents vocaux à latence sous-seconde sont désormais prêts pour la production, avec prix à la minute publiés.",
+   "categoryLabel": "Voix et audio"
+  },
+  "n8n-creator-pack-40-templates": {
+   "title": "n8n publie un pack de 40 modèles créateurs pour les pipelines sans visage",
+   "excerpt": "L'automatisation open source devient dogmatique : chaînes script → voix → rendu → publication avec gestion d'erreurs.",
+   "categoryLabel": "Automatisation"
+  },
+  "opusclip-hook-strength-ab": {
+   "title": "OpusClip ajoute des suggestions de force de crochet pour les Shorts découpés",
+   "excerpt": "Chaque clip exporté porte désormais une note de crochet plus deux suggestions de réécriture pour la première ligne.",
+   "categoryLabel": "Réutilisation vidéo"
+  },
+  "elevenlabs-creator-tier-cut": {
+   "title": "ElevenLabs réduit de 20 % les prix du plan créateur dans la guerre des prix TTS",
+   "excerpt": "Les plans Starter et Creator baissent d'un cinquième pendant que les labos vocaux rivaux chassent les narrateurs.",
+   "categoryLabel": "Tarifs"
+  },
+  "capcut-ai-relighting": {
+   "title": "CapCut Pro ajoute le rééclairage IA pour les vidéos de tête parlante",
+   "excerpt": "Un seul curseur reconstruit la lumière clé et le rim sur les images filmées, pensé pour les sauvetages.",
+   "categoryLabel": "Montage vidéo et VFX"
+  },
+  "sora-template-gallery": {
+   "title": "La galerie de modèles Sora s'ouvre aux créateurs ChatGPT Pro",
+   "excerpt": "Une galerie parcourable de modèles de storyboard avec remix en un clic dans vos propres plans.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "runway-descript-integration": {
+   "title": "Runway et Descript s'intègrent : montez les clips générés par transcription",
+   "excerpt": "Les plans générés par Runway tombent désormais dans les projets Descript avec des notes de scène éditables.",
+   "categoryLabel": "Lancements"
+  },
+  "heygen-mobile-lipsync": {
+   "title": "Le doublage en synchro labiale de HeyGen arrive pour les créateurs mobiles",
+   "excerpt": "L'app mobile double désormais vos vidéos parlantes avec synchro labiale dans 12 langues.",
+   "categoryLabel": "Avatars IA"
+  },
+  "kling-camera-presets": {
+   "title": "Kling 2.0 ajoute des préréglages de contrôle de caméra pour les créateurs de format court",
+   "excerpt": "Les préréglages de crash zoom, orbite et travelling arrivent sur tous les plans avec le modèle maître.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "suno-stems-youtubers": {
+   "title": "Suno lance des stems de 30 secondes sans pub pour les youtubers",
+   "excerpt": "Une licence pensée Shorts : stems de 30 s pré-autorisés avec séparation vocal/instrumental.",
+   "categoryLabel": "Musique et audio"
+  },
+  "midjourney-brand-kits": {
+   "title": "Kits de marque Midjourney : une palette dans chaque miniature",
+   "excerpt": "Les verrous de style pour palette, grain et composition arrivent dans la bêta V8.",
+   "categoryLabel": "Miniatures et design"
+  },
+  "veo-inside-shorts": {
+   "title": "Google Veo dans YouTube Shorts : générez du B-roll en montant",
+   "excerpt": "L'éditeur Shorts peut désormais demander des inserts Veo de 6 secondes sans quitter la timeline.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "descript-studio-sound-free": {
+   "title": "Descript Studio Sound arrive dans l'offre gratuite",
+   "excerpt": "Le sauvetage audio en un clic qui a rendu Descript célèbre est maintenant gratuit pour les exports mono.",
+   "categoryLabel": "Voix et audio"
+  },
+  "sora-watermark-api": {
+   "title": "L'API de filigrane Sora permet aux éditeurs de vérifier la provenance",
+   "excerpt": "Une API de lecture pour la provenance C2PA afin que les pipelines vérifient automatiquement les plans générés.",
+   "categoryLabel": "Industrie"
+  },
+  "capcut-opusclip-clipping-war": {
+   "title": "CapCut et OpusClip se disputent la couronne du clipping de podcasts",
+   "excerpt": "Les deux ont lancé un recadrage conscient du locuteur et une évaluation des crochets en une semaine.",
+   "categoryLabel": "Réutilisation vidéo"
+  },
+  "elevenlabs-accent-retention": {
+   "title": "Le doublage ElevenLabs atteint 95 % de rétention d'accent dans les tests créateurs",
+   "excerpt": "Les benchmarks communautaires sur 8 chaînes montrent que le nouveau passe préserve l'identité de la livraison.",
+   "categoryLabel": "Traduction et doublage"
+  },
+  "pika-scene-ingredients": {
+   "title": "Pika 3 ajoute des ingrédients de scène pour un B-roll cohérent",
+   "excerpt": "Envoyez des objets de référence une fois ; chaque plan généré les garde identiques.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "synthesia-veed": {
+   "title": "Les avatars Synthesia arrivent dans l'éditeur VEED",
+   "excerpt": "Collez un script, déposez un avatar, montez comme n'importe quel clip — sans changer d'app.",
+   "categoryLabel": "Avatars IA"
+  },
+  "luma-price-cut-1080p": {
+   "title": "Baisse de prix Luma Dream Machine : le plan 9,99 $ gagne le 1080p",
+   "excerpt": "Le plan Standard rend désormais du 1080p avec la même logique de crédits.",
+   "categoryLabel": "Tarifs"
+  },
+  "n8n-elevenlabs-autodub": {
+   "title": "Le modèle n8n + ElevenLabs double automatiquement les Shorts à la publication",
+   "excerpt": "Un modèle ouvert enchaîne publication → doublage → upload avec point de contrôle humain.",
+   "categoryLabel": "Automatisation"
+  },
+  "midjourney-v8-legibility": {
+   "title": "Le rendu de texte Midjourney V8 passe le test de lisibilité des miniatures",
+   "excerpt": "Les titres de trois mots se rendent propres en taille téléphone dans la plupart des générations.",
+   "categoryLabel": "Miniatures et design"
+  },
+  "heygen-gestures-all-tiers": {
+   "title": "Le contrôle des gestes HeyGen s'ouvre à tous les plans payants",
+   "excerpt": "Les gestes dirigés par phrase quittent la bêta et arrivent sur chaque plan payant.",
+   "categoryLabel": "Avatars IA"
+  },
+  "runway-gen4-reference": {
+   "title": "Cohérence Gen-4 de Runway : une référence, dix plans",
+   "excerpt": "L'identité verrouillée par référence tient sur une séquence de dix plans dans nos vérifications.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "suno-udio-pledge": {
+   "title": "Suno et Udio publient un engagement commun de clarté de monétisation",
+   "excerpt": "Licences d'une page, langage simple et processus partagé pour les litiges.",
+   "categoryLabel": "Musique et audio"
+  },
+  "capcut-multitrack-cleanup": {
+   "title": "CapCut web ajoute un nettoyage multipiste façon Studio Sound",
+   "excerpt": "Le nettoyage par lot entre pistes arrive sur le web, poursuivant la fonction phare de Descript.",
+   "categoryLabel": "Voix et audio"
+  },
+  "veo-native-audio": {
+   "title": "Audio natif Veo 3.1 : du B-roll qui arrive avec le son",
+   "excerpt": "Les plans générés incluent désormais ambiance et foley assortis, éditables comme stem.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "opusclip-virality-v2": {
+   "title": "Le score de viralité v2 d'OpusClip explique pourquoi un clip gagne",
+   "excerpt": "Le score arrive désormais avec trois raisons lisibles par clip.",
+   "categoryLabel": "Réutilisation vidéo"
+  },
+  "kling-motion-brush-free": {
+   "title": "Le pinceau de mouvement Kling arrive dans l'offre gratuite",
+   "excerpt": "La direction de mouvement au niveau région est désormais gratuite, avec exports 720p filigranés.",
+   "categoryLabel": "Génération vidéo"
+  },
+  "elevenlabs-agents-live": {
+   "title": "Agents conversationnels ElevenLabs pour les streams en direct",
+   "excerpt": "Les agents vocaux sous-seconde rejoignent les streams comme modérateurs et co-animateurs.",
+   "categoryLabel": "Live et streaming"
+  },
+  "descript-multicam": {
+   "title": "Descript ajoute le basculement multicaméra IA pour les podcasts vidéo",
+   "excerpt": "La transcription dirige désormais les coupes de caméra selon le locuteur et l'énergie.",
+   "categoryLabel": "Montage vidéo et VFX"
+  },
+  "sora-storyboard-faceless": {
+   "title": "Mode storyboard Sora : plans dirigés pour les chaînes sans visage",
+   "excerpt": "Les séquences à panneaux gardent le langage de cadrage cohérent sur toute la vidéo.",
+   "categoryLabel": "Vidéo sans visage"
+  },
+  "midjourney-canva-pipeline": {
+   "title": "Pipeline Midjourney + Canva : des miniatures sans quitter le kit de marque",
+   "excerpt": "Un connecteur pousse les générations directement dans les modèles de marque Canva.",
+   "categoryLabel": "Miniatures et design"
+  },
+  "capcut-template-marketplace": {
+   "title": "CapCut lance un marché pour les vendeurs de modèles",
+   "excerpt": "Les vendeurs gardent 70 % ; les modèles portent des analytics d'usage pour les acheteurs.",
+   "categoryLabel": "Lancements"
+  },
+  "heygen-v6-beta-gestures": {
+   "title": "Bêta publique HeyGen v6 : gestes dirigés par phrase",
+   "excerpt": "Les testeurs bêta scriptent hochements et battements ; les temps de rendu baissent de 30 %.",
+   "categoryLabel": "Avatars IA"
+  },
+  "veo-pricing-caps": {
+   "title": "L'API Google Veo ajoute des plafonds de prix par seconde pour les studios",
+   "excerpt": "Les plafonds mensuels rendent le B-roll généré budgétable à l'échelle studio.",
+   "categoryLabel": "Tarifs"
+  },
+  "suno-stem-licensing-faq": {
+   "title": "L'export de stems Suno arrive avec une FAQ de licence réécrite",
+   "excerpt": "Les stems arrivent avec un résumé de licence d'une page pour l'usage vidéo.",
+   "categoryLabel": "Musique et audio"
+  },
+  "runway-frameio-sync": {
+   "title": "Runway et Frame.io synchronisent les clips générés dans les flux de revue",
+   "excerpt": "Les plans générés arrivent dans Frame.io avec métadonnées de prompt et de prise.",
+   "categoryLabel": "Lancements"
+  },
+  "pika-vertical-effects": {
+   "title": "La bibliothèque d'effets Pika devient verticale pour les Shorts",
+   "excerpt": "Les packs d'effets viraux rendent désormais du 9:16 nativement avec zones sûres.",
+   "categoryLabel": "Réutilisation vidéo"
+  },
+  "elevenlabs-agents-ga-pricing": {
+   "title": "Agents ElevenLabs GA avec prix à la minute",
+   "excerpt": "Les agents vocaux de production arrivent avec des tarifs à la minute publiés et des outils de consentement.",
+   "categoryLabel": "Voix et audio"
+  },
+  "opusclip-retention-filter": {
+   "title": "Le filtre de rétention OpusClip coupe l'air mort automatiquement",
+   "excerpt": "Un nouveau passe coupe l'air mort et les digressions avant le clipping, économisant des crédits d'export.",
+   "categoryLabel": "Réutilisation vidéo"
+  },
+  "kling-lipsync-dubbing": {
+   "title": "La synchro labiale Kling 2.1 comble l'écart du doublage",
+   "excerpt": "L'audio doublé pilote désormais le mouvement des lèvres sur les images générées et téléversées.",
+   "categoryLabel": "Traduction et doublage"
+  },
+  "midjourney-v8-hands": {
+   "title": "Midjourney V8.1 corrige les mains et garde le texte lisible",
+   "excerpt": "Le mème éternel meurt en silence ; les miniatures chargées en gestes sont désormais sûres.",
+   "categoryLabel": "Miniatures et design"
+  },
+  "descript-live-collab": {
+   "title": "La collaboration de transcription en direct de Descript arrive",
+   "excerpt": "Des sessions multi-éditeurs avec curseurs en direct pour les montages de podcast en équipe.",
+   "categoryLabel": "Lancements"
+  },
+  "veo-google-vids": {
+   "title": "Veo dans Google Vids : du B-roll à portée des présentateurs",
+   "excerpt": "Les utilisateurs Workspace demandent des inserts générés sans quitter leur flux diapositives-vers-vidéo.",
+   "categoryLabel": "Génération vidéo"
+  }
+ },
+ "tag": {
+  "1080p": {
+   "label": "1080p"
+  },
+  "120+ Languages": {
+   "label": "Plus de 120 langues"
+  },
+  "120+ Voices": {
+   "label": "Plus de 120 voix"
+  },
+  "130+ Languages": {
+   "label": "Plus de 130 langues"
+  },
+  "13B Params": {
+   "label": "13B Params"
+  },
+  "140+ Languages": {
+   "label": "Plus de 140 langues"
+  },
+  "200+ Languages": {
+   "label": "Plus de 200 langues"
+  },
+  "250+ Styles": {
+   "label": "Plus de 250 styles"
+  },
+  "2500+ Voices": {
+   "label": "Plus de 2500 voix"
+  },
+  "26 Languages": {
+   "label": "26 langues"
+  },
+  "28 Languages": {
+   "label": "28 langues"
+  },
+  "2D to 3D": {
+   "label": "Du 2D au 3D"
+  },
+  "3-Min Tracks": {
+   "label": "Pistes de 3 min"
+  },
+  "30+ Languages": {
+   "label": "Plus de 30 langues"
+  },
+  "30+ Platforms": {
+   "label": "Plus de 30 plateformes"
+  },
+  "3D Animation": {
+   "label": "Animation 3D"
+  },
+  "3D Design": {
+   "label": "Design 3D"
+  },
+  "3D Export": {
+   "label": "Export 3D"
+  },
+  "40+ Languages": {
+   "label": "Plus de 40 langues"
+  },
+  "40+ Templates": {
+   "label": "Plus de 40 modèles"
+  },
+  "400+ Integrations": {
+   "label": "Plus de 400 intégrations"
+  },
+  "4K": {
+   "label": "4K"
+  },
+  "50+ Languages": {
+   "label": "Plus de 50 langues"
+  },
+  "500+ Voices": {
+   "label": "Plus de 500 voix"
+  },
+  "5000+ Apps": {
+   "label": "Plus de 5000 applis"
+  },
+  "60+ Languages": {
+   "label": "Plus de 60 langues"
+  },
+  "70+ Languages": {
+   "label": "Plus de 70 langues"
+  },
+  "80+ Languages": {
+   "label": "Plus de 80 langues"
+  },
+  "8K": {
+   "label": "8K"
+  },
+  "90+ Languages": {
+   "label": "Plus de 90 langues"
+  },
+  "95+ Languages": {
+   "label": "Plus de 95 langues"
+  },
+  "99% Accuracy": {
+   "label": "Précision de 99 %"
+  },
+  "A/B Testing": {
+   "label": "Tests A/B"
+  },
+  "AI Agents": {
+   "label": "Agents IA"
+  },
+  "AI Assist": {
+   "label": "Assistance IA"
+  },
+  "AI Assistant": {
+   "label": "Assistant IA"
+  },
+  "AI Avatars": {
+   "label": "Avatars IA"
+  },
+  "AI Captions": {
+   "label": "Sous-titres IA"
+  },
+  "AI Clipping": {
+   "label": "Découpe IA"
+  },
+  "AI Clone": {
+   "label": "Clone IA"
+  },
+  "AI Copilot": {
+   "label": "Copilote IA"
+  },
+  "AI Generated": {
+   "label": "Généré par IA"
+  },
+  "AI Highlights": {
+   "label": "Temps forts IA"
+  },
+  "AI Posts": {
+   "label": "Publications IA"
+  },
+  "AI Scenes": {
+   "label": "Scènes IA"
+  },
+  "AI Scripting": {
+   "label": "Scripts IA"
+  },
+  "AI Voice": {
+   "label": "Voix IA"
+  },
+  "AI Voiceover": {
+   "label": "Voix off IA"
+  },
+  "AI Write": {
+   "label": "Rédaction IA"
+  },
+  "API": {
+   "label": "API"
+  },
+  "ASR": {
+   "label": "ASR"
+  },
+  "Accessibility": {
+   "label": "Accessibilité"
+  },
+  "Ad Scripts": {
+   "label": "Scripts publicitaires"
+  },
+  "Adobe": {
+   "label": "Adobe"
+  },
+  "Ads": {
+   "label": "Annonces"
+  },
+  "After Effects": {
+   "label": "After Effects"
+  },
+  "Agents": {
+   "label": "Agents"
+  },
+  "Aggregator": {
+   "label": "Agrégateur"
+  },
+  "Alerts": {
+   "label": "Alertes"
+  },
+  "Alibaba": {
+   "label": "Alibaba"
+  },
+  "All Platforms": {
+   "label": "Toutes les plateformes"
+  },
+  "All-in-One": {
+   "label": "Tout-en-un"
+  },
+  "Ambience": {
+   "label": "Ambiance"
+  },
+  "Analysis": {
+   "label": "Analyse"
+  },
+  "Analytics": {
+   "label": "Analytique"
+  },
+  "Animated Captions": {
+   "label": "Sous-titres animés"
+  },
+  "Animation": {
+   "label": "Animation"
+  },
+  "Anime": {
+   "label": "Anime"
+  },
+  "Apple": {
+   "label": "Apple"
+  },
+  "Art": {
+   "label": "Art"
+  },
+  "Artists": {
+   "label": "Artistes"
+  },
+  "Audio": {
+   "label": "Audio"
+  },
+  "Audio Enhancement": {
+   "label": "Amélioration audio"
+  },
+  "Audio Overviews": {
+   "label": "Résumés audio"
+  },
+  "Audio Post-Production": {
+   "label": "Post-production audio"
+  },
+  "Audio Reactive": {
+   "label": "Réactif à l'audio"
+  },
+  "Audio Sync": {
+   "label": "Synchronisation audio"
+  },
+  "Audiograms": {
+   "label": "Audiogrammes"
+  },
+  "Auto B-Roll": {
+   "label": "B-roll automatique"
+  },
+  "Auto Captions": {
+   "label": "Sous-titres automatiques"
+  },
+  "Auto Compositing": {
+   "label": "Composition automatique"
+  },
+  "Auto Edit": {
+   "label": "Montage automatique"
+  },
+  "Auto Editing": {
+   "label": "Montage automatique"
+  },
+  "Auto Subtitles": {
+   "label": "Sous-titres automatiques"
+  },
+  "Auto Zoom": {
+   "label": "Zoom automatique"
+  },
+  "Auto-Captions": {
+   "label": "Sous-titres automatiques"
+  },
+  "Auto-Publish": {
+   "label": "Publication automatique"
+  },
+  "Auto-Translate": {
+   "label": "Traduction automatique"
+  },
+  "Autodesk": {
+   "label": "Autodesk"
+  },
+  "Automated Video": {
+   "label": "Vidéo automatisée"
+  },
+  "Autonomous": {
+   "label": "Autonome"
+  },
+  "Autoposing": {
+   "label": "Pose automatique"
+  },
+  "B2B": {
+   "label": "B2B"
+  },
+  "Background Music": {
+   "label": "Musique de fond"
+  },
+  "Background Removal": {
+   "label": "Suppression d'arrière-plan"
+  },
+  "Bad Takes": {
+   "label": "Mauvaises prises"
+  },
+  "Batch": {
+   "label": "Lot"
+  },
+  "Beginner Friendly": {
+   "label": "Pour débutants"
+  },
+  "Benchmarks": {
+   "label": "Benchmarks"
+  },
+  "Best Time": {
+   "label": "Meilleur moment"
+  },
+  "Blender": {
+   "label": "Blender"
+  },
+  "Blog Posts": {
+   "label": "Articles de blog"
+  },
+  "Blog to Video": {
+   "label": "Blog vers vidéo"
+  },
+  "Body Language": {
+   "label": "Langage corporel"
+  },
+  "Brainstorming": {
+   "label": "Brainstorming"
+  },
+  "Brand Styles": {
+   "label": "Styles de marque"
+  },
+  "Brand Templates": {
+   "label": "Modèles de marque"
+  },
+  "Brand Voice": {
+   "label": "Voix de marque"
+  },
+  "Branded Content": {
+   "label": "Contenu de marque"
+  },
+  "Brands": {
+   "label": "Marques"
+  },
+  "Broadcast": {
+   "label": "Diffusion"
+  },
+  "Browser": {
+   "label": "Navigateur"
+  },
+  "Browser Editor": {
+   "label": "Éditeur navigateur"
+  },
+  "Budget": {
+   "label": "Budget"
+  },
+  "Bulk": {
+   "label": "Masse"
+  },
+  "Bulk Processing": {
+   "label": "Traitement en masse"
+  },
+  "Bulk Scheduling": {
+   "label": "Programmation en masse"
+  },
+  "Bullet Time": {
+   "label": "Bullet time"
+  },
+  "ByteDance": {
+   "label": "ByteDance"
+  },
+  "CG Characters": {
+   "label": "Personnages CG"
+  },
+  "CTR": {
+   "label": "CTR"
+  },
+  "Calls": {
+   "label": "Appels"
+  },
+  "Camera Control": {
+   "label": "Contrôle de caméra"
+  },
+  "Camera Direction": {
+   "label": "Direction de caméra"
+  },
+  "Camera Moves": {
+   "label": "Mouvements de caméra"
+  },
+  "Canvas": {
+   "label": "Canvas"
+  },
+  "Captions": {
+   "label": "Sous-titres"
+  },
+  "Carousels": {
+   "label": "Carrousels"
+  },
+  "Categories": {
+   "label": "Catégories"
+  },
+  "Celebrity Voices": {
+   "label": "Voix de célébrités"
+  },
+  "Chapters": {
+   "label": "Chapitres"
+  },
+  "Character Animation": {
+   "label": "Animation de personnages"
+  },
+  "Character Consistency": {
+   "label": "Cohérence des personnages"
+  },
+  "Character Motion": {
+   "label": "Mouvement des personnages"
+  },
+  "Characters": {
+   "label": "Personnages"
+  },
+  "ChatGPT": {
+   "label": "ChatGPT"
+  },
+  "ChatGPT Extension": {
+   "label": "ChatGPT Extension"
+  },
+  "Chatbot": {
+   "label": "Chatbot"
+  },
+  "Chord Detection": {
+   "label": "Détection d'accords"
+  },
+  "Cinematic": {
+   "label": "Cinématographique"
+  },
+  "Citations": {
+   "label": "Citations"
+  },
+  "Clarity": {
+   "label": "Clarté"
+  },
+  "Clip Farming": {
+   "label": "Clip farming"
+  },
+  "Clips": {
+   "label": "Clips"
+  },
+  "Code": {
+   "label": "Code"
+  },
+  "Collaboration": {
+   "label": "Collaboration"
+  },
+  "Color Grading": {
+   "label": "Étalonnage"
+  },
+  "Colorize": {
+   "label": "Coloriser"
+  },
+  "Commercial License": {
+   "label": "Licence commerciale"
+  },
+  "Commercially Safe": {
+   "label": "Commercialement sûr"
+  },
+  "Community": {
+   "label": "Communauté"
+  },
+  "Competitor Intel": {
+   "label": "Veille concurrentielle"
+  },
+  "Competitors": {
+   "label": "Concurrents"
+  },
+  "Complex Logic": {
+   "label": "Logique complexe"
+  },
+  "Compliance": {
+   "label": "Conformité"
+  },
+  "Consistent Characters": {
+   "label": "Personnages cohérents"
+  },
+  "Consumer GPU": {
+   "label": "GPU grand public"
+  },
+  "Content Calendar": {
+   "label": "Calendrier de contenu"
+  },
+  "Content Repurposing": {
+   "label": "Réutilisation de contenu"
+  },
+  "Content Score": {
+   "label": "Score de contenu"
+  },
+  "Content Strategy": {
+   "label": "Stratégie de contenu"
+  },
+  "Conversational AI": {
+   "label": "IA conversationnelle"
+  },
+  "Copywriting": {
+   "label": "Rédaction publicitaire"
+  },
+  "Corporate": {
+   "label": "Corporate"
+  },
+  "Courses": {
+   "label": "Cours"
+  },
+  "Creative Cloud": {
+   "label": "Creative Cloud"
+  },
+  "Creative Writing": {
+   "label": "Écriture créative"
+  },
+  "Cross-Platform": {
+   "label": "Multiplateforme"
+  },
+  "Custom Clone": {
+   "label": "Clone personnalisé"
+  },
+  "Customizable": {
+   "label": "Personnalisable"
+  },
+  "Customization": {
+   "label": "Personnalisation"
+  },
+  "DJs": {
+   "label": "DJs"
+  },
+  "Daily Ideas": {
+   "label": "Idées quotidiennes"
+  },
+  "Dead Air": {
+   "label": "Silence mort"
+  },
+  "Deep Research": {
+   "label": "Recherche approfondie"
+  },
+  "Denoise": {
+   "label": "Débruitage"
+  },
+  "Depth Maps": {
+   "label": "Cartes de profondeur"
+  },
+  "Design": {
+   "label": "Design"
+  },
+  "Desktop & Mobile": {
+   "label": "Bureau et mobile"
+  },
+  "Desktop Editor": {
+   "label": "Éditeur de bureau"
+  },
+  "Detail Enhancement": {
+   "label": "Amélioration des détails"
+  },
+  "Developers": {
+   "label": "Développeurs"
+  },
+  "Dialog Editor": {
+   "label": "Éditeur de dialogue"
+  },
+  "Digital Presenter": {
+   "label": "Présentateur numérique"
+  },
+  "Discord": {
+   "label": "Discord"
+  },
+  "Distribution": {
+   "label": "Distribution"
+  },
+  "Drag & Drop": {
+   "label": "Glisser-déposer"
+  },
+  "Dubbing": {
+   "label": "Doublage"
+  },
+  "E-commerce": {
+   "label": "E-commerce"
+  },
+  "Effects": {
+   "label": "Effets"
+  },
+  "Email": {
+   "label": "E-mail"
+  },
+  "Emojis": {
+   "label": "Émojis"
+  },
+  "Emotion": {
+   "label": "Émotion"
+  },
+  "Emotion Control": {
+   "label": "Contrôle des émotions"
+  },
+  "Emotional Voices": {
+   "label": "Voix émotionnelles"
+  },
+  "Enhancement": {
+   "label": "Amélioration"
+  },
+  "Enterprise": {
+   "label": "Entreprise"
+  },
+  "European Languages": {
+   "label": "Langues européennes"
+  },
+  "Evergreen": {
+   "label": "Évergreen"
+  },
+  "Everywhere": {
+   "label": "Partout"
+  },
+  "Examples": {
+   "label": "Exemples"
+  },
+  "Explainer Videos": {
+   "label": "Vidéos explicatives"
+  },
+  "Explainers": {
+   "label": "Explicatifs"
+  },
+  "Export XML": {
+   "label": "Export XML"
+  },
+  "Expressive": {
+   "label": "Expressif"
+  },
+  "Extension": {
+   "label": "Extension"
+  },
+  "Eye Contact": {
+   "label": "Contact visuel"
+  },
+  "Face Clone": {
+   "label": "Clone facial"
+  },
+  "Face Swap": {
+   "label": "Échange de visage"
+  },
+  "Facecam": {
+   "label": "Facecam"
+  },
+  "Faceless": {
+   "label": "Sans visage"
+  },
+  "Faceless Shorts": {
+   "label": "Shorts sans visage"
+  },
+  "Faceless Video": {
+   "label": "Vidéo sans visage"
+  },
+  "Fact-Check": {
+   "label": "Vérification des faits"
+  },
+  "Fast": {
+   "label": "Rapide"
+  },
+  "Fiction": {
+   "label": "Fiction"
+  },
+  "Filler Removal": {
+   "label": "Suppression des mots de remplissage"
+  },
+  "Filmmakers": {
+   "label": "Cinéastes"
+  },
+  "Filmmaking": {
+   "label": "Cinéma"
+  },
+  "Fine-Tuned Models": {
+   "label": "Modèles affinés"
+  },
+  "Foley": {
+   "label": "Foley"
+  },
+  "Frame Interpolation": {
+   "label": "Interpolation d'images"
+  },
+  "Free": {
+   "label": "Gratuit"
+  },
+  "Free Editor": {
+   "label": "Éditeur gratuit"
+  },
+  "Free Tier": {
+   "label": "Offre gratuite"
+  },
+  "Free Tool": {
+   "label": "Outil gratuit"
+  },
+  "GDPR": {
+   "label": "GDPR"
+  },
+  "GIFs": {
+   "label": "GIFs"
+  },
+  "GPT": {
+   "label": "GPT"
+  },
+  "Game Art": {
+   "label": "Art du jeu"
+  },
+  "Game Assets": {
+   "label": "Actifs de jeu"
+  },
+  "Gameplay BG": {
+   "label": "Fond de gameplay"
+  },
+  "Gaming": {
+   "label": "Gaming"
+  },
+  "Gen-3 Alpha": {
+   "label": "Gen-3 Alpha"
+  },
+  "Generative": {
+   "label": "Génératif"
+  },
+  "Generative Fill": {
+   "label": "Remplissage génératif"
+  },
+  "Google": {
+   "label": "Google"
+  },
+  "Grammar": {
+   "label": "Grammaire"
+  },
+  "Grounded": {
+   "label": "Fondé sur des sources"
+  },
+  "Guests": {
+   "label": "Invités"
+  },
+  "HD": {
+   "label": "HD"
+  },
+  "HDR": {
+   "label": "HDR"
+  },
+  "Headlines": {
+   "label": "Titres"
+  },
+  "Headshots": {
+   "label": "Portraits"
+  },
+  "Hi-Fi": {
+   "label": "Hi-Fi"
+  },
+  "Highlights": {
+   "label": "Temps forts"
+  },
+  "Hollywood": {
+   "label": "Hollywood"
+  },
+  "Hooks": {
+   "label": "Crochets"
+  },
+  "Human Option": {
+   "label": "Option humaine"
+  },
+  "Human QA": {
+   "label": "Relecture humaine"
+  },
+  "Humanize": {
+   "label": "Humaniser"
+  },
+  "Ideation": {
+   "label": "Idéation"
+  },
+  "Image + Audio": {
+   "label": "Image + audio"
+  },
+  "Image Gen": {
+   "label": "Génération d'images"
+  },
+  "Image Generation": {
+   "label": "Génération d'images"
+  },
+  "Image to 3D": {
+   "label": "Image vers 3D"
+  },
+  "Image to Video": {
+   "label": "Image vers vidéo"
+  },
+  "Immersive": {
+   "label": "Immersif"
+  },
+  "Industry Standard": {
+   "label": "Standard de l'industrie"
+  },
+  "Inpainting": {
+   "label": "Inpainting"
+  },
+  "Instrumental": {
+   "label": "Instrumental"
+  },
+  "Integrations": {
+   "label": "Intégrations"
+  },
+  "Interactive": {
+   "label": "Interactif"
+  },
+  "Interviews": {
+   "label": "Interviews"
+  },
+  "Jump Cuts": {
+   "label": "Jump cuts"
+  },
+  "Keyframes": {
+   "label": "Keyframes"
+  },
+  "Keywords": {
+   "label": "Mots-clés"
+  },
+  "Kick": {
+   "label": "Kick"
+  },
+  "Legal": {
+   "label": "Juridique"
+  },
+  "Leveler": {
+   "label": "Niveleur"
+  },
+  "Licensed Data": {
+   "label": "Données licenciées"
+  },
+  "LinkedIn": {
+   "label": "LinkedIn"
+  },
+  "Lip Sync": {
+   "label": "Synchro labiale"
+  },
+  "Live Avatars": {
+   "label": "Avatars en direct"
+  },
+  "Live Camera": {
+   "label": "Caméra en direct"
+  },
+  "Live Sports": {
+   "label": "Sport en direct"
+  },
+  "Live Web": {
+   "label": "Web en direct"
+  },
+  "Local": {
+   "label": "Local"
+  },
+  "Local AI": {
+   "label": "IA locale"
+  },
+  "Localization": {
+   "label": "Localisation"
+  },
+  "Logos": {
+   "label": "Logos"
+  },
+  "Long Clips": {
+   "label": "Clips longs"
+  },
+  "Long Context": {
+   "label": "Contexte long"
+  },
+  "Loudness": {
+   "label": "Sonorité"
+  },
+  "Low Latency": {
+   "label": "Faible latence"
+  },
+  "Lyrics": {
+   "label": "Paroles"
+  },
+  "MIDI Export": {
+   "label": "MIDI Export"
+  },
+  "Mac": {
+   "label": "Mac"
+  },
+  "Magic Clips": {
+   "label": "Clips magiques"
+  },
+  "Magnetic Timeline": {
+   "label": "Timeline magnétique"
+  },
+  "Markerless": {
+   "label": "Sans marqueurs"
+  },
+  "Marketing": {
+   "label": "Marketing"
+  },
+  "Meetings": {
+   "label": "Réunions"
+  },
+  "Memes": {
+   "label": "Memes"
+  },
+  "Mesh Generation": {
+   "label": "Génération de maillages"
+  },
+  "Metadata": {
+   "label": "Métadonnées"
+  },
+  "Micro Video": {
+   "label": "Micro-vidéo"
+  },
+  "Microsoft": {
+   "label": "Microsoft"
+  },
+  "Midjourney": {
+   "label": "Midjourney"
+  },
+  "MiniMax": {
+   "label": "MiniMax"
+  },
+  "Mobile": {
+   "label": "Mobile"
+  },
+  "Mocap Suits": {
+   "label": "Combinaisons mocap"
+  },
+  "Mochi": {
+   "label": "Mochi"
+  },
+  "Mockups": {
+   "label": "Maquettes"
+  },
+  "Montages": {
+   "label": "Montages"
+  },
+  "Mood Arc": {
+   "label": "Arc émotionnel"
+  },
+  "Mood Based": {
+   "label": "Basé sur l'humeur"
+  },
+  "Motion Capture": {
+   "label": "Capture de mouvement"
+  },
+  "Motion Mix": {
+   "label": "Mix de mouvement"
+  },
+  "Motion Quality": {
+   "label": "Qualité de mouvement"
+  },
+  "Motion Tracking": {
+   "label": "Suivi de mouvement"
+  },
+  "Mouth Sounds": {
+   "label": "Bruits de bouche"
+  },
+  "MrBeast": {
+   "label": "MrBeast"
+  },
+  "Multi-Cam": {
+   "label": "Multicaméra"
+  },
+  "Multi-Model": {
+   "label": "Multimodèle"
+  },
+  "Multi-Shot": {
+   "label": "Multi-plan"
+  },
+  "Multi-Speaker": {
+   "label": "Multi-locuteurs"
+  },
+  "Multilingual": {
+   "label": "Multilingue"
+  },
+  "Multimodal": {
+   "label": "Multimodal"
+  },
+  "Multistream": {
+   "label": "Multidiffusion"
+  },
+  "Music Ducking": {
+   "label": "Ducking musical"
+  },
+  "Music Generation": {
+   "label": "Génération musicale"
+  },
+  "Music Videos": {
+   "label": "Clips musicaux"
+  },
+  "Music Vocals": {
+   "label": "Voix musicales"
+  },
+  "Narrative": {
+   "label": "Narratif"
+  },
+  "Native Audio": {
+   "label": "Audio natif"
+  },
+  "Newsrooms": {
+   "label": "Salles de rédaction"
+  },
+  "Niche Research": {
+   "label": "Recherche de niche"
+  },
+  "No Green Screen": {
+   "label": "Sans fond vert"
+  },
+  "No Suit": {
+   "label": "Sans combinaison"
+  },
+  "No-Code": {
+   "label": "Sans code"
+  },
+  "Noise Cancellation": {
+   "label": "Suppression du bruit"
+  },
+  "Noise Removal": {
+   "label": "Réduction du bruit"
+  },
+  "Non-Designer": {
+   "label": "Non-designer"
+  },
+  "Nova-3": {
+   "label": "Nova-3"
+  },
+  "OBS": {
+   "label": "OBS"
+  },
+  "Object Detection": {
+   "label": "Détection d'objets"
+  },
+  "Offline": {
+   "label": "Hors ligne"
+  },
+  "One Click": {
+   "label": "Un clic"
+  },
+  "One-Time": {
+   "label": "Achat unique"
+  },
+  "Online Editor": {
+   "label": "Éditeur en ligne"
+  },
+  "Open Model": {
+   "label": "Modèle ouvert"
+  },
+  "Open Source": {
+   "label": "Open source"
+  },
+  "OpenAI": {
+   "label": "OpenAI"
+  },
+  "Optimization": {
+   "label": "Optimisation"
+  },
+  "Orchestral": {
+   "label": "Orchestral"
+  },
+  "Organize": {
+   "label": "Organiser"
+  },
+  "Outliers": {
+   "label": "Outliers"
+  },
+  "Outlines": {
+   "label": "Plans"
+  },
+  "Outreach": {
+   "label": "Portée"
+  },
+  "Overdub": {
+   "label": "Overdub"
+  },
+  "Overlays": {
+   "label": "Superpositions"
+  },
+  "PPT to Video": {
+   "label": "PPT to Video"
+  },
+  "Packaging": {
+   "label": "Packaging"
+  },
+  "Parallax": {
+   "label": "Parallax"
+  },
+  "Paraphrasing": {
+   "label": "Paraphrase"
+  },
+  "Personalization": {
+   "label": "Personnalisation"
+  },
+  "Personas": {
+   "label": "Personas"
+  },
+  "Phone Video": {
+   "label": "Phone Video"
+  },
+  "Photo Editing": {
+   "label": "Photo Editing"
+  },
+  "Photorealism": {
+   "label": "Photorealism"
+  },
+  "Photoshop": {
+   "label": "Photoshop"
+  },
+  "Physics": {
+   "label": "Physics"
+  },
+  "Pipelines": {
+   "label": "Pipelines"
+  },
+  "Pitch Control": {
+   "label": "Pitch Control"
+  },
+  "Pitch Decks": {
+   "label": "Pitch Decks"
+  },
+  "Pitch Shift": {
+   "label": "Pitch Shift"
+  },
+  "Plot": {
+   "label": "Plot"
+  },
+  "Podcast": {
+   "label": "Podcast"
+  },
+  "Podcast Clipping": {
+   "label": "Découpe de podcasts"
+  },
+  "Podcast Editing": {
+   "label": "Montage de podcasts"
+  },
+  "Podcasting": {
+   "label": "Podcasting"
+  },
+  "Podcasts": {
+   "label": "Podcasts"
+  },
+  "Posters": {
+   "label": "Posters"
+  },
+  "Practice": {
+   "label": "Practice"
+  },
+  "Premiere Pro": {
+   "label": "Premiere Pro"
+  },
+  "Presets": {
+   "label": "Presets"
+  },
+  "Privacy": {
+   "label": "Confidentialité"
+  },
+  "Pro": {
+   "label": "Pro"
+  },
+  "Pro Camera": {
+   "label": "Pro Camera"
+  },
+  "ProRes": {
+   "label": "ProRes"
+  },
+  "Product Photos": {
+   "label": "Product Photos"
+  },
+  "Professional": {
+   "label": "Professional"
+  },
+  "Prompt Adherence": {
+   "label": "Prompt Adherence"
+  },
+  "Prompt Library": {
+   "label": "Bibliothèque de prompts"
+  },
+  "Prompt Marketplace": {
+   "label": "Prompt Marketplace"
+  },
+  "Prompts": {
+   "label": "Prompts"
+  },
+  "Pronunciation": {
+   "label": "Prononciation"
+  },
+  "Public Stats": {
+   "label": "Statistiques publiques"
+  },
+  "Publishing": {
+   "label": "Publication"
+  },
+  "Punch-In": {
+   "label": "Punch-in"
+  },
+  "QA": {
+   "label": "QA"
+  },
+  "QA Review": {
+   "label": "Contrôle qualité"
+  },
+  "Questions": {
+   "label": "Questions"
+  },
+  "Quick Design": {
+   "label": "Design rapide"
+  },
+  "Rank Tracker": {
+   "label": "Suivi de classement"
+  },
+  "Real-time": {
+   "label": "Temps réel"
+  },
+  "Real-time Trends": {
+   "label": "Tendances en temps réel"
+  },
+  "Realism": {
+   "label": "Réalisme"
+  },
+  "Realistic Avatars": {
+   "label": "Avatars réalistes"
+  },
+  "Realistic Motion": {
+   "label": "Mouvement réaliste"
+  },
+  "Reasoning": {
+   "label": "Raisonnement"
+  },
+  "Recommendations": {
+   "label": "Recommandations"
+  },
+  "Recording": {
+   "label": "Enregistrement"
+  },
+  "Recycling": {
+   "label": "Recyclage"
+  },
+  "Redub": {
+   "label": "Redoubler"
+  },
+  "Reels": {
+   "label": "Reels"
+  },
+  "Reference to Video": {
+   "label": "Référence vers vidéo"
+  },
+  "Reimagine": {
+   "label": "Réimaginer"
+  },
+  "Remixing": {
+   "label": "Remix"
+  },
+  "Remote Recording": {
+   "label": "Enregistrement à distance"
+  },
+  "Repurposing": {
+   "label": "Réutilisation"
+  },
+  "Research": {
+   "label": "Recherche"
+  },
+  "Resize": {
+   "label": "Redimensionner"
+  },
+  "Retention": {
+   "label": "Rétention"
+  },
+  "Rewrite": {
+   "label": "Réécrire"
+  },
+  "Rewriting": {
+   "label": "Réécriture"
+  },
+  "Rigging": {
+   "label": "Rigging"
+  },
+  "Rough Cut": {
+   "label": "Coupe brute"
+  },
+  "Royalty-Free": {
+   "label": "Libre de droits"
+  },
+  "SEO": {
+   "label": "SEO"
+  },
+  "SEO Briefs": {
+   "label": "Briefs SEO"
+  },
+  "SEO Content": {
+   "label": "Contenu SEO"
+  },
+  "SEO Research": {
+   "label": "Recherche SEO"
+  },
+  "SERP": {
+   "label": "SERP"
+  },
+  "SRT": {
+   "label": "SRT"
+  },
+  "Sales": {
+   "label": "Ventes"
+  },
+  "Sales Videos": {
+   "label": "Vidéos de vente"
+  },
+  "Scale": {
+   "label": "Échelle"
+  },
+  "Scenarios": {
+   "label": "Scénarios"
+  },
+  "Scenes": {
+   "label": "Scènes"
+  },
+  "Scheduling": {
+   "label": "Programmation"
+  },
+  "Scoring": {
+   "label": "Scoring"
+  },
+  "Scraping": {
+   "label": "Scraping"
+  },
+  "Screen Recording": {
+   "label": "Enregistrement d'écran"
+  },
+  "Script Writing": {
+   "label": "Écriture de scripts"
+  },
+  "Self-Hosted": {
+   "label": "Auto-hébergé"
+  },
+  "Sentiment": {
+   "label": "Sentiment"
+  },
+  "Shorten": {
+   "label": "Raccourcir"
+  },
+  "Shorts": {
+   "label": "Shorts"
+  },
+  "Show Notes": {
+   "label": "Notes d'émission"
+  },
+  "Silence Removal": {
+   "label": "Suppression des silences"
+  },
+  "Simple": {
+   "label": "Simple"
+  },
+  "Singing": {
+   "label": "Chant"
+  },
+  "Sky Replacement": {
+   "label": "Remplacement de ciel"
+  },
+  "Smart Cut": {
+   "label": "Coupe intelligente"
+  },
+  "Social": {
+   "label": "Social"
+  },
+  "Social Content": {
+   "label": "Contenu social"
+  },
+  "Social Copy": {
+   "label": "Texte social"
+  },
+  "Social Posts": {
+   "label": "Publications sociales"
+  },
+  "Song Generation": {
+   "label": "Génération de chansons"
+  },
+  "Sound Effects": {
+   "label": "Effets sonores"
+  },
+  "Soundboard": {
+   "label": "Soundboard"
+  },
+  "Soundtracks": {
+   "label": "Bandes originales"
+  },
+  "Sources": {
+   "label": "Sources"
+  },
+  "Speaker ID": {
+   "label": "Identification du locuteur"
+  },
+  "Speed": {
+   "label": "Vitesse"
+  },
+  "Stable Diffusion": {
+   "label": "Stable Diffusion"
+  },
+  "Stem Splitting": {
+   "label": "Séparation de stems"
+  },
+  "Stems": {
+   "label": "Stems"
+  },
+  "Stock Avatars": {
+   "label": "Avatars de stock"
+  },
+  "Stock Library": {
+   "label": "Bibliothèque de stock"
+  },
+  "Stock Photos": {
+   "label": "Photos de stock"
+  },
+  "Story": {
+   "label": "Histoire"
+  },
+  "Story Shorts": {
+   "label": "Shorts narratifs"
+  },
+  "Storyboard": {
+   "label": "Storyboard"
+  },
+  "Storytelling": {
+   "label": "Narration"
+  },
+  "Strategy": {
+   "label": "Stratégie"
+  },
+  "Stream Clips": {
+   "label": "Clips de stream"
+  },
+  "Streaming": {
+   "label": "Streaming"
+  },
+  "Streams": {
+   "label": "Streams"
+  },
+  "Studio": {
+   "label": "Studio"
+  },
+  "Studio Sound": {
+   "label": "Son de studio"
+  },
+  "Studio Speech": {
+   "label": "Parole de studio"
+  },
+  "Style Consistency": {
+   "label": "Cohérence de style"
+  },
+  "Style Transfer": {
+   "label": "Transfert de style"
+  },
+  "Styles": {
+   "label": "Styles"
+  },
+  "Stylized Video": {
+   "label": "Vidéo stylisée"
+  },
+  "Subtitle Editor": {
+   "label": "Éditeur de sous-titres"
+  },
+  "Subtitles": {
+   "label": "Sous-titres"
+  },
+  "Summaries": {
+   "label": "Résumés"
+  },
+  "Summarize": {
+   "label": "Résumer"
+  },
+  "Summarizer": {
+   "label": "Résumeur"
+  },
+  "Support": {
+   "label": "Support"
+  },
+  "Sync": {
+   "label": "Synchronisation"
+  },
+  "TTS Arena": {
+   "label": "TTS Arena"
+  },
+  "Tags": {
+   "label": "Tags"
+  },
+  "Talking Avatar": {
+   "label": "Avatar parlant"
+  },
+  "Talking Characters": {
+   "label": "Personnages parlants"
+  },
+  "Talking Photos": {
+   "label": "Photos parlantes"
+  },
+  "Teams": {
+   "label": "Équipes"
+  },
+  "Templates": {
+   "label": "Modèles"
+  },
+  "Text Editing": {
+   "label": "Édition de texte"
+  },
+  "Text Rendering": {
+   "label": "Rendu de texte"
+  },
+  "Text to 3D": {
+   "label": "Texte vers 3D"
+  },
+  "Text to Audio": {
+   "label": "Texte vers audio"
+  },
+  "Text to Music": {
+   "label": "Texte vers musique"
+  },
+  "Text to SFX": {
+   "label": "Texte vers effets"
+  },
+  "Text to Speech": {
+   "label": "Texte vers parole"
+  },
+  "Text to Video": {
+   "label": "Texte vers vidéo"
+  },
+  "Text-Based Editing": {
+   "label": "Montage basé sur le texte"
+  },
+  "Textures": {
+   "label": "Textures"
+  },
+  "Thumbnail Search": {
+   "label": "Recherche de miniatures"
+  },
+  "Thumbnails": {
+   "label": "Miniatures"
+  },
+  "TikTok": {
+   "label": "TikTok"
+  },
+  "TikTok Editor": {
+   "label": "Éditeur TikTok"
+  },
+  "TikTok Effects": {
+   "label": "Effets TikTok"
+  },
+  "Timeline": {
+   "label": "Timeline"
+  },
+  "Tips": {
+   "label": "Conseils"
+  },
+  "Titles": {
+   "label": "Titres"
+  },
+  "Tone": {
+   "label": "Ton"
+  },
+  "Tone Control": {
+   "label": "Contrôle du ton"
+  },
+  "Topic Research": {
+   "label": "Recherche de sujets"
+  },
+  "Training": {
+   "label": "Formation"
+  },
+  "Training Videos": {
+   "label": "Vidéos de formation"
+  },
+  "Transcription": {
+   "label": "Transcription"
+  },
+  "Translation": {
+   "label": "Traduction"
+  },
+  "Trend Analysis": {
+   "label": "Analyse de tendances"
+  },
+  "Trend Discovery": {
+   "label": "Découverte de tendances"
+  },
+  "Twitch": {
+   "label": "Twitch"
+  },
+  "Universal-2": {
+   "label": "Universal-2"
+  },
+  "Upscale": {
+   "label": "Upscale"
+  },
+  "Upscaling": {
+   "label": "Upscaling"
+  },
+  "V7": {
+   "label": "V7"
+  },
+  "VFX": {
+   "label": "VFX"
+  },
+  "Vector Art": {
+   "label": "Art vectoriel"
+  },
+  "Vectors": {
+   "label": "Vecteurs"
+  },
+  "Verified": {
+   "label": "Vérifié"
+  },
+  "Vertical Crop": {
+   "label": "Recadrage vertical"
+  },
+  "Video Dubbing": {
+   "label": "Doublage vidéo"
+  },
+  "Video Hooks": {
+   "label": "Crochets vidéo"
+  },
+  "Video Match": {
+   "label": "Correspondance vidéo"
+  },
+  "Video Scripts": {
+   "label": "Scripts vidéo"
+  },
+  "Video to 3D": {
+   "label": "Vidéo vers 3D"
+  },
+  "Video to Animation": {
+   "label": "Vidéo vers animation"
+  },
+  "Video to Anime": {
+   "label": "Vidéo vers anime"
+  },
+  "Video to Video": {
+   "label": "Vidéo vers vidéo"
+  },
+  "Viral Data": {
+   "label": "Données virales"
+  },
+  "Viral Shorts": {
+   "label": "Shorts viraux"
+  },
+  "Virality Score": {
+   "label": "Score de viralité"
+  },
+  "Visual Builder": {
+   "label": "Constructeur visuel"
+  },
+  "Vocal Removal": {
+   "label": "Suppression vocale"
+  },
+  "Vocals": {
+   "label": "Voix"
+  },
+  "Voice Changer": {
+   "label": "Changeur de voix"
+  },
+  "Voice Clone": {
+   "label": "Clone vocal"
+  },
+  "Voice Cloning": {
+   "label": "Clonage vocal"
+  },
+  "Voice Models": {
+   "label": "Modèles vocaux"
+  },
+  "Waveforms": {
+   "label": "Formes d'onde"
+  },
+  "Web Embed": {
+   "label": "Intégration web"
+  },
+  "Web-based": {
+   "label": "Basé sur le web"
+  },
+  "Webinar Clipper": {
+   "label": "Découpeur de webinaires"
+  },
+  "Webinars": {
+   "label": "Webinaires"
+  },
+  "Workflows": {
+   "label": "Workflows"
+  },
+  "Workspace": {
+   "label": "Espace de travail"
+  },
+  "X Data": {
+   "label": "Données X"
+  },
+  "YouTube": {
+   "label": "YouTube"
+  },
+  "YouTube Art": {
+   "label": "Art YouTube"
+  },
+  "YouTube Automation": {
+   "label": "Automatisation YouTube"
+  },
+  "YouTube SEO": {
+   "label": "SEO YouTube"
+  },
+  "YouTube Scripts": {
+   "label": "Scripts YouTube"
+  },
+  "YouTube Thumbnails": {
+   "label": "Miniatures YouTube"
+  },
+  "YouTube to TikTok": {
+   "label": "De YouTube à TikTok"
+  }
+ },
+ "tool": {
+  "opusclip": {
+   "tagline": "Transformez des vidéos longues en Shorts viraux",
+   "description": "OpusClip analyse les vidéos longues avec un score de viralité IA pour extraire les clips verticaux à plus forte rétention. Sous-titres automatiques, emojis et recadrage intelligent inclus."
+  },
+  "munch": {
+   "tagline": "Réutilisation de vidéo par IA pour les réseaux sociaux",
+   "description": "Extrait les moments les plus engageants du contenu long grâce à l'analyse de tendances IA et au score de viralité des mots-clés."
+  },
+  "vidyo-ai": {
+   "tagline": "Créez des clips courts à partir de vidéos longues",
+   "description": "Réutilise podcasts et webinaires en clips verticaux prêts pour les réseaux sociaux avec modèles de marque personnalisés, emojis et cadrage automatique."
+  },
+  "klap": {
+   "tagline": "Transformez des vidéos YouTube en TikToks",
+   "description": "Outil de découpe rapide par IA qui identifie les sujets intéressants de vos vidéos longues, génère des clips verticaux et superpose des sous-titres personnalisés."
+  },
+  "submagic": {
+   "tagline": "Sous-titres automatiques et B-roll pour les Shorts",
+   "description": "Synchronise des sous-titres animés avec votre voix, insère des graphiques B-roll contextuels, applique des zooms fluides et ajoute des effets sonores subtils."
+  },
+  "autoshorts": {
+   "tagline": "Automatisation de vidéo sans visage",
+   "description": "Générateur automatique de Shorts qui combine scripts GPT, voix IA et B-roll d'arrière-plan pour créer des Shorts sans visage en quelques secondes."
+  },
+  "pictory": {
+   "tagline": "Texte vers vidéo avec voix IA",
+   "description": "Transformez scripts et articles en vidéos professionnelles avec narration IA, images d'archives et sous-titrage automatique."
+  },
+  "invideo": {
+   "tagline": "Plateforme de création vidéo IA",
+   "description": "Générateur vidéo tout-en-un qui crée des scripts, sélectionne des images d'archives, ajoute des sous-titres et applique des voix off réalistes depuis un simple prompt."
+  },
+  "clipchamp": {
+   "tagline": "L'éditeur vidéo de Microsoft avec IA",
+   "description": "Éditeur vidéo gratuit avec sous-titres automatiques, texte vers parole, fond vert et coach d'élocution. Créé par Microsoft."
+  },
+  "capcut": {
+   "tagline": "Éditeur vidéo tout-en-un",
+   "description": "Éditeur gratuit de bureau et mobile de classe mondiale avec sous-titres IA automatiques, isolation vocale, suppression d'arrière-plan et modèles tendance TikTok."
+  },
+  "runway": {
+   "tagline": "Génération et montage vidéo par IA",
+   "description": "Créez des clips cinématographiques à partir de texte ou d'images de référence, supprimez des objets en mouvement et appliquez un suivi de mouvement de qualité Hollywood."
+  },
+  "descript": {
+   "tagline": "Montez la vidéo en éditant le texte",
+   "description": "Éditeur vidéo et podcast tout-en-un avec réenregistrement IA, amélioration du son studio, suppression des mots de remplissage et transcription automatique."
+  },
+  "filmora": {
+   "tagline": "Éditeur vidéo facile avec IA",
+   "description": "Éditeur vidéo accessible aux débutants avec copilote IA, découpe intelligente, suivi de mouvement et des milliers d'effets et modèles."
+  },
+  "veed": {
+   "tagline": "Éditeur vidéo en ligne avec IA",
+   "description": "Plateforme professionnelle de montage vidéo dans le navigateur avec traduction de sous-titres en un clic, suppression des mots de remplissage et redimensionnement instantané."
+  },
+  "adobe-premiere-pro": {
+   "tagline": "Montage vidéo professionnel",
+   "description": "Éditeur vidéo professionnel standard de l'industrie avec correspondance des couleurs IA, détection des changements de scène, parole vers texte et intégration fluide avec After Effects."
+  },
+  "davinci-resolve": {
+   "tagline": "Étalonnage professionnel",
+   "description": "Correction colorimétrique de niveau Hollywood, audio Fairlight, effets Fusion et page d'édition Cut — entièrement gratuit en version standard."
+  },
+  "final-cut-pro": {
+   "tagline": "L'éditeur professionnel d'Apple",
+   "description": "Logiciel de montage professionnel d'Apple avec timeline magnétique, VR 360°, HDR et étalonnage avancé optimisé pour Apple Silicon."
+  },
+  "synthesia": {
+   "tagline": "Génération vidéo avec avatars IA",
+   "description": "Créez des vidéos professionnelles avec des avatars IA dans plus de 130 langues. Sans caméra, studio ni acteurs. Parfait pour la formation et le contenu corporate."
+  },
+  "heygen": {
+   "tagline": "Avatars IA et traduction vidéo",
+   "description": "Créez des vidéos d'avatars IA avec traduction synchronisée des lèvres dans plus de 40 langues. Clonez votre voix et votre apparence pour du contenu personnalisé à grande échelle."
+  },
+  "d-id": {
+   "tagline": "Création vidéo avec photos parlantes",
+   "description": "Transformez des photos en vidéos réalistes de tête parlante. S'intègre à ChatGPT pour des présentateurs IA interactifs et des agents conversationnels."
+  },
+  "elevenlabs": {
+   "tagline": "Le clonage vocal IA le plus réaliste",
+   "description": "La référence en voix off IA, clonage vocal et doublage dans plus de 29 langues. Parfait pour les chaînes YouTube sans visage et les documentaires."
+  },
+  "murf-ai": {
+   "tagline": "Voix off IA pour vidéos",
+   "description": "Générateur de voix polyvalent avec plus de 120 voix réalistes dans 20 langues. Contrôle de la hauteur, édition de l'accentuation et synchronisation musicale inclus."
+  },
+  "descript-overdub": {
+   "tagline": "Clonez votre voix avec l'IA",
+   "description": "Créez un modèle de synthèse vocale avec votre propre voix. Éditez l'audio en éditant le texte. Corrigez les erreurs d'enregistrement sans réenregistrer."
+  },
+  "resemble-ai": {
+   "tagline": "Clonage vocal en temps réel",
+   "description": "API de clonage vocal en temps réel avec contrôle émotionnel, localisation et détection de deepfake. Sécurité et conformité de niveau entreprise."
+  },
+  "lovo-ai": {
+   "tagline": "Générateur de voix IA pour créateurs",
+   "description": "Plateforme tout-en-un de voix off et de création vidéo avec contrôle émotionnel de la parole, bibliothèque d'effets sonores et édition de dialogues multi-locuteurs."
+  },
+  "adobe-podcast": {
+   "tagline": "Amélioration audio par IA",
+   "description": "Amélioration vocale IA gratuite qui supprime bruit de fond et échos de tout enregistrement micro instantanément."
+  },
+  "auphonic": {
+   "tagline": "Post-production audio automatique",
+   "description": "Service web de post-production audio automatique pour podcasts, diffuseurs et créateurs vidéo. Niveleur, réduction de bruit et normalisation du volume."
+  },
+  "krisp": {
+   "tagline": "Suppression du bruit par IA",
+   "description": "Suppression du bruit par IA pour les appels et enregistrements. Élimine voix de fond, aboiements et claviers en temps réel."
+  },
+  "cleanvoice": {
+   "tagline": "Nettoyage audio par IA",
+   "description": "Supprime automatiquement mots de remplissage, bruits de bouche, bégaiements et silences morts des enregistrements de podcasts et vidéos."
+  },
+  "colossyan": {
+   "tagline": "Génération vidéo IA pour la formation",
+   "description": "Créez des vidéos de formation avec des présentateurs IA en quelques minutes. Traduction automatique vers plus de 70 langues avec accents localisés."
+  },
+  "elai-io": {
+   "tagline": "Création vidéo avec avatars IA",
+   "description": "Créez des vidéos IA personnalisées avec des présentateurs numériques à partir de texte. 80+ langues, 25+ avatars et conversion PPT en vidéo."
+  },
+  "canva": {
+   "tagline": "Designez tout avec l'IA",
+   "description": "Plateforme de design tout-en-un avec écriture magique IA, suppression d'arrière-plan et des milliers de modèles pour miniatures, bannières et posts sociaux."
+  },
+  "adobe-express": {
+   "tagline": "Design rapide et facile",
+   "description": "Créez miniatures, flyers et posts sociaux avec remplissage génératif IA, effets de texte et des milliers de modèles professionnels."
+  },
+  "thumbly-ai": {
+   "tagline": "Générateur de miniatures YouTube IA",
+   "description": "Générez des miniatures YouTube à haut CTR avec une IA entraînée sur des données de vidéos virales. Détection faciale, analyse d'émotions et psychologie des couleurs incluses."
+  },
+  "snappa": {
+   "tagline": "Design graphique pour non-designers",
+   "description": "Créez des miniatures YouTube, des bannières de chaîne et des graphiques sociaux en minutes avec des modèles prêts à l'emploi et des photos d'archives."
+  },
+  "jasper": {
+   "tagline": "Assistant d'écriture IA",
+   "description": "Copywriter IA formé pour le marketing. Écrivez scripts vidéo, articles de blog, textes publicitaires et légendes sociales avec une voix de marque cohérente."
+  },
+  "copy-ai": {
+   "tagline": "Copywriting IA pour marketers",
+   "description": "Générez textes marketing, crochets vidéo, scripts publicitaires et séquences d'emails en secondes. 90+ modèles et workflows inclus."
+  },
+  "chatgpt": {
+   "tagline": "Assistant IA polyvalent",
+   "description": "L'IA conversationnelle d'OpenAI pour le brainstorming, l'écriture de scripts, la recherche et la génération de code. Le couteau suisse des créateurs."
+  },
+  "claude": {
+   "tagline": "Écriture et analyse avancées par IA",
+   "description": "L'assistant IA d'Anthropic avec une fenêtre de contexte leader du secteur. Parfait pour analyser de longs scripts, synthétiser des recherches et l'écriture créative."
+  },
+  "writesonic": {
+   "tagline": "Création de contenu IA",
+   "description": "Rédacteur IA avec optimisation SEO, reformulation et génération d'images. Créez des articles, pages de destination et scripts vidéo qui se classent."
+  },
+  "zapier": {
+   "tagline": "Automatisez les workflows avec l'IA",
+   "description": "Connectez plus de 5000 applications pour automatiser votre workflow de créateur. Publiez des vidéos automatiquement, envoyez des notifications et synchronisez les données."
+  },
+  "make": {
+   "tagline": "Plateforme d'automatisation visuelle",
+   "description": "Automatisation visuelle sans code avec constructeur de scénarios par glisser-déposer. Plus puissant et visuel que Zapier pour les workflows créateurs complexes."
+  },
+  "n8n": {
+   "tagline": "Automatisation de workflow open source",
+   "description": "Automatisation open source auto-hébergeable avec plus de 400 intégrations. Contrôle total sur vos données. Parfait pour les créateurs soucieux de la vie privée."
+  },
+  "repurpose-io": {
+   "tagline": "Publiez du contenu automatiquement partout",
+   "description": "Réutilisez et distribuez automatiquement vos vidéos et audios sur toutes les grandes plateformes. Configurez une fois, publiez partout pour toujours."
+  },
+  "tubebuddy": {
+   "tagline": "Croissance et optimisation YouTube",
+   "description": "Extension navigateur pour le SEO YouTube, les tests A/B de miniatures, le traitement par lot et l'analyse avancée. Essentiel pour les youtubers sérieux."
+  },
+  "sora": {
+   "tagline": "Modèle texte-vers-vidéo d'OpenAI",
+   "description": "Générez des clips cinématographiques conscients de la physique jusqu'à 20 secondes à partir de prompts texte, avec storyboard et outils de remix intégrés."
+  },
+  "google-veo": {
+   "tagline": "Génération vidéo Google DeepMind",
+   "description": "Texte-vers-vidéo de pointe avec génération audio native, forte adhésion au prompt et sortie cinématographique 4K dans Gemini et Flow."
+  },
+  "pika": {
+   "tagline": "Studio créatif de l'idée à la vidéo",
+   "description": "Générateur vidéo IA ludique avec ingrédients de scène, effets Pikaffects et édition vidéo-vers-vidéo adoré des créateurs de format court."
+  },
+  "luma-dream-machine": {
+   "tagline": "Vidéo IA de haute qualité à partir de texte et d'images",
+   "description": "Génération vidéo rapide et haute fidélité avec mouvement fluide, keyframes et contrôle de caméra de Luma Labs."
+  },
+  "kling-ai": {
+   "tagline": "Génération vidéo à physique réaliste",
+   "description": "Modèle vidéo Kuaishou connu pour le mouvement humain réaliste, la synchro labiale et des clips 1080p jusqu'à 2 minutes."
+  },
+  "hailuo-ai": {
+   "tagline": "Modèle vidéo cinématographique MiniMax",
+   "description": "Génération texte et image vers vidéo avec forte adhésion au prompt, animation expressive des personnages et direction de caméra."
+  },
+  "haiper": {
+   "tagline": "Boîte à outils vidéo créative IA",
+   "description": "Outils texte-vers-vidéo et conditionnement de keyframes axés sur un mouvement stylisé et artistique pour le contenu social."
+  },
+  "vidu": {
+   "tagline": "Vidéo IA à cohérence multi-sujets",
+   "description": "Modèle vidéo chinois avec référence-vers-vidéo pour des personnages cohérents entre les plans — idéal pour les Shorts narratifs."
+  },
+  "pixverse": {
+   "tagline": "Génération vidéo anime et stylisée",
+   "description": "Populaire pour les effets et modèles de style anime qui deviennent viraux sur TikTok, avec une génération rapide."
+  },
+  "ltx-studio": {
+   "tagline": "Plateforme de cinéma et storyboard IA",
+   "description": "Plateforme holistique de l'histoire à l'écran : script, storyboard, personnages cohérents, édition des plans et rendu final au même endroit."
+  },
+  "kaiber": {
+   "tagline": "Studio de génération vidéo artistique",
+   "description": "Canvas superstudio pour clips musicaux, visuels réactifs à l'audio et animation stylisée utilisé par musiciens et artistes."
+  },
+  "krea-ai": {
+   "tagline": "Suite créative IA en temps réel",
+   "description": "Génération d'images en temps réel, upscaling et outils vidéo avec un canvas intuitif — favori pour l'idéation visuelle rapide."
+  },
+  "genmo": {
+   "tagline": "Modèle vidéo open source Mochi",
+   "description": "Créateurs de Mochi 1, un modèle de génération vidéo open source de pointe avec une forte qualité de mouvement et d'adhésion au prompt."
+  },
+  "higgsfield": {
+   "tagline": "Vidéo IA à contrôle de caméra cinématographique",
+   "description": "Modèle vidéo social célèbre pour ses mouvements de caméra dramatiques — crash zooms, bullet time et préréglages caméra corporelle."
+  },
+  "moonvalley": {
+   "tagline": "Modèle vidéo cinématographique à données licenciées",
+   "description": "Modèle Marey entraîné exclusivement sur des images licenciées — génération vidéo HD commercialement sûre pour les cinéastes professionnels."
+  },
+  "neural-frames": {
+   "tagline": "Animateur de clips musicaux IA",
+   "description": "Animation IA image par image synchronisée aux stems audio — l'outil de référence pour les clips musicaux réactifs à l'audio."
+  },
+  "fliki": {
+   "tagline": "Texte vers vidéo avec voix off réalistes",
+   "description": "Transformez scripts, blogs ou tweets en vidéos avec plus de 2500 voix IA dans 80 langues, médias d'archives et sous-titres."
+  },
+  "lumen5": {
+   "tagline": "Blog vers vidéo pour les marques",
+   "description": "Réutilisez articles de blog et enregistrements Zoom en vidéos sociales de marque avec un workflow simple de glisser-déposer."
+  },
+  "steveai": {
+   "tagline": "Vidéos IA animées et live-action",
+   "description": "Générez des vidéos en style animé et live-action à partir de scripts avec personnages, voix off et modèles."
+  },
+  "viggle": {
+   "tagline": "Mouvement de personnage contrôlable",
+   "description": "Mélangez n'importe quelle image de personnage avec des vidéos de mouvement — le célèbre modèle JST-1 qui anime les personnages avec une physique réelle."
+  },
+  "domo-ai": {
+   "tagline": "Transfert de style et animation vidéo",
+   "description": "Restylez des images réelles en anime, dessin animé 3D ou pixel art avec génération vidéo-vers-vidéo basée sur Discord."
+  },
+  "pollo-ai": {
+   "tagline": "Hub vidéo IA tout-en-un",
+   "description": "Accédez à Kling, Runway, Veo, Hailuo et plus depuis une seule interface avec modèles et effets."
+  },
+  "goenhance": {
+   "tagline": "Style et amélioration vidéo-vers-vidéo",
+   "description": "Transformez des vidéos en styles anime et cartoon, upscalez en 4K et interpolez les images pour un mouvement fluide."
+  },
+  "stable-video-diffusion": {
+   "tagline": "Image-vers-vidéo open source",
+   "description": "Le modèle vidéo ouvert de Stability AI pour la génération image-vers-vidéo — gratuit à exécuter localement et à affiner pour la recherche."
+  },
+  "hunyuan-video": {
+   "tagline": "Modèle vidéo open source Tencent",
+   "description": "Modèle de base vidéo ouvert de 13 milliards de paramètres avec une qualité cinématographique rivalisant avec les modèles fermés — gratuit pour les développeurs."
+  },
+  "wan": {
+   "tagline": "Génération vidéo ouverte Alibaba",
+   "description": "La famille de modèles ouverts Wan 2.x d'Alibaba — rendu de texte et mouvement forts, exécutable sur GPU grand public."
+  },
+  "seedance": {
+   "tagline": "Modèle vidéo pro ByteDance",
+   "description": "Modèle texte et image-vers-vidéo leader des benchmarks avec narration multi-plans et contrôle précis de la caméra."
+  },
+  "hedra": {
+   "tagline": "Vidéo de personnage expressive",
+   "description": "Le modèle Character-3 génère des personnages qui parlent, chantent et expriment des émotions à partir d'une seule image et d'une piste audio."
+  },
+  "immersity-ai": {
+   "tagline": "Animation de profondeur 2D vers 3D",
+   "description": "Convertissez photos et vidéos en mouvement 3D immersif avec animation de parallaxe sensible à la profondeur."
+  },
+  "topaz-video-ai": {
+   "tagline": "Upscaling vidéo professionnel IA",
+   "description": "Upscaling IA standard de l'industrie jusqu'en 8K, débruitage, désentrelacement et interpolation d'images jusqu'à 120 fps pour les archives et images pro."
+  },
+  "captions": {
+   "tagline": "Studio vidéo parlante IA",
+   "description": "Enregistrez, sous-titrez, doublez et montez des vidéos parlantes avec correction du contact visuel IA, avatars et éditions en un geste."
+  },
+  "kapwing": {
+   "tagline": "Éditeur vidéo en ligne collaboratif",
+   "description": "Éditeur basé navigateur avec coupe intelligente IA, sous-titres automatiques, suppression d'arrière-plan et espaces de travail d'équipe."
+  },
+  "flexclip": {
+   "tagline": "Créateur vidéo en ligne facile",
+   "description": "Création vidéo basée sur des modèles avec texte-vers-vidéo IA, sous-titres automatiques et une grande bibliothèque pour des vidéos marketing rapides."
+  },
+  "gling": {
+   "tagline": "Éditeur de coupe brute IA pour youtubers",
+   "description": "Coupe automatiquement silences, mauvaises prises et mots de remplissage des vidéos parlantes, puis exporte vers Premiere, Resolve ou FCP."
+  },
+  "timebolt": {
+   "tagline": "Suppression instantanée des silences et pauses",
+   "description": "Supprime pauses et silences morts des vidéos et podcasts en secondes, avec zooms d'accentuation et export vers les éditeurs."
+  },
+  "autopod": {
+   "tagline": "Montage podcast multicam dans Premiere",
+   "description": "Extension Premiere Pro qui auto-monte les émissions vidéo et podcasts multicam — coupe les caméras selon qui parle."
+  },
+  "wisecut": {
+   "tagline": "Montage vidéo automatique avec musique",
+   "description": "Éditeur IA qui supprime les silences, ajoute une musique de fond avec ducking automatique, sous-titres et incrustations intelligentes."
+  },
+  "powerdirector": {
+   "tagline": "Éditeur vidéo de bureau amélioré par IA",
+   "description": "Éditeur complet avec remplacement de ciel IA, détection d'objets, effets corporels et amélioration de la parole pour les prosumers."
+  },
+  "unscreen": {
+   "tagline": "Suppression d'arrière-plan vidéo",
+   "description": "Supprimez les arrière-plans vidéo automatiquement sans fond vert — parfait pour les overlays de réaction et les démos produit."
+  },
+  "cutoutpro": {
+   "tagline": "Kit d'amélioration visuelle IA",
+   "description": "Kit tout-en-un pour la suppression d'arrière-plan vidéo, l'amélioration photo, la colorisation et les photos d'identité via API."
+  },
+  "vizard": {
+   "tagline": "Découpe IA avec scores de viralité",
+   "description": "Transformez des vidéos longues en Shorts avec scores de viralité par clip, sous-titres automatiques et programmation sociale intégrée."
+  },
+  "2shortai": {
+   "tagline": "Convertisseur YouTube vers Shorts",
+   "description": "Extrait les moments les plus engageants des vidéos YouTube et les convertit en Shorts verticaux avec sous-titres."
+  },
+  "spikes-studio": {
+   "tagline": "Découpe gaming et streaming IA",
+   "description": "Conçu pour les streamers : détecte les moments viraux dans les VOD Twitch et le gameplay, ajoute sous-titres et emojis automatiquement."
+  },
+  "chopcast": {
+   "tagline": "Réutilisez les webinaires en clips",
+   "description": "Réutilisation axée B2B qui transforme webinaires et contenu long en micro-vidéos de marque pour LinkedIn."
+  },
+  "eklipse": {
+   "tagline": "Meilleurs moments gaming IA",
+   "description": "Capture automatiquement les séries de kills et les moments d'euphorie des streams Twitch, Kick et YouTube en clips prêts pour TikTok."
+  },
+  "powder": {
+   "tagline": "IA de montages gaming pour créateurs",
+   "description": "IA de bureau qui détecte vos meilleurs moments de gameplay localement et crée des montages avec vos réactions caméra."
+  },
+  "revidai": {
+   "tagline": "Générateur de vidéos virales sans visage",
+   "description": "Créez des TikToks sans visage à partir d'un prompt — script, voix IA, sous-titres et visuels d'archives ou IA en un clic."
+  },
+  "crayo": {
+   "tagline": "Clip farming à grande échelle",
+   "description": "Générez des Shorts narratifs avec fonds de gameplay, voix IA et sous-titres — conçu pour les chaînes de clips."
+  },
+  "zebracat": {
+   "tagline": "Texte vers vidéos marketing virales",
+   "description": "Transformez prompts texte et articles de blog en vidéos marketing courtes avec scènes, voix et musique IA."
+  },
+  "syllaby": {
+   "tagline": "Moteur de stratégie de contenu sans visage",
+   "description": "Planifiez, scriptez, générez et programmez du contenu vidéo sans visage sur toutes les plateformes avec recherche de sujets IA."
+  },
+  "headliner": {
+   "tagline": "Podcast vers audiogrammes vidéo",
+   "description": "Transformez des épisodes de podcast en vidéos d'audiogramme partageables avec formes d'onde, sous-titres et transcriptions complètes."
+  },
+  "recast-studio": {
+   "tagline": "Marketing de podcast en pilote automatique",
+   "description": "Transforme les épisodes de podcast en clips, notes d'émission, articles de blog et légendes sociales automatiquement."
+  },
+  "rask-ai": {
+   "tagline": "Traduction et doublage vidéo",
+   "description": "Localisez des vidéos dans plus de 130 langues avec clonage vocal, synchro labiale et détection multi-locuteurs — utilisé par les meilleures chaînes éducatives."
+  },
+  "papercup": {
+   "tagline": "Doublage IA avec intervention humaine",
+   "description": "Doublage IA d'entreprise avec relecture par traducteurs professionnels — alimente la localisation de Bloomberg et Fremantle."
+  },
+  "dubverse": {
+   "tagline": "Doublage vidéo en ligne instantané",
+   "description": "Doublez des vidéos dans plus de 60 langues avec des voix réalistes, génération de sous-titres et éditeur collaboratif."
+  },
+  "speechify": {
+   "tagline": "Synthèse vocale partout",
+   "description": "Écoutez n'importe quel texte — documents, PDF, pages web — avec des voix de célébrités IA sur mobile, bureau et navigateur."
+  },
+  "wellsaid-labs": {
+   "tagline": "Voix off IA d'entreprise",
+   "description": "Voix synthétiques de qualité studio avec licence commerciale, contrôles de prononciation et bibliothèques d'équipe pour la formation et la pub."
+  },
+  "podcastle": {
+   "tagline": "Studio d'enregistrement de podcast IA",
+   "description": "Enregistrez des interviews à distance de qualité studio, améliorez l'audio avec Magic Dust, clonez votre voix et éditez par le texte."
+  },
+  "riverside": {
+   "tagline": "Enregistrement à distance qualité studio",
+   "description": "Enregistrement à distance 4K avec pistes locales, transcription IA dans plus de 100 langues, Magic Clips et édition textuelle."
+  },
+  "lalalai": {
+   "tagline": "Séparateur de stems IA",
+   "description": "Extrayez voix, batterie, basse et instruments de n'importe quelle piste avec le réseau neuronal Phoenix — utilisé par les DJ et monteurs."
+  },
+  "voicemod": {
+   "tagline": "Changeur de voix en temps réel IA",
+   "description": "Changement de voix en direct et soundboard pour streamers et gamers avec voix IA et création de voix personnalisées."
+  },
+  "fish-audio": {
+   "tagline": "Plateforme ouverte de clonage vocal",
+   "description": "TTS open source le mieux noté avec clonage vocal instantané en quelques secondes et une immense bibliothèque communautaire de voix."
+  },
+  "cartesia": {
+   "tagline": "TTS réaliste à ultra-faible latence",
+   "description": "Le modèle Sonic délivre une parole réaliste à 40 ms de latence pour les agents temps réel, le jeu et la vidéo interactive."
+  },
+  "kits-ai": {
+   "tagline": "Voix IA pour musiciens",
+   "description": "Entraînez et partagez des modèles de voix IA pour la musique, convertissez des voix d'artiste à artiste et générez des voix libres de droits."
+  },
+  "moises": {
+   "tagline": "Pratique musicale et stems IA",
+   "description": "Séparez n'importe quelle chanson en stems, changez ton et vitesse, détectez les accords — essentiel pour les créateurs musiciens."
+  },
+  "cambai": {
+   "tagline": "Traduction de parole dans 140+ langues",
+   "description": "Les modèles MARS et BOLI doublent le sport en direct et le cinéma dans plus de 140 langues avec préservation des émotions."
+  },
+  "deepdub": {
+   "tagline": "Doublage IA de qualité studio",
+   "description": "Plateforme de doublage d'entreprise qui localise films et séries avec voix IA plus relecture qualité studio, conçue pour streamers et distributeurs."
+  },
+  "vozo-ai": {
+   "tagline": "Traducteur vidéo et synchro labiale IA",
+   "description": "Traduisez, redoublez et synchronisez les lèvres de vidéos avec détection multi-locuteurs et édition de scripts."
+  },
+  "suno": {
+   "tagline": "Générez des chansons complètes à partir de texte",
+   "description": "Créez des chansons complètes avec voix, paroles et instrumentaux à partir d'un prompt texte — l'outil de musique IA le plus populaire."
+  },
+  "udio": {
+   "tagline": "Création musicale IA de qualité studio",
+   "description": "Génération musicale IA haute fidélité avec contrôle précis, remix et inpainting pour les producteurs sérieux."
+  },
+  "soundraw": {
+   "tagline": "Musique IA libre de droits pour vidéos",
+   "description": "Générez des pistes illimitées libres de droits par humeur, genre et durée — personnalisez l'énergie de chaque section pour des montages parfaits."
+  },
+  "aiva": {
+   "tagline": "Compositeur IA pour bandes originales",
+   "description": "Composez une musique émotionnelle dans plus de 250 styles — de l'orchestral cinématographique au lo-fi — avec export MIDI."
+  },
+  "mubert": {
+   "tagline": "Musique générative en streaming et API",
+   "description": "Musique générative temps réel libre de droits pour contenu, apps et streams via prompts simples ou API."
+  },
+  "beatovenai": {
+   "tagline": "Musique de fond basée sur l'humeur",
+   "description": "Créez des musiques de fond personnalisables et libres de droits qui correspondent à l'arc émotionnel de votre timeline."
+  },
+  "soundful": {
+   "tagline": "Musique IA pour créateurs et marques",
+   "description": "Générez des pistes libres de droits de qualité studio par modèle de genre, avec téléchargement de stems pour personnaliser."
+  },
+  "loudly": {
+   "tagline": "Musique et bandes originales IA pour vidéo",
+   "description": "Générez et personnalisez de la musique libre de droits avec un moteur de recommandation adapté à votre contenu vidéo."
+  },
+  "stable-audio": {
+   "tagline": "Génération texte-vers-audio et effets sonores",
+   "description": "Générez des morceaux et effets sonores jusqu'à 3 minutes à partir de texte avec contrôle du timing — modèles ouverts inclus."
+  },
+  "elevenlabs-sfx": {
+   "tagline": "Génération d'effets sonores IA",
+   "description": "Générez effets sonores cinématographiques, foley et ambiances à partir de descriptions texte — parfait pour Shorts et films."
+  },
+  "deepbrain-ai": {
+   "tagline": "Studio d'avatars IA réalistes",
+   "description": "Avatars IA hyperréalistes pour les vidéos d'information, de formation et marketing avec 100+ avatars d'archives et clones personnalisés."
+  },
+  "vidnoz": {
+   "tagline": "Générateur gratuit de vidéos d'avatars IA",
+   "description": "Générez des vidéos d'avatars avec 1500+ modèles, photos parlantes et clonage vocal — plan gratuit généreux."
+  },
+  "yepic-ai": {
+   "tagline": "Avatars parlants en temps réel",
+   "description": "Agents avatar en direct avec synchro labiale dans 28 langues pour campagnes vidéo, formation et support client."
+  },
+  "argil": {
+   "tagline": "Clones IA pour créateurs de contenu",
+   "description": "Créez votre clone IA qui tourne des vidéos pour vous — contrôle du langage corporel, B-rolls et montage prêt pour les réseaux."
+  },
+  "tavus": {
+   "tagline": "Vidéo personnalisée à grande échelle",
+   "description": "Enregistrez une fois, générez des milliers de vidéos personnalisées avec votre visage et votre voix — alimente les agents vidéo conversationnels temps réel."
+  },
+  "bhuman": {
+   "tagline": "Messagerie vidéo personnalisée",
+   "description": "Clonez votre visage et votre voix pour envoyer des vidéos personnalisées à des milliers de prospects et clients."
+  },
+  "akool": {
+   "tagline": "Plateforme de face swap et avatars",
+   "description": "Face swap haute fidélité, avatars parlants et avatars caméra en direct pour le marketing et le divertissement."
+  },
+  "midjourney": {
+   "tagline": "Génération d'images IA de premier ordre",
+   "description": "La référence de l'image artistique IA — V7 délivre des personnages photoréalistes et des styles cohérents pour les miniatures."
+  },
+  "ideogram": {
+   "tagline": "Images IA avec texte parfait",
+   "description": "Le meilleur générateur d'images IA pour un rendu de texte lisible — idéal pour miniatures, affiches et logos."
+  },
+  "leonardo-ai": {
+   "tagline": "Suite d'art et de production IA",
+   "description": "Modèles affinés, canvas temps réel et personnages cohérents — un pipeline créatif complet utilisé par les artistes de jeux et youtubers."
+  },
+  "adobe-firefly": {
+   "tagline": "Génération IA commercialement sûre",
+   "description": "L'IA image, vecteur et vidéo d'Adobe entraînée sur du contenu licencié — intégrée à Creative Cloud."
+  },
+  "flux": {
+   "tagline": "Modèle d'image ouvert de pointe",
+   "description": "Les modèles FLUX de Black Forest Labs mènent la génération d'images open source avec une adhésion au prompt et un réalisme exceptionnels."
+  },
+  "recraft": {
+   "tagline": "Design IA avec contrôle de marque",
+   "description": "Génération d'images de qualité design avec couleurs, styles, art vectoriel et maquettes exactes de marque — conçu pour les designers."
+  },
+  "photoroom": {
+   "tagline": "Édition photo IA pour produits",
+   "description": "Suppression d'arrière-plan instantanée et arrière-plans IA pour photos produits — la référence e-commerce sur mobile."
+  },
+  "removebg": {
+   "tagline": "Suppression d'arrière-plan instantanée",
+   "description": "Le suppresseur d'arrière-plan en un clic original pour les images, avec API et intégration Photoshop."
+  },
+  "fotor": {
+   "tagline": "Éditeur et générateur de photos IA",
+   "description": "Édition photo tout-en-un avec génération d'images IA, amélioration, portraits et modèles de design."
+  },
+  "pixlr": {
+   "tagline": "Éditeur photo IA dans le navigateur",
+   "description": "Alternative gratuite à Photoshop dans le navigateur avec remplissage génératif, agrandissement et outils de design IA."
+  },
+  "thumbnailtest": {
+   "tagline": "Test A/B de miniatures YouTube",
+   "description": "Faites pivoter et testez automatiquement des miniatures sur des vidéos en direct pour trouver la gagnante à plus haut CTR avec confiance statistique."
+  },
+  "magnific": {
+   "tagline": "Upscaler et améliorateur d'images IA",
+   "description": "Le célèbre upscaler « hallucinant » qui ajoute des détails réalistes en agrandissant — adoré des artistes de miniatures."
+  },
+  "upscayl": {
+   "tagline": "Upscaler d'images open source gratuit",
+   "description": "Upscaling d'images IA gratuit, privé et hors ligne pour Linux, macOS et Windows — sans cloud."
+  },
+  "gemini": {
+   "tagline": "Assistant IA multimodal de Google",
+   "description": "Recherchez, scriptez et brainstormez avec le modèle de pointe de Google — Deep Research et contexte de 1M de tokens pour les longs projets vidéo."
+  },
+  "perplexity": {
+   "tagline": "Recherche IA avec citations",
+   "description": "Moteur de réponses qui recherche des sujets avec des citations web en direct — parfait pour vérifier les scripts vidéo."
+  },
+  "notion-ai": {
+   "tagline": "IA dans votre espace de travail",
+   "description": "Écrivez, résumez et organisez scripts et calendriers de contenu avec l'IA intégrée à votre espace Notion."
+  },
+  "grammarly": {
+   "tagline": "Assistant d'écriture IA partout",
+   "description": "Suggestions de grammaire, de ton et de clarté en temps réel dans chaque application — plus la rédaction générative IA."
+  },
+  "quillbot": {
+   "tagline": "IA de reformulation et de résumé",
+   "description": "Reformulez, résumez et humanisez du texte avec l'outil de paraphrase le plus populaire pour les rédacteurs."
+  },
+  "rytr": {
+   "tagline": "Rédacteur IA économique",
+   "description": "Générez outlines, crochets et descriptions dans plus de 30 langues avec 40+ modèles d'usage à un prix imbattable."
+  },
+  "sudowrite": {
+   "tagline": "IA pour la fiction et le storytelling",
+   "description": "Moteur d'histoires conçu pour les écrivains narratifs — décrivez, développez et brainstormez des rebondissements pour les chaînes narratives."
+  },
+  "subscribr": {
+   "tagline": "IA de scripts YouTube",
+   "description": "Conçu pour YouTube : recherchez les vidéos virales de votre niche et écrivez des scripts optimisés pour la rétention avec crochets."
+  },
+  "wordtune": {
+   "tagline": "Reformulation et contrôle du ton IA",
+   "description": "Reformulez des phrases avec contrôle du ton et de la longueur, plus des réponses IA fondées sur vos sources."
+  },
+  "hypotenuse-ai": {
+   "tagline": "IA de contenu e-commerce et SEO",
+   "description": "Générez en masse descriptions produits, articles SEO et légendes sociales avec entraînement de la voix de marque."
+  },
+  "grok": {
+   "tagline": "L'assistant temps réel de xAI",
+   "description": "Modèle de raisonnement de pointe avec données X en direct, génération d'images et recherche sans filtre pour créateurs attentifs aux tendances."
+  },
+  "deepseek": {
+   "tagline": "Raisonnement de pointe open source",
+   "description": "Modèle gratuit de raisonnement et d'écriture de niveau pointe — R1 rivalise avec les modèles payants en logique de script et recherche."
+  },
+  "surfer": {
+   "tagline": "Optimisation de contenu SEO",
+   "description": "Éditeur de contenu piloté par les données qui note vos articles face aux concurrents SERP — standard pour les pipelines blog-vers-vidéo."
+  },
+  "frase": {
+   "tagline": "Recherche SEO et écriture IA",
+   "description": "Recherchez, structurez, écrivez et optimisez du contenu SEO en un seul workflow avec recherche de questions depuis les SERP."
+  },
+  "promptbase": {
+   "tagline": "Marketplace de prompts",
+   "description": "Achetez et vendez des prompts testés pour Midjourney, DALL·E, Stable Diffusion et GPT — un raccourci vers des styles de miniatures éprouvés."
+  },
+  "prompthero": {
+   "tagline": "Bibliothèque de prompts et formation",
+   "description": "Cherchez dans une grande bibliothèque ouverte de prompts d'images IA avec exemples de sorties, plus des cours gratuits de prompting."
+  },
+  "aiprm": {
+   "tagline": "Modèles de prompts pour ChatGPT",
+   "description": "Extension navigateur qui ajoute des modèles de prompts sélectionnés à ChatGPT — briefs SEO, scripts vidéo et personas en un clic."
+  },
+  "whisper": {
+   "tagline": "Reconnaissance vocale open source",
+   "description": "Le modèle ASR gratuit et ouvert d'OpenAI supportant plus de 90 langues — la colonne vertébrale de la plupart des outils de sous-titrage."
+  },
+  "otterai": {
+   "tagline": "Notes de réunions et interviews IA",
+   "description": "Transcription en temps réel avec identification des locuteurs, résumés et éléments d'action — idéal pour le contenu basé sur interviews."
+  },
+  "rev": {
+   "tagline": "Transcription humaine + IA",
+   "description": "Transcription de référence avec options IA (rapide) et humaine (99 % de précision) plus sous-titres."
+  },
+  "trint": {
+   "tagline": "Transcription pour conteurs",
+   "description": "Transcription de niveau rédaction et construction collaborative d'histoires dans plus de 40 langues — utilisée par AP et Vice."
+  },
+  "sonix": {
+   "tagline": "Transcriptions multilingues automatisées",
+   "description": "Transcription automatique rapide dans plus de 50 langues avec éditeur intégré, sous-titres et résumés IA."
+  },
+  "deepgram": {
+   "tagline": "API parole-vers-texte pour développeurs",
+   "description": "Nova-3 délivre l'API STT la plus rapide et précise pour intégrer des fonctions vocales dans les outils de créateurs."
+  },
+  "assemblyai": {
+   "tagline": "Modèles de parole IA via API",
+   "description": "Parole-vers-texte Universal-2 avec sentiment, chapitres et suppression des PII pour construire des fonctions médias."
+  },
+  "happy-scribe": {
+   "tagline": "Plateforme de transcription et sous-titres",
+   "description": "Transcriptions et sous-titres automatiques et humains dans plus de 120 langues avec un éditeur de sous-titres professionnel."
+  },
+  "macwhisper": {
+   "tagline": "Transcription locale Whisper pour Mac",
+   "description": "Transcription locale par glisser-déposer sur macOS — privée, rapide, achat unique, sans abonnement."
+  },
+  "zeemo": {
+   "tagline": "Sous-titres automatiques dans 95+ langues",
+   "description": "Sous-titrez des vidéos automatiquement avec 98 % de précision, traduisez les sous-titres et stylez-les pour les réseaux — mobile-first."
+  },
+  "zubtitle": {
+   "tagline": "Sous-titres et optimiseur de vidéos sociales",
+   "description": "Ajoutez sous-titres, titres et barres de progression aux vidéos sociales avec redimensionnement automatique par plateforme."
+  },
+  "checksub": {
+   "tagline": "Sous-titres et doublage IA",
+   "description": "Générez, traduisez et stylez des sous-titres dans plus de 200 langues avec une option de doublage IA."
+  },
+  "amberscript": {
+   "tagline": "Services de transcription et sous-titrage",
+   "description": "Transcription automatique et humaine conforme RGPD avec une forte précision dans les langues européennes."
+  },
+  "vidiq": {
+   "tagline": "Croissance YouTube et IA de mots-clés",
+   "description": "Recherche de mots-clés, suivi des concurrents, idées de vidéos quotidiennes et coaching IA — l'extension SEO YouTube la plus populaire."
+  },
+  "1of10": {
+   "tagline": "Recherche de miniatures outliers",
+   "description": "Trouvez des vidéos « outlier » à succès dans n'importe quelle niche pour reproduire titres, sujets et miniatures gagnants."
+  },
+  "spotter-studio": {
+   "tagline": "Moteur d'idéation pour youtubers",
+   "description": "De l'entreprise qui finance MrBeast : brainstormez, packagez et gérez des projets vidéo avec une IA entraînée sur 10M+ outliers."
+  },
+  "taja-ai": {
+   "tagline": "Copilote de publication YouTube IA",
+   "description": "Optimisez titres, descriptions, tags, chapitres et miniatures depuis un tableau de bord pendant que vous publiez."
+  },
+  "viewstats": {
+   "tagline": "Analytics de chaîne par l'équipe MrBeast",
+   "description": "Statistiques publiques de chaînes, recherche de miniatures et découverte d'outliers de l'équipe ViewStats."
+  },
+  "tuberanker": {
+   "tagline": "Boîte à outils SEO YouTube",
+   "description": "Explorateur de mots-clés, générateur de tags et suivi de classement pour optimiser les métadonnées vidéo."
+  },
+  "nexlev": {
+   "tagline": "Recherche de niches et tendances sans visage",
+   "description": "Trouvez des niches YouTube gagnantes, des sujets tendance et des lacunes concurrentielles avec une recherche IA pour les chaînes sans visage."
+  },
+  "metricool": {
+   "tagline": "Programmation et analytics sociaux",
+   "description": "Planifiez, programmez et analysez du contenu sur toutes les plateformes, dont YouTube et TikTok, avec génération de posts IA."
+  },
+  "ocoya": {
+   "tagline": "Automatisation des réseaux sociaux IA",
+   "description": "Créez, légendez et programmez du contenu social avec rédaction IA dans 26 langues et intégrations e-commerce."
+  },
+  "publer": {
+   "tagline": "Super-héros des réseaux sociaux",
+   "description": "Programmez partout avec assistance IA, outils de masse, recyclage et recommandations de meilleurs horaires."
+  },
+  "buffer": {
+   "tagline": "Publication sociale simple avec IA",
+   "description": "L'outil de programmation classique avec un assistant IA pour réutiliser des posts entre canaux."
+  },
+  "socialbee": {
+   "tagline": "Catégories de contenu IA",
+   "description": "Programmation sociale par catégories avec copilote IA qui construit toute votre stratégie de publication."
+  },
+  "blotato": {
+   "tagline": "API de réutilisation de contenu IA",
+   "description": "Transformez une vidéo en 10+ posts natifs par plateforme et automatisez les chaînes sans visage via API et workflows sans code."
+  },
+  "gumloop": {
+   "tagline": "Constructeur de workflows IA sans code",
+   "description": "Automatisations IA par glisser-déposer pour les pipelines de contenu — scrapez, générez et publiez sans code."
+  },
+  "lindy": {
+   "tagline": "Employés IA pour créateurs occupés",
+   "description": "Créez des agents IA qui gèrent email, recherche, notes de réunion et tâches de contenu de façon autonome."
+  },
+  "simplified": {
+   "tagline": "Suite marketing IA tout-en-un",
+   "description": "Designez, écrivez, montez la vidéo et programmez les posts sociaux dans un espace de travail pour petites équipes créatives."
+  },
+  "predisai": {
+   "tagline": "Posts sociaux IA depuis un prompt",
+   "description": "Générez des posts de marque prêts à publier, carrousels et reels avec analyse des concurrents intégrée."
+  },
+  "notebooklm": {
+   "tagline": "Recherche IA et cahier de podcasts",
+   "description": "Envoyez des sources et obtenez des résumés fondés, guides d'étude et podcasts viraux Audio Overview depuis vos propres documents."
+  },
+  "streamyard": {
+   "tagline": "Studio de streaming dans le navigateur",
+   "description": "Multidiffusez vers YouTube, LinkedIn et Facebook avec invités, overlays et enregistrements locaux — sans installation."
+  },
+  "restream": {
+   "tagline": "Multidiffusion vers 30+ plateformes",
+   "description": "Diffusez simultanément vers plus de 30 destinations avec studio, sous-titres et analytics de stream."
+  },
+  "streamlabs": {
+   "tagline": "Boîte à outils de streaming tout-en-un",
+   "description": "Suite de streaming basée sur OBS avec temps forts IA, alertes, pourboires et le Podcast Editor pour réutiliser."
+  },
+  "ecamm-live": {
+   "tagline": "Production live pro pour Mac",
+   "description": "Streaming en direct natif Mac avec scènes, interviews, PiP et contrôle caméra pro, adoré des animateurs solo."
+  },
+  "streamelements": {
+   "tagline": "Overlays et engagement de streaming",
+   "description": "Scènes cloud, alertes, chatbot et outils de fidélité pour streamers Twitch et YouTube, avec fonctions de clips et titres assistées par IA."
+  },
+  "wonder-studio": {
+   "tagline": "Animation de personnages CG par IA",
+   "description": "Animez, éclairez et composez automatiquement des personnages CG dans des images live-action — le game-changer VFX d'Autodesk."
+  },
+  "move-ai": {
+   "tagline": "Capture de mouvement sans marqueurs",
+   "description": "Capturez du mouvement 3D depuis des vidéos de téléphone ordinaires — sans costumes ni marqueurs — et exportez vers Blender, Unity ou Unreal."
+  },
+  "cascadeur": {
+   "tagline": "Animation 3D assistée par IA",
+   "description": "Animation de personnages basée sur la physique avec auto-positionnement IA — créez des animations d'action réalistes sans mocap."
+  },
+  "plask": {
+   "tagline": "Capture de mouvement et animation dans le navigateur",
+   "description": "Extrayez le mouvement d'une vidéo dans le navigateur et éditez des animations 3D avec une timeline intuitive."
+  },
+  "rokoko-video": {
+   "tagline": "Capture vidéo-vers-animation gratuite",
+   "description": "Transformez n'importe quelle vidéo en animation de personnage 3D gratuitement, avec du matériel mocap pro à mesure que vous grandissez."
+  },
+  "spline-ai": {
+   "tagline": "Design 3D IA dans le navigateur",
+   "description": "Générez et éditez des scènes 3D interactives avec des prompts IA, puis intégrez-les directement sur le web."
+  },
+  "meshy": {
+   "tagline": "Texte et image vers modèles 3D",
+   "description": "Générez des modèles 3D texturés à partir de texte ou d'images en moins d'une minute — le pipeline 3D IA le plus populaire."
+  },
+  "deepmotion": {
+   "tagline": "Capture de mouvement sans marqueurs",
+   "description": "Animez des personnages 3D depuis une vidéo ordinaire avec capture de mouvement IA — sans costume, avec exports pour Blender et Unreal."
+  },
+  "kaedim": {
+   "tagline": "Du 2D au 3D prêt pour la production",
+   "description": "Transformez concept art et photos en modèles 3D propres et prêts pour le jeu avec génération de maillage IA plus relecture humaine."
+  },
+  "tripo-ai": {
+   "tagline": "Texte et image rapides vers 3D",
+   "description": "Générez des modèles 3D texturés depuis une seule image ou un prompt en quelques secondes, avec rigging et exports pour jeux et animation."
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "crons": [
+    {
+      "path": "/api/cron/link-health",
+      "schedule": "0 4 * * 1"
+    },
+    {
+      "path": "/api/news/refresh",
+      "schedule": "17 6 * * *"
+    },
+    {
+      "path": "/api/cron/translate",
+      "schedule": "37 5 * * *"
+    }
+  ]
+}

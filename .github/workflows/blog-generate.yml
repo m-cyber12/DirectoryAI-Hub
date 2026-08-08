@@ -1,0 +1,72 @@
+name: AI Blog Generator
+
+# Idea #3 — AI blogging on autopilot. This workflow runs the generator on a
+# schedule (and on manual dispatch), commits the new auto-generated post(s)
+# into src/data/auto-posts.ts on a branch, and opens a pull request for a human
+# to review. Nothing is merged automatically — automation drafts, humans decide.
+#
+# Required repo secret: OPENAI_API_KEY (or ANTHROPIC_API_KEY).
+
+on:
+  schedule:
+    # 06:00 UTC every Monday
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Blog topic to write about'
+        required: false
+        default: 'Latest AI video editing workflows for solo creators'
+      category:
+        description: 'Blog category label'
+        required: false
+        default: 'Creator Strategy'
+      tool:
+        description: 'Featured tool slug (optional)'
+        required: false
+        default: ''
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate blog post(s)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          node scripts/generate-blog.mjs \
+            --topic "${{ github.event.inputs.topic || 'Latest AI video editing workflows for solo creators' }}" \
+            --category "${{ github.event.inputs.category || 'Creator Strategy' }}" \
+            --tool "${{ github.event.inputs.tool || '' }}" --count 1
+
+      - name: Create pull request
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto-blog-post
+          commit-message: '🤖 auto: generate blog post'
+          title: '🤖 Auto-generated blog post'
+          body: |
+            Auto-drafted by the AI Blog Generator (idea #3).
+
+            A generated article was added to `src/data/auto-posts.ts` and is now
+            live behind the hand-written posts. Please review the content for
+            accuracy before merging — the generator does not fact-check specific
+            prices or claims.
+          delete-branch: true
+          token: ${{ secrets.GITHUB_TOKEN }}

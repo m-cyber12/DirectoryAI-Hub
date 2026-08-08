@@ -1,0 +1,1688 @@
+{
+ "1080p": {
+  "label": "1080p"
+ },
+ "120+ Languages": {
+  "label": "بیش از ۱۲۰ زبان"
+ },
+ "120+ Voices": {
+  "label": "بیش از ۱۲۰ صدا"
+ },
+ "130+ Languages": {
+  "label": "بیش از ۱۳۰ زبان"
+ },
+ "13B Params": {
+  "label": "13B Params"
+ },
+ "140+ Languages": {
+  "label": "بیش از ۱۴۰ زبان"
+ },
+ "200+ Languages": {
+  "label": "بیش از ۲۰۰ زبان"
+ },
+ "250+ Styles": {
+  "label": "بیش از ۲۵۰ سبک"
+ },
+ "2500+ Voices": {
+  "label": "بیش از ۲۵۰۰ صدا"
+ },
+ "26 Languages": {
+  "label": "۲۶ زبان"
+ },
+ "28 Languages": {
+  "label": "۲۸ زبان"
+ },
+ "2D to 3D": {
+  "label": "۲بعدی به ۳بعدی"
+ },
+ "3-Min Tracks": {
+  "label": "ترک ۳ دقیقه‌ای"
+ },
+ "30+ Languages": {
+  "label": "بیش از ۳۰ زبان"
+ },
+ "30+ Platforms": {
+  "label": "بیش از ۳۰ پلتفرم"
+ },
+ "3D Animation": {
+  "label": "انیمیشن سه‌بعدی"
+ },
+ "3D Design": {
+  "label": "طراحی سه‌بعدی"
+ },
+ "3D Export": {
+  "label": "خروجی سه‌بعدی"
+ },
+ "40+ Languages": {
+  "label": "بیش از ۴۰ زبان"
+ },
+ "40+ Templates": {
+  "label": "بیش از ۴۰ قالب"
+ },
+ "400+ Integrations": {
+  "label": "بیش از ۴۰۰ یکپارچه‌سازی"
+ },
+ "4K": {
+  "label": "4K"
+ },
+ "50+ Languages": {
+  "label": "بیش از ۵۰ زبان"
+ },
+ "500+ Voices": {
+  "label": "بیش از ۵۰۰ صدا"
+ },
+ "5000+ Apps": {
+  "label": "بیش از ۵۰۰۰ اپ"
+ },
+ "60+ Languages": {
+  "label": "بیش از ۶۰ زبان"
+ },
+ "70+ Languages": {
+  "label": "بیش از ۷۰ زبان"
+ },
+ "80+ Languages": {
+  "label": "بیش از ۸۰ زبان"
+ },
+ "8K": {
+  "label": "8K"
+ },
+ "90+ Languages": {
+  "label": "بیش از ۹۰ زبان"
+ },
+ "95+ Languages": {
+  "label": "بیش از ۹۵ زبان"
+ },
+ "99% Accuracy": {
+  "label": "دقت ۹۹٪"
+ },
+ "A/B Testing": {
+  "label": "تست A/B"
+ },
+ "AI Agents": {
+  "label": "عوامل هوش مصنوعی"
+ },
+ "AI Assist": {
+  "label": "کمک هوش مصنوعی"
+ },
+ "AI Assistant": {
+  "label": "دستیار هوش مصنوعی"
+ },
+ "AI Avatars": {
+  "label": "آواتارهای هوش مصنوعی"
+ },
+ "AI Captions": {
+  "label": "زیرنویس هوش مصنوعی"
+ },
+ "AI Clipping": {
+  "label": "برش هوش مصنوعی"
+ },
+ "AI Clone": {
+  "label": "کلون هوش مصنوعی"
+ },
+ "AI Copilot": {
+  "label": "کمک‌خلبان هوش مصنوعی"
+ },
+ "AI Generated": {
+  "label": "تولیدشده با هوش مصنوعی"
+ },
+ "AI Highlights": {
+  "label": "نکات برجسته هوش مصنوعی"
+ },
+ "AI Posts": {
+  "label": "پست‌های هوش مصنوعی"
+ },
+ "AI Scenes": {
+  "label": "صحنه‌های هوش مصنوعی"
+ },
+ "AI Scripting": {
+  "label": "فیلم‌نامه‌نویسی هوش مصنوعی"
+ },
+ "AI Voice": {
+  "label": "صدای هوش مصنوعی"
+ },
+ "AI Voiceover": {
+  "label": "صداگذاری هوش مصنوعی"
+ },
+ "AI Write": {
+  "label": "نوشتن با هوش مصنوعی"
+ },
+ "API": {
+  "label": "API"
+ },
+ "ASR": {
+  "label": "ASR"
+ },
+ "Accessibility": {
+  "label": "دسترس‌پذیری"
+ },
+ "Ad Scripts": {
+  "label": "اسکریپت تبلیغات"
+ },
+ "Adobe": {
+  "label": "Adobe"
+ },
+ "Ads": {
+  "label": "تبلیغات"
+ },
+ "After Effects": {
+  "label": "After Effects"
+ },
+ "Agents": {
+  "label": "عوامل"
+ },
+ "Aggregator": {
+  "label": "تجمیع‌کننده"
+ },
+ "Alerts": {
+  "label": "هشدارها"
+ },
+ "Alibaba": {
+  "label": "Alibaba"
+ },
+ "All Platforms": {
+  "label": "همه پلتفرم‌ها"
+ },
+ "All-in-One": {
+  "label": "همه‌کاره"
+ },
+ "Ambience": {
+  "label": "فضاسازی صوتی"
+ },
+ "Analysis": {
+  "label": "تحلیل"
+ },
+ "Analytics": {
+  "label": "تحلیل"
+ },
+ "Animated Captions": {
+  "label": "زیرنویس متحرک"
+ },
+ "Animation": {
+  "label": "انیمیشن"
+ },
+ "Anime": {
+  "label": "Anime"
+ },
+ "Apple": {
+  "label": "Apple"
+ },
+ "Art": {
+  "label": "هنر"
+ },
+ "Artists": {
+  "label": "هنرمندان"
+ },
+ "Audio": {
+  "label": "صوتی"
+ },
+ "Audio Enhancement": {
+  "label": "بهبود صدا"
+ },
+ "Audio Overviews": {
+  "label": "مرور صوتی"
+ },
+ "Audio Post-Production": {
+  "label": "پس‌تولید صوتی"
+ },
+ "Audio Reactive": {
+  "label": "واکنش‌گر به صدا"
+ },
+ "Audio Sync": {
+  "label": "همگام‌سازی صدا"
+ },
+ "Audiograms": {
+  "label": "آدیوگرام"
+ },
+ "Auto B-Roll": {
+  "label": "بی‌رول خودکار"
+ },
+ "Auto Captions": {
+  "label": "زیرنویس خودکار"
+ },
+ "Auto Compositing": {
+  "label": "ترکیب خودکار"
+ },
+ "Auto Edit": {
+  "label": "ادیت خودکار"
+ },
+ "Auto Editing": {
+  "label": "ادیت خودکار"
+ },
+ "Auto Subtitles": {
+  "label": "زیرنویس خودکار"
+ },
+ "Auto Zoom": {
+  "label": "زوم خودکار"
+ },
+ "Auto-Captions": {
+  "label": "زیرنویس خودکار"
+ },
+ "Auto-Publish": {
+  "label": "انتشار خودکار"
+ },
+ "Auto-Translate": {
+  "label": "ترجمه خودکار"
+ },
+ "Autodesk": {
+  "label": "Autodesk"
+ },
+ "Automated Video": {
+  "label": "ویدیوی خودکار"
+ },
+ "Autonomous": {
+  "label": "خودمختار"
+ },
+ "Autoposing": {
+  "label": "حالت‌دهی خودکار"
+ },
+ "B2B": {
+  "label": "B2B"
+ },
+ "Background Music": {
+  "label": "موسیقی پس‌زمینه"
+ },
+ "Background Removal": {
+  "label": "حذف پس‌زمینه"
+ },
+ "Bad Takes": {
+  "label": "برداشت‌های بد"
+ },
+ "Batch": {
+  "label": "دسته‌ای"
+ },
+ "Beginner Friendly": {
+  "label": "مناسب مبتدیان"
+ },
+ "Benchmarks": {
+  "label": "بنچمارک"
+ },
+ "Best Time": {
+  "label": "بهترین زمان"
+ },
+ "Blender": {
+  "label": "Blender"
+ },
+ "Blog Posts": {
+  "label": "پست وبلاگ"
+ },
+ "Blog to Video": {
+  "label": "وبلاگ به ویدیو"
+ },
+ "Body Language": {
+  "label": "زبان بدن"
+ },
+ "Brainstorming": {
+  "label": "عصف ذهنی"
+ },
+ "Brand Styles": {
+  "label": "سبک‌های برند"
+ },
+ "Brand Templates": {
+  "label": "قالب‌های برند"
+ },
+ "Brand Voice": {
+  "label": "صدای برند"
+ },
+ "Branded Content": {
+  "label": "محتوای برنددار"
+ },
+ "Brands": {
+  "label": "برندها"
+ },
+ "Broadcast": {
+  "label": "پخش"
+ },
+ "Browser": {
+  "label": "مرورگر"
+ },
+ "Browser Editor": {
+  "label": "ویرایشگر مرورگر"
+ },
+ "Budget": {
+  "label": "بودجه"
+ },
+ "Bulk": {
+  "label": "انبوه"
+ },
+ "Bulk Processing": {
+  "label": "پردازش انبوه"
+ },
+ "Bulk Scheduling": {
+  "label": "زمان‌بندی انبوه"
+ },
+ "Bullet Time": {
+  "label": "بولت‌تایم"
+ },
+ "ByteDance": {
+  "label": "ByteDance"
+ },
+ "CG Characters": {
+  "label": "شخصیت‌های CG"
+ },
+ "CTR": {
+  "label": "نرخ کلیک"
+ },
+ "Calls": {
+  "label": "تماس‌ها"
+ },
+ "Camera Control": {
+  "label": "کنترل دوربین"
+ },
+ "Camera Direction": {
+  "label": "جهت دوربین"
+ },
+ "Camera Moves": {
+  "label": "حرکات دوربین"
+ },
+ "Canvas": {
+  "label": "بوم"
+ },
+ "Captions": {
+  "label": "زیرنویس"
+ },
+ "Carousels": {
+  "label": "کاروسل"
+ },
+ "Categories": {
+  "label": "دسته‌بندی"
+ },
+ "Celebrity Voices": {
+  "label": "صداهای سلبریتی"
+ },
+ "Chapters": {
+  "label": "فصل‌ها"
+ },
+ "Character Animation": {
+  "label": "انیمیشن شخصیت"
+ },
+ "Character Consistency": {
+  "label": "ثبات شخصیت"
+ },
+ "Character Motion": {
+  "label": "حرکت شخصیت"
+ },
+ "Characters": {
+  "label": "شخصیت‌ها"
+ },
+ "ChatGPT": {
+  "label": "ChatGPT"
+ },
+ "ChatGPT Extension": {
+  "label": "ChatGPT Extension"
+ },
+ "Chatbot": {
+  "label": "چت‌بات"
+ },
+ "Chord Detection": {
+  "label": "تشخیص آکورد"
+ },
+ "Cinematic": {
+  "label": "سینمایی"
+ },
+ "Citations": {
+  "label": "استناد"
+ },
+ "Clarity": {
+  "label": "شفافیت"
+ },
+ "Clip Farming": {
+  "label": "کلیپ‌فارمینگ"
+ },
+ "Clips": {
+  "label": "کلیپ‌ها"
+ },
+ "Code": {
+  "label": "کد"
+ },
+ "Collaboration": {
+  "label": "همکاری"
+ },
+ "Color Grading": {
+  "label": "گریدینگ رنگ"
+ },
+ "Colorize": {
+  "label": "رنگ‌آمیزی"
+ },
+ "Commercial License": {
+  "label": "مجوز تجاری"
+ },
+ "Commercially Safe": {
+  "label": "امن تجاری"
+ },
+ "Community": {
+  "label": "جامعه"
+ },
+ "Competitor Intel": {
+  "label": "اطلاعات رقبا"
+ },
+ "Competitors": {
+  "label": "رقبا"
+ },
+ "Complex Logic": {
+  "label": "منطق پیچیده"
+ },
+ "Compliance": {
+  "label": "انطباق"
+ },
+ "Consistent Characters": {
+  "label": "شخصیت‌های ثابت"
+ },
+ "Consumer GPU": {
+  "label": "GPU مصرفی"
+ },
+ "Content Calendar": {
+  "label": "تقویم محتوا"
+ },
+ "Content Repurposing": {
+  "label": "بازاستفاده محتوا"
+ },
+ "Content Score": {
+  "label": "امتیاز محتوا"
+ },
+ "Content Strategy": {
+  "label": "استراتژی محتوا"
+ },
+ "Conversational AI": {
+  "label": "هوش مصنوعی مکالمه‌ای"
+ },
+ "Copywriting": {
+  "label": "کپی‌رایتینگ"
+ },
+ "Corporate": {
+  "label": "شرکتی"
+ },
+ "Courses": {
+  "label": "دوره‌ها"
+ },
+ "Creative Cloud": {
+  "label": "Creative Cloud"
+ },
+ "Creative Writing": {
+  "label": "نویسندگی خلاق"
+ },
+ "Cross-Platform": {
+  "label": "چندپلتفرمی"
+ },
+ "Custom Clone": {
+  "label": "کلون سفارشی"
+ },
+ "Customizable": {
+  "label": "قابل سفارشی‌سازی"
+ },
+ "Customization": {
+  "label": "سفارشی‌سازی"
+ },
+ "DJs": {
+  "label": "دی‌جی‌ها"
+ },
+ "Daily Ideas": {
+  "label": "ایده‌های روزانه"
+ },
+ "Dead Air": {
+  "label": "هوای مرده"
+ },
+ "Deep Research": {
+  "label": "تحقیق عمیق"
+ },
+ "Denoise": {
+  "label": "حذف نویز"
+ },
+ "Depth Maps": {
+  "label": "نقشه عمق"
+ },
+ "Design": {
+  "label": "طراحی"
+ },
+ "Desktop & Mobile": {
+  "label": "دسکتاپ و موبایل"
+ },
+ "Desktop Editor": {
+  "label": "ویرایشگر دسکتاپ"
+ },
+ "Detail Enhancement": {
+  "label": "افزایش جزئیات"
+ },
+ "Developers": {
+  "label": "توسعه‌دهندگان"
+ },
+ "Dialog Editor": {
+  "label": "ویرایشگر دیالوگ"
+ },
+ "Digital Presenter": {
+  "label": "مجری دیجیتال"
+ },
+ "Discord": {
+  "label": "دیسکورد"
+ },
+ "Distribution": {
+  "label": "توزیع"
+ },
+ "Drag & Drop": {
+  "label": "کشیدن‌ورهاکردن"
+ },
+ "Dubbing": {
+  "label": "دوبله"
+ },
+ "E-commerce": {
+  "label": "تجارت الکترونیک"
+ },
+ "Effects": {
+  "label": "افکت‌ها"
+ },
+ "Email": {
+  "label": "ایمیل"
+ },
+ "Emojis": {
+  "label": "ایموجی"
+ },
+ "Emotion": {
+  "label": "احساس"
+ },
+ "Emotion Control": {
+  "label": "کنترل احساسات"
+ },
+ "Emotional Voices": {
+  "label": "صداهای احساسی"
+ },
+ "Enhancement": {
+  "label": "بهبود"
+ },
+ "Enterprise": {
+  "label": "سازمانی"
+ },
+ "European Languages": {
+  "label": "زبان‌های اروپایی"
+ },
+ "Evergreen": {
+  "label": "همیشه‌سبز"
+ },
+ "Everywhere": {
+  "label": "همه‌جا"
+ },
+ "Examples": {
+  "label": "نمونه‌ها"
+ },
+ "Explainer Videos": {
+  "label": "ویدیوی توضیحی"
+ },
+ "Explainers": {
+  "label": "ویدیوی توضیحی"
+ },
+ "Export XML": {
+  "label": "Export XML"
+ },
+ "Expressive": {
+  "label": "بیانگر"
+ },
+ "Extension": {
+  "label": "افزونه"
+ },
+ "Eye Contact": {
+  "label": "تماس چشمی"
+ },
+ "Face Clone": {
+  "label": "کلون چهره"
+ },
+ "Face Swap": {
+  "label": "تغییر چهره"
+ },
+ "Facecam": {
+  "label": "فیس‌کم"
+ },
+ "Faceless": {
+  "label": "بدون چهره"
+ },
+ "Faceless Shorts": {
+  "label": "شورت بدون چهره"
+ },
+ "Faceless Video": {
+  "label": "ویدیوی بدون چهره"
+ },
+ "Fact-Check": {
+  "label": "بررسی واقعیت"
+ },
+ "Fast": {
+  "label": "سریع"
+ },
+ "Fiction": {
+  "label": "داستان"
+ },
+ "Filler Removal": {
+  "label": "حذف کلمات اضافی"
+ },
+ "Filmmakers": {
+  "label": "فیلم‌سازان"
+ },
+ "Filmmaking": {
+  "label": "فیلم‌سازی"
+ },
+ "Fine-Tuned Models": {
+  "label": "مدل‌های فاین‌تیون‌شده"
+ },
+ "Foley": {
+  "label": "فولی"
+ },
+ "Frame Interpolation": {
+  "label": "اینترپولیشن فریم"
+ },
+ "Free": {
+  "label": "رایگان"
+ },
+ "Free Editor": {
+  "label": "ویرایشگر رایگان"
+ },
+ "Free Tier": {
+  "label": "پلن رایگان"
+ },
+ "Free Tool": {
+  "label": "ابزار رایگان"
+ },
+ "GDPR": {
+  "label": "GDPR"
+ },
+ "GIFs": {
+  "label": "گیف"
+ },
+ "GPT": {
+  "label": "GPT"
+ },
+ "Game Art": {
+  "label": "هنر بازی"
+ },
+ "Game Assets": {
+  "label": "دارایی بازی"
+ },
+ "Gameplay BG": {
+  "label": "پس‌زمینه گیم‌پلی"
+ },
+ "Gaming": {
+  "label": "گیمینگ"
+ },
+ "Gen-3 Alpha": {
+  "label": "Gen-3 Alpha"
+ },
+ "Generative": {
+  "label": "تولیدی"
+ },
+ "Generative Fill": {
+  "label": "پر کردن مولد"
+ },
+ "Google": {
+  "label": "Google"
+ },
+ "Grammar": {
+  "label": "گرامر"
+ },
+ "Grounded": {
+  "label": "مبتنی بر منبع"
+ },
+ "Guests": {
+  "label": "مهمان‌ها"
+ },
+ "HD": {
+  "label": "HD"
+ },
+ "HDR": {
+  "label": "HDR"
+ },
+ "Headlines": {
+  "label": "تیترها"
+ },
+ "Headshots": {
+  "label": "هدشات"
+ },
+ "Hi-Fi": {
+  "label": "های‌فای"
+ },
+ "Highlights": {
+  "label": "نکات برجسته"
+ },
+ "Hollywood": {
+  "label": "هالیوود"
+ },
+ "Hooks": {
+  "label": "قلاب‌ها"
+ },
+ "Human Option": {
+  "label": "گزینه انسانی"
+ },
+ "Human QA": {
+  "label": "بازبینی انسانی"
+ },
+ "Humanize": {
+  "label": "انسانی‌سازی"
+ },
+ "Ideation": {
+  "label": "ایده‌پردازی"
+ },
+ "Image + Audio": {
+  "label": "تصویر + صدا"
+ },
+ "Image Gen": {
+  "label": "تولید تصویر"
+ },
+ "Image Generation": {
+  "label": "تولید تصویر"
+ },
+ "Image to 3D": {
+  "label": "تصویر به سه‌بعدی"
+ },
+ "Image to Video": {
+  "label": "تصویر به ویدیو"
+ },
+ "Immersive": {
+  "label": "غوطه‌ورکننده"
+ },
+ "Industry Standard": {
+  "label": "استاندارد صنعت"
+ },
+ "Inpainting": {
+  "label": "این‌پینتینگ"
+ },
+ "Instrumental": {
+  "label": "اینسترومنتال"
+ },
+ "Integrations": {
+  "label": "یکپارچه‌سازی‌ها"
+ },
+ "Interactive": {
+  "label": "تعاملی"
+ },
+ "Interviews": {
+  "label": "مصاحبه‌ها"
+ },
+ "Jump Cuts": {
+  "label": "جامپ‌کات"
+ },
+ "Keyframes": {
+  "label": "کی‌فریم"
+ },
+ "Keywords": {
+  "label": "کلمات کلیدی"
+ },
+ "Kick": {
+  "label": "کیک"
+ },
+ "Legal": {
+  "label": "حقوقی"
+ },
+ "Leveler": {
+  "label": "لولر"
+ },
+ "Licensed Data": {
+  "label": "داده مجاز"
+ },
+ "LinkedIn": {
+  "label": "LinkedIn"
+ },
+ "Lip Sync": {
+  "label": "همگام‌سازی لب"
+ },
+ "Live Avatars": {
+  "label": "آواتار زنده"
+ },
+ "Live Camera": {
+  "label": "دوربین زنده"
+ },
+ "Live Sports": {
+  "label": "ورزش زنده"
+ },
+ "Live Web": {
+  "label": "وب زنده"
+ },
+ "Local": {
+  "label": "محلی"
+ },
+ "Local AI": {
+  "label": "هوش مصنوعی محلی"
+ },
+ "Localization": {
+  "label": "بومی‌سازی"
+ },
+ "Logos": {
+  "label": "لوگو"
+ },
+ "Long Clips": {
+  "label": "کلیپ بلند"
+ },
+ "Long Context": {
+  "label": "زمینه طولانی"
+ },
+ "Loudness": {
+  "label": "بلندی صدا"
+ },
+ "Low Latency": {
+  "label": "تأخیر کم"
+ },
+ "Lyrics": {
+  "label": "متن آهنگ"
+ },
+ "MIDI Export": {
+  "label": "خروجی MIDI"
+ },
+ "Mac": {
+  "label": "مک"
+ },
+ "Magic Clips": {
+  "label": "کلیپ‌های جادویی"
+ },
+ "Magnetic Timeline": {
+  "label": "تایم‌لاین مغناطیسی"
+ },
+ "Markerless": {
+  "label": "بدون مارکر"
+ },
+ "Marketing": {
+  "label": "بازاریابی"
+ },
+ "Meetings": {
+  "label": "جلسات"
+ },
+ "Memes": {
+  "label": "میم"
+ },
+ "Mesh Generation": {
+  "label": "تولید مش"
+ },
+ "Metadata": {
+  "label": "متادیتا"
+ },
+ "Micro Video": {
+  "label": "ویدیوی خرد"
+ },
+ "Microsoft": {
+  "label": "Microsoft"
+ },
+ "Midjourney": {
+  "label": "Midjourney"
+ },
+ "MiniMax": {
+  "label": "MiniMax"
+ },
+ "Mobile": {
+  "label": "موبایل"
+ },
+ "Mocap Suits": {
+  "label": "لباس موشن‌کپچر"
+ },
+ "Mochi": {
+  "label": "Mochi"
+ },
+ "Mockups": {
+  "label": "ماکاپ"
+ },
+ "Montages": {
+  "label": "مونتاژ"
+ },
+ "Mood Arc": {
+  "label": "قوس احساسی"
+ },
+ "Mood Based": {
+  "label": "مبتنی بر حال‌وهوا"
+ },
+ "Motion Capture": {
+  "label": "ضبط حرکت"
+ },
+ "Motion Mix": {
+  "label": "ترکیب حرکت"
+ },
+ "Motion Quality": {
+  "label": "کیفیت حرکت"
+ },
+ "Motion Tracking": {
+  "label": "ردیابی حرکت"
+ },
+ "Mouth Sounds": {
+  "label": "صدای دهان"
+ },
+ "MrBeast": {
+  "label": "MrBeast"
+ },
+ "Multi-Cam": {
+  "label": "چنددوربینه"
+ },
+ "Multi-Model": {
+  "label": "چندمدلی"
+ },
+ "Multi-Shot": {
+  "label": "چندشات"
+ },
+ "Multi-Speaker": {
+  "label": "چندگوینده"
+ },
+ "Multilingual": {
+  "label": "چندزبانه"
+ },
+ "Multimodal": {
+  "label": "چندوجهی"
+ },
+ "Multistream": {
+  "label": "بث چندگانه"
+ },
+ "Music Ducking": {
+  "label": "کاهش خودکار موسیقی"
+ },
+ "Music Generation": {
+  "label": "تولید موسیقی"
+ },
+ "Music Videos": {
+  "label": "موزیک‌ویدیو"
+ },
+ "Music Vocals": {
+  "label": "وکال موسیقی"
+ },
+ "Narrative": {
+  "label": "روایی"
+ },
+ "Native Audio": {
+  "label": "صدای بومی"
+ },
+ "Newsrooms": {
+  "label": "خبرگزاری‌ها"
+ },
+ "Niche Research": {
+  "label": "تحقیق نیچ"
+ },
+ "No Green Screen": {
+  "label": "بدون گرین‌اسکرین"
+ },
+ "No Suit": {
+  "label": "بدون لباس"
+ },
+ "No-Code": {
+  "label": "بدون کد"
+ },
+ "Noise Cancellation": {
+  "label": "حذف نویز"
+ },
+ "Noise Removal": {
+  "label": "حذف نویز"
+ },
+ "Non-Designer": {
+  "label": "غیرطراح"
+ },
+ "Nova-3": {
+  "label": "Nova-3"
+ },
+ "OBS": {
+  "label": "OBS"
+ },
+ "Object Detection": {
+  "label": "تشخیص اشیا"
+ },
+ "Offline": {
+  "label": "آفلاین"
+ },
+ "One Click": {
+  "label": "یک کلیک"
+ },
+ "One-Time": {
+  "label": "یک‌باره"
+ },
+ "Online Editor": {
+  "label": "ویرایشگر آنلاین"
+ },
+ "Open Model": {
+  "label": "مدل باز"
+ },
+ "Open Source": {
+  "label": "متن‌باز"
+ },
+ "OpenAI": {
+  "label": "OpenAI"
+ },
+ "Optimization": {
+  "label": "بهینه‌سازی"
+ },
+ "Orchestral": {
+  "label": "ارکسترال"
+ },
+ "Organize": {
+  "label": "سازماندهی"
+ },
+ "Outliers": {
+  "label": "اوتلایر"
+ },
+ "Outlines": {
+  "label": "خطوط کلی"
+ },
+ "Outreach": {
+  "label": "دسترسی"
+ },
+ "Overdub": {
+  "label": "بازدوبله"
+ },
+ "Overlays": {
+  "label": "اورلی"
+ },
+ "PPT to Video": {
+  "label": "PPT to Video"
+ },
+ "Packaging": {
+  "label": "بسته‌بندی"
+ },
+ "Parallax": {
+  "label": "Parallax"
+ },
+ "Paraphrasing": {
+  "label": "بازنویسی"
+ },
+ "Personalization": {
+  "label": "شخصی‌سازی"
+ },
+ "Personas": {
+  "label": "پرسونا"
+ },
+ "Phone Video": {
+  "label": "Phone Video"
+ },
+ "Photo Editing": {
+  "label": "Photo Editing"
+ },
+ "Photorealism": {
+  "label": "Photorealism"
+ },
+ "Photoshop": {
+  "label": "Photoshop"
+ },
+ "Physics": {
+  "label": "Physics"
+ },
+ "Pipelines": {
+  "label": "Pipelines"
+ },
+ "Pitch Control": {
+  "label": "Pitch Control"
+ },
+ "Pitch Decks": {
+  "label": "Pitch Decks"
+ },
+ "Pitch Shift": {
+  "label": "Pitch Shift"
+ },
+ "Plot": {
+  "label": "Plot"
+ },
+ "Podcast": {
+  "label": "Podcast"
+ },
+ "Podcast Clipping": {
+  "label": "برش پادکست"
+ },
+ "Podcast Editing": {
+  "label": "ادیت پادکست"
+ },
+ "Podcasting": {
+  "label": "Podcasting"
+ },
+ "Podcasts": {
+  "label": "پادکست"
+ },
+ "Posters": {
+  "label": "Posters"
+ },
+ "Practice": {
+  "label": "Practice"
+ },
+ "Premiere Pro": {
+  "label": "Premiere Pro"
+ },
+ "Presets": {
+  "label": "Presets"
+ },
+ "Privacy": {
+  "label": "حریم خصوصی"
+ },
+ "Pro": {
+  "label": "حرفه‌ای"
+ },
+ "Pro Camera": {
+  "label": "Pro Camera"
+ },
+ "ProRes": {
+  "label": "ProRes"
+ },
+ "Product Photos": {
+  "label": "Product Photos"
+ },
+ "Professional": {
+  "label": "Professional"
+ },
+ "Prompt Adherence": {
+  "label": "Prompt Adherence"
+ },
+ "Prompt Library": {
+  "label": "کتابخانه پرامپت"
+ },
+ "Prompt Marketplace": {
+  "label": "Prompt Marketplace"
+ },
+ "Prompts": {
+  "label": "پرامپت"
+ },
+ "Pronunciation": {
+  "label": "تلفظ"
+ },
+ "Public Stats": {
+  "label": "آمار عمومی"
+ },
+ "Publishing": {
+  "label": "انتشار"
+ },
+ "Punch-In": {
+  "label": "پانچ‌این"
+ },
+ "QA": {
+  "label": "بازبینی کیفیت"
+ },
+ "QA Review": {
+  "label": "بازبینی کیفیت"
+ },
+ "Questions": {
+  "label": "سوالات"
+ },
+ "Quick Design": {
+  "label": "طراحی سریع"
+ },
+ "Rank Tracker": {
+  "label": "ردیاب رتبه"
+ },
+ "Real-time": {
+  "label": "بلادرنگ"
+ },
+ "Real-time Trends": {
+  "label": "روند بلادرنگ"
+ },
+ "Realism": {
+  "label": "واقع‌گرایی"
+ },
+ "Realistic Avatars": {
+  "label": "آواتار واقع‌گرایانه"
+ },
+ "Realistic Motion": {
+  "label": "حرکت واقع‌گرایانه"
+ },
+ "Reasoning": {
+  "label": "استدلال"
+ },
+ "Recommendations": {
+  "label": "توصیه‌ها"
+ },
+ "Recording": {
+  "label": "ضبط"
+ },
+ "Recycling": {
+  "label": "بازیافت"
+ },
+ "Redub": {
+  "label": "دوبله مجدد"
+ },
+ "Reels": {
+  "label": "ریل"
+ },
+ "Reference to Video": {
+  "label": "مرجع به ویدیو"
+ },
+ "Reimagine": {
+  "label": "بازتصور"
+ },
+ "Remixing": {
+  "label": "ریمیکس"
+ },
+ "Remote Recording": {
+  "label": "ضبط از راه دور"
+ },
+ "Repurposing": {
+  "label": "بازاستفاده"
+ },
+ "Research": {
+  "label": "تحقیق"
+ },
+ "Resize": {
+  "label": "تغییر اندازه"
+ },
+ "Retention": {
+  "label": "حفظ مخاطب"
+ },
+ "Rewrite": {
+  "label": "بازنویسی"
+ },
+ "Rewriting": {
+  "label": "بازنویسی"
+ },
+ "Rigging": {
+  "label": "ریگینگ"
+ },
+ "Rough Cut": {
+  "label": "خشن‌برش"
+ },
+ "Royalty-Free": {
+  "label": "بدون حق امتیاز"
+ },
+ "SEO": {
+  "label": "سئو"
+ },
+ "SEO Briefs": {
+  "label": "بریف سئو"
+ },
+ "SEO Content": {
+  "label": "محتوا سئو"
+ },
+ "SEO Research": {
+  "label": "تحقیق سئو"
+ },
+ "SERP": {
+  "label": "SERP"
+ },
+ "SRT": {
+  "label": "SRT"
+ },
+ "Sales": {
+  "label": "فروش"
+ },
+ "Sales Videos": {
+  "label": "ویدیوی فروش"
+ },
+ "Scale": {
+  "label": "مقیاس"
+ },
+ "Scenarios": {
+  "label": "سناریوها"
+ },
+ "Scenes": {
+  "label": "صحنه‌ها"
+ },
+ "Scheduling": {
+  "label": "زمان‌بندی"
+ },
+ "Scoring": {
+  "label": "امتیازدهی"
+ },
+ "Scraping": {
+  "label": "اسکرپینگ"
+ },
+ "Screen Recording": {
+  "label": "ضبط صفحه"
+ },
+ "Script Writing": {
+  "label": "نوشتن فیلم‌نامه"
+ },
+ "Self-Hosted": {
+  "label": "خودمیزبان"
+ },
+ "Sentiment": {
+  "label": "احساسات"
+ },
+ "Shorten": {
+  "label": "کوتاه‌کردن"
+ },
+ "Shorts": {
+  "label": "شورت"
+ },
+ "Show Notes": {
+  "label": "یادداشت برنامه"
+ },
+ "Silence Removal": {
+  "label": "حذف سکوت"
+ },
+ "Simple": {
+  "label": "ساده"
+ },
+ "Singing": {
+  "label": "خوانندگی"
+ },
+ "Sky Replacement": {
+  "label": "جایگزینی آسمان"
+ },
+ "Smart Cut": {
+  "label": "برش هوشمند"
+ },
+ "Social": {
+  "label": "اجتماعی"
+ },
+ "Social Content": {
+  "label": "محتوا اجتماعی"
+ },
+ "Social Copy": {
+  "label": "متن اجتماعی"
+ },
+ "Social Posts": {
+  "label": "پست اجتماعی"
+ },
+ "Song Generation": {
+  "label": "تولید آهنگ"
+ },
+ "Sound Effects": {
+  "label": "افکت صوتی"
+ },
+ "Soundboard": {
+  "label": "ساندبورد"
+ },
+ "Soundtracks": {
+  "label": "ساندترک"
+ },
+ "Sources": {
+  "label": "منابع"
+ },
+ "Speaker ID": {
+  "label": "شناسایی گوینده"
+ },
+ "Speed": {
+  "label": "سرعت"
+ },
+ "Stable Diffusion": {
+  "label": "Stable Diffusion"
+ },
+ "Stem Splitting": {
+  "label": "جداسازی استم"
+ },
+ "Stems": {
+  "label": "استم"
+ },
+ "Stock Avatars": {
+  "label": "آواتار استوک"
+ },
+ "Stock Library": {
+  "label": "کتابخانه استوک"
+ },
+ "Stock Photos": {
+  "label": "عکس استوک"
+ },
+ "Story": {
+  "label": "داستان"
+ },
+ "Story Shorts": {
+  "label": "شورت داستانی"
+ },
+ "Storyboard": {
+  "label": "استوری‌بورد"
+ },
+ "Storytelling": {
+  "label": "داستان‌سرایی"
+ },
+ "Strategy": {
+  "label": "استراتژی"
+ },
+ "Stream Clips": {
+  "label": "کلیپ استریم"
+ },
+ "Streaming": {
+  "label": "استریم"
+ },
+ "Streams": {
+  "label": "استریم‌ها"
+ },
+ "Studio": {
+  "label": "استودیو"
+ },
+ "Studio Sound": {
+  "label": "صدای استودیویی"
+ },
+ "Studio Speech": {
+  "label": "گفتار استودیویی"
+ },
+ "Style Consistency": {
+  "label": "ثبات سبک"
+ },
+ "Style Transfer": {
+  "label": "انتقال سبک"
+ },
+ "Styles": {
+  "label": "سبک‌ها"
+ },
+ "Stylized Video": {
+  "label": "ویدیوی منمق"
+ },
+ "Subtitle Editor": {
+  "label": "ویرایشگر زیرنویس"
+ },
+ "Subtitles": {
+  "label": "زیرنویس"
+ },
+ "Summaries": {
+  "label": "خلاصه‌ها"
+ },
+ "Summarize": {
+  "label": "خلاصه‌سازی"
+ },
+ "Summarizer": {
+  "label": "خلاصه‌کننده"
+ },
+ "Support": {
+  "label": "پشتیبانی"
+ },
+ "Sync": {
+  "label": "همگام‌سازی"
+ },
+ "TTS Arena": {
+  "label": "TTS Arena"
+ },
+ "Tags": {
+  "label": "تگ‌ها"
+ },
+ "Talking Avatar": {
+  "label": "آواتار سخنگو"
+ },
+ "Talking Characters": {
+  "label": "شخصیت‌های سخنگو"
+ },
+ "Talking Photos": {
+  "label": "عکس‌های سخنگو"
+ },
+ "Teams": {
+  "label": "تیم‌ها"
+ },
+ "Templates": {
+  "label": "قالب‌ها"
+ },
+ "Text Editing": {
+  "label": "ویرایش متن"
+ },
+ "Text Rendering": {
+  "label": "رندر متن"
+ },
+ "Text to 3D": {
+  "label": "متن به سه‌بعدی"
+ },
+ "Text to Audio": {
+  "label": "متن به صدا"
+ },
+ "Text to Music": {
+  "label": "متن به موسیقی"
+ },
+ "Text to SFX": {
+  "label": "متن به افکت صوتی"
+ },
+ "Text to Speech": {
+  "label": "متن به گفتار"
+ },
+ "Text to Video": {
+  "label": "متن به ویدیو"
+ },
+ "Text-Based Editing": {
+  "label": "ادیت مبتنی بر متن"
+ },
+ "Textures": {
+  "label": "بافت‌ها"
+ },
+ "Thumbnail Search": {
+  "label": "جستجوی تامبنیل"
+ },
+ "Thumbnails": {
+  "label": "تامبنیل"
+ },
+ "TikTok": {
+  "label": "TikTok"
+ },
+ "TikTok Editor": {
+  "label": "ویرایشگر تیک‌تاک"
+ },
+ "TikTok Effects": {
+  "label": "افکت تیک‌تاک"
+ },
+ "Timeline": {
+  "label": "تایم‌لاین"
+ },
+ "Tips": {
+  "label": "نکات"
+ },
+ "Titles": {
+  "label": "عنوان‌ها"
+ },
+ "Tone": {
+  "label": "لحن"
+ },
+ "Tone Control": {
+  "label": "کنترل لحن"
+ },
+ "Topic Research": {
+  "label": "تحقیق موضوع"
+ },
+ "Training": {
+  "label": "آموزش"
+ },
+ "Training Videos": {
+  "label": "ویدیوی آموزشی"
+ },
+ "Transcription": {
+  "label": "رونویسی"
+ },
+ "Translation": {
+  "label": "ترجمه"
+ },
+ "Trend Analysis": {
+  "label": "تحلیل روند"
+ },
+ "Trend Discovery": {
+  "label": "کشف روند"
+ },
+ "Twitch": {
+  "label": "Twitch"
+ },
+ "Universal-2": {
+  "label": "Universal-2"
+ },
+ "Upscale": {
+  "label": "ارتقای کیفیت"
+ },
+ "Upscaling": {
+  "label": "ارتقای کیفیت"
+ },
+ "V7": {
+  "label": "V7"
+ },
+ "VFX": {
+  "label": "VFX"
+ },
+ "Vector Art": {
+  "label": "وکتور آرت"
+ },
+ "Vectors": {
+  "label": "وکتور"
+ },
+ "Verified": {
+  "label": "تأییدشده"
+ },
+ "Vertical Crop": {
+  "label": "برش عمودی"
+ },
+ "Video Dubbing": {
+  "label": "دوبله ویدیو"
+ },
+ "Video Hooks": {
+  "label": "قلاب ویدیو"
+ },
+ "Video Match": {
+  "label": "تطبیق ویدیو"
+ },
+ "Video Scripts": {
+  "label": "اسکریپت ویدیو"
+ },
+ "Video to 3D": {
+  "label": "ویدیو به سه‌بعدی"
+ },
+ "Video to Animation": {
+  "label": "ویدیو به انیمیشن"
+ },
+ "Video to Anime": {
+  "label": "ویدیو به انیمه"
+ },
+ "Video to Video": {
+  "label": "ویدیو به ویدیو"
+ },
+ "Viral Data": {
+  "label": "داده وایرال"
+ },
+ "Viral Shorts": {
+  "label": "شورت وایرال"
+ },
+ "Virality Score": {
+  "label": "امتیاز ویروسی‌بودن"
+ },
+ "Visual Builder": {
+  "label": "سازنده بصری"
+ },
+ "Vocal Removal": {
+  "label": "حذف وکال"
+ },
+ "Vocals": {
+  "label": "وکال"
+ },
+ "Voice Changer": {
+  "label": "تغییردهنده صدا"
+ },
+ "Voice Clone": {
+  "label": "کلون صدا"
+ },
+ "Voice Cloning": {
+  "label": "شبیه‌سازی صدا"
+ },
+ "Voice Models": {
+  "label": "مدل‌های صدا"
+ },
+ "Waveforms": {
+  "label": "شکل موج"
+ },
+ "Web Embed": {
+  "label": "جاسازی وب"
+ },
+ "Web-based": {
+  "label": "مبتنی بر وب"
+ },
+ "Webinar Clipper": {
+  "label": "برش وبینار"
+ },
+ "Webinars": {
+  "label": "وبینار"
+ },
+ "Workflows": {
+  "label": "گردش کار"
+ },
+ "Workspace": {
+  "label": "فضای کاری"
+ },
+ "X Data": {
+  "label": "داده X"
+ },
+ "YouTube": {
+  "label": "YouTube"
+ },
+ "YouTube Art": {
+  "label": "هنر یوتیوب"
+ },
+ "YouTube Automation": {
+  "label": "اتوماسیون یوتیوب"
+ },
+ "YouTube SEO": {
+  "label": "سئوی یوتیوب"
+ },
+ "YouTube Scripts": {
+  "label": "اسکریپت یوتیوب"
+ },
+ "YouTube Thumbnails": {
+  "label": "تامبنیل یوتیوب"
+ },
+ "YouTube to TikTok": {
+  "label": "یوتیوب به تیک‌تاک"
+ }
+}
